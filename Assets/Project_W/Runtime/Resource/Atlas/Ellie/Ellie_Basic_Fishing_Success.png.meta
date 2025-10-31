@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: c5153a2268cd84b46b9696baffe1fbec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1163053948158379457
+    second: Ellie_Basic_Fishing_Success_0
+  - first:
+      213: -9216534145575393410
+    second: Ellie_Basic_Fishing_Success_1
+  - first:
+      213: 8751196369113585118
+    second: Ellie_Basic_Fishing_Success_2
+  - first:
+      213: -794715021220691834
+    second: Ellie_Basic_Fishing_Success_3
+  - first:
+      213: 3679234712802613097
+    second: Ellie_Basic_Fishing_Success_4
+  - first:
+      213: 6728792150977024989
+    second: Ellie_Basic_Fishing_Success_5
+  - first:
+      213: -4007727270587296435
+    second: Ellie_Basic_Fishing_Success_6
+  - first:
+      213: 7658680334357515017
+    second: Ellie_Basic_Fishing_Success_7
+  - first:
+      213: -5351544483692480475
+    second: Ellie_Basic_Fishing_Success_8
+  - first:
+      213: 1222339071561718473
+    second: Ellie_Basic_Fishing_Success_9
+  - first:
+      213: 7525387768537493382
+    second: Ellie_Basic_Fishing_Success_10
+  - first:
+      213: -1796082846073115563
+    second: Ellie_Basic_Fishing_Success_11
+  - first:
+      213: 7281248501845305891
+    second: Ellie_Basic_Fishing_Success_12
+  - first:
+      213: 907617677684985468
+    second: Ellie_Basic_Fishing_Success_13
+  - first:
+      213: -7613257097609579194
+    second: Ellie_Basic_Fishing_Success_14
+  - first:
+      213: 2317168465265737472
+    second: Ellie_Basic_Fishing_Success_15
+  - first:
+      213: -4818526582016299116
+    second: Ellie_Basic_Fishing_Success_16
+  - first:
+      213: -7241292037742759527
+    second: Ellie_Basic_Fishing_Success_17
+  - first:
+      213: 3357658684414753061
+    second: Ellie_Basic_Fishing_Success_18
+  - first:
+      213: -8298419617580237333
+    second: Ellie_Basic_Fishing_Success_19
+  - first:
+      213: 8852261629191770802
+    second: Ellie_Basic_Fishing_Success_20
+  - first:
+      213: -7189655488750743405
+    second: Ellie_Basic_Fishing_Success_21
+  - first:
+      213: 3221796777440297677
+    second: Ellie_Basic_Fishing_Success_22
+  - first:
+      213: 1316325732179607802
+    second: Ellie_Basic_Fishing_Success_23
+  - first:
+      213: 3526277681110770958
+    second: Ellie_Basic_Fishing_Success_24
+  - first:
+      213: -2126637074242312797
+    second: Ellie_Basic_Fishing_Success_25
+  - first:
+      213: 2463631354198071034
+    second: Ellie_Basic_Fishing_Success_26
+  - first:
+      213: -7290038232722695329
+    second: Ellie_Basic_Fishing_Success_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_Success_0
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1038
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5889a576ff32010800000000000000
+      internalID: 1163053948158379457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_Success_1
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1038
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7768b0a60b481080800000000000000
+      internalID: -9216534145575393410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_Success_2
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1039
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed514bc5bbe727970800000000000000
+      internalID: 8751196369113585118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_Success_3
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1039
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680497616ea98f4f0800000000000000
+      internalID: -794715021220691834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_Success_4
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1039
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967d2e55a744f0330800000000000000
+      internalID: 3679234712802613097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_Success_5
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1039
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd31c668fc8716d50800000000000000
+      internalID: 6728792150977024989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_Success_6
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 879
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d459ffff741b168c0800000000000000
+      internalID: -4007727270587296435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_Success_7
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 879
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b46a9cf29194a60800000000000000
+      internalID: 7658680334357515017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_Success_8
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 879
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528fec155ae7bb5b0800000000000000
+      internalID: -5351544483692480475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_Success_9
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 879
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca548bc8ee96f010800000000000000
+      internalID: 1222339071561718473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_Success_10
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 879
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f2fb4ed4c8f6860800000000000000
+      internalID: 7525387768537493382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_Success_11
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 879
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ca3a4ea280317e0800000000000000
+      internalID: -1796082846073115563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_Success_12
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 879
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32aa5d94fe03c0560800000000000000
+      internalID: 7281248501845305891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_Success_13
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 719
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e47461871889c00800000000000000
+      internalID: 907617677684985468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_Success_14
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 719
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6457249a107485690800000000000000
+      internalID: -7613257097609579194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_Success_15
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 719
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00fb6e8317c382020800000000000000
+      internalID: 2317168465265737472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_Success_16
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 719
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f24227a97212db0800000000000000
+      internalID: -4818526582016299116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_Success_17
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 719
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9917a77f143c18b90800000000000000
+      internalID: -7241292037742759527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_Success_18
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 719
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529fb89a8ccc89e20800000000000000
+      internalID: 3357658684414753061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_Success_19
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 719
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed3ff0235716dc80800000000000000
+      internalID: -8298419617580237333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_Success_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 559
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2dbcaec0d89da70800000000000000
+      internalID: 8852261629191770802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_Success_21
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 268
+        width: 28
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3901397ec66393c90800000000000000
+      internalID: -7189655488750743405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_Success_22
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 102
+        width: 333
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2c3d9691f16bc20800000000000000
+      internalID: 3221796777440297677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_Success_23
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 420
+        width: 28
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0854b7747844210800000000000000
+      internalID: 1316325732179607802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_Success_24
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 101
+        width: 27
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05eef13edadfe030800000000000000
+      internalID: 3526277681110770958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_Success_25
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 262
+        width: 29
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a56c9f29daac72e0800000000000000
+      internalID: -2126637074242312797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_Success_26
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 102
+        width: 319
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af69d7ce9a3903220800000000000000
+      internalID: 2463631354198071034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_Success_27
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 426
+        width: 28
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b1c830ad494da90800000000000000
+      internalID: -7290038232722695329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ellie_Basic_Fishing_Success_0: 1163053948158379457
+      Ellie_Basic_Fishing_Success_1: -9216534145575393410
+      Ellie_Basic_Fishing_Success_10: 7525387768537493382
+      Ellie_Basic_Fishing_Success_11: -1796082846073115563
+      Ellie_Basic_Fishing_Success_12: 7281248501845305891
+      Ellie_Basic_Fishing_Success_13: 907617677684985468
+      Ellie_Basic_Fishing_Success_14: -7613257097609579194
+      Ellie_Basic_Fishing_Success_15: 2317168465265737472
+      Ellie_Basic_Fishing_Success_16: -4818526582016299116
+      Ellie_Basic_Fishing_Success_17: -7241292037742759527
+      Ellie_Basic_Fishing_Success_18: 3357658684414753061
+      Ellie_Basic_Fishing_Success_19: -8298419617580237333
+      Ellie_Basic_Fishing_Success_2: 8751196369113585118
+      Ellie_Basic_Fishing_Success_20: 8852261629191770802
+      Ellie_Basic_Fishing_Success_21: -7189655488750743405
+      Ellie_Basic_Fishing_Success_22: 3221796777440297677
+      Ellie_Basic_Fishing_Success_23: 1316325732179607802
+      Ellie_Basic_Fishing_Success_24: 3526277681110770958
+      Ellie_Basic_Fishing_Success_25: -2126637074242312797
+      Ellie_Basic_Fishing_Success_26: 2463631354198071034
+      Ellie_Basic_Fishing_Success_27: -7290038232722695329
+      Ellie_Basic_Fishing_Success_3: -794715021220691834
+      Ellie_Basic_Fishing_Success_4: 3679234712802613097
+      Ellie_Basic_Fishing_Success_5: 6728792150977024989
+      Ellie_Basic_Fishing_Success_6: -4007727270587296435
+      Ellie_Basic_Fishing_Success_7: 7658680334357515017
+      Ellie_Basic_Fishing_Success_8: -5351544483692480475
+      Ellie_Basic_Fishing_Success_9: 1222339071561718473
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

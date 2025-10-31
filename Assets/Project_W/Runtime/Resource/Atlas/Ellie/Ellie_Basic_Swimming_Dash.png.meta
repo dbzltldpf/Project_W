@@ -1,0 +1,3263 @@
+fileFormatVersion: 2
+guid: 959b416788088a94bb58610281b3eacc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6292418944385660065
+    second: Ellie_Basic_Swimming_Dash_0
+  - first:
+      213: 5007229726111793474
+    second: Ellie_Basic_Swimming_Dash_1
+  - first:
+      213: -4680038528013110939
+    second: Ellie_Basic_Swimming_Dash_2
+  - first:
+      213: -5681119730647237589
+    second: Ellie_Basic_Swimming_Dash_3
+  - first:
+      213: 2052820547469578707
+    second: Ellie_Basic_Swimming_Dash_4
+  - first:
+      213: -8871164429888400307
+    second: Ellie_Basic_Swimming_Dash_5
+  - first:
+      213: -5774043243140535952
+    second: Ellie_Basic_Swimming_Dash_6
+  - first:
+      213: -2657268077366090272
+    second: Ellie_Basic_Swimming_Dash_7
+  - first:
+      213: 5247749795504438451
+    second: Ellie_Basic_Swimming_Dash_8
+  - first:
+      213: 2092691787659666744
+    second: Ellie_Basic_Swimming_Dash_9
+  - first:
+      213: 3305684110462839471
+    second: Ellie_Basic_Swimming_Dash_10
+  - first:
+      213: 2357466021766958961
+    second: Ellie_Basic_Swimming_Dash_11
+  - first:
+      213: 8829203358905529736
+    second: Ellie_Basic_Swimming_Dash_12
+  - first:
+      213: -6761319553518534920
+    second: Ellie_Basic_Swimming_Dash_13
+  - first:
+      213: 841129868344726382
+    second: Ellie_Basic_Swimming_Dash_14
+  - first:
+      213: -2530046830014004535
+    second: Ellie_Basic_Swimming_Dash_15
+  - first:
+      213: 7052112494036625810
+    second: Ellie_Basic_Swimming_Dash_16
+  - first:
+      213: -2324333505220695725
+    second: Ellie_Basic_Swimming_Dash_17
+  - first:
+      213: -4770518198205439879
+    second: Ellie_Basic_Swimming_Dash_18
+  - first:
+      213: -5652305287478904540
+    second: Ellie_Basic_Swimming_Dash_19
+  - first:
+      213: 2738875499077930412
+    second: Ellie_Basic_Swimming_Dash_20
+  - first:
+      213: -4218411883621935798
+    second: Ellie_Basic_Swimming_Dash_21
+  - first:
+      213: -7488349103329833619
+    second: Ellie_Basic_Swimming_Dash_22
+  - first:
+      213: -8900302063573623045
+    second: Ellie_Basic_Swimming_Dash_23
+  - first:
+      213: -3491136574532488548
+    second: Ellie_Basic_Swimming_Dash_24
+  - first:
+      213: -1211445167369303470
+    second: Ellie_Basic_Swimming_Dash_25
+  - first:
+      213: -6627191498798738987
+    second: Ellie_Basic_Swimming_Dash_26
+  - first:
+      213: -7455547593988431589
+    second: Ellie_Basic_Swimming_Dash_27
+  - first:
+      213: -1600513729035766937
+    second: Ellie_Basic_Swimming_Dash_28
+  - first:
+      213: -1186679734112353802
+    second: Ellie_Basic_Swimming_Dash_29
+  - first:
+      213: -8984145957005856647
+    second: Ellie_Basic_Swimming_Dash_30
+  - first:
+      213: 4870169881748049666
+    second: Ellie_Basic_Swimming_Dash_31
+  - first:
+      213: 1533845254236892143
+    second: Ellie_Basic_Swimming_Dash_32
+  - first:
+      213: -6700561172674067434
+    second: Ellie_Basic_Swimming_Dash_33
+  - first:
+      213: -4682764573728563441
+    second: Ellie_Basic_Swimming_Dash_34
+  - first:
+      213: 5279002719598745279
+    second: Ellie_Basic_Swimming_Dash_35
+  - first:
+      213: -351995328136661586
+    second: Ellie_Basic_Swimming_Dash_36
+  - first:
+      213: -4805944324790647685
+    second: Ellie_Basic_Swimming_Dash_37
+  - first:
+      213: -7229150733218779872
+    second: Ellie_Basic_Swimming_Dash_38
+  - first:
+      213: 2472472947907188423
+    second: Ellie_Basic_Swimming_Dash_39
+  - first:
+      213: -9064519279306858789
+    second: Ellie_Basic_Swimming_Dash_40
+  - first:
+      213: -323987890875173702
+    second: Ellie_Basic_Swimming_Dash_41
+  - first:
+      213: -5757671734822643080
+    second: Ellie_Basic_Swimming_Dash_42
+  - first:
+      213: -1798093695492061264
+    second: Ellie_Basic_Swimming_Dash_43
+  - first:
+      213: 1171122119262697990
+    second: Ellie_Basic_Swimming_Dash_44
+  - first:
+      213: 1450815350536184170
+    second: Ellie_Basic_Swimming_Dash_45
+  - first:
+      213: -7226011416129296922
+    second: Ellie_Basic_Swimming_Dash_46
+  - first:
+      213: -1471334193188877688
+    second: Ellie_Basic_Swimming_Dash_47
+  - first:
+      213: -266355523149548044
+    second: Ellie_Basic_Swimming_Dash_48
+  - first:
+      213: 7938750360912594064
+    second: Ellie_Basic_Swimming_Dash_49
+  - first:
+      213: -7023102245961462507
+    second: Ellie_Basic_Swimming_Dash_50
+  - first:
+      213: 2659063729196363675
+    second: Ellie_Basic_Swimming_Dash_51
+  - first:
+      213: 6069131229555246455
+    second: Ellie_Basic_Swimming_Dash_52
+  - first:
+      213: -9034552557101032785
+    second: Ellie_Basic_Swimming_Dash_53
+  - first:
+      213: 3683230561288266059
+    second: Ellie_Basic_Swimming_Dash_54
+  - first:
+      213: -8830041454609808757
+    second: Ellie_Basic_Swimming_Dash_55
+  - first:
+      213: 6533901902435380875
+    second: Ellie_Basic_Swimming_Dash_56
+  - first:
+      213: 3272354350817009183
+    second: Ellie_Basic_Swimming_Dash_57
+  - first:
+      213: -5791726128665818044
+    second: Ellie_Basic_Swimming_Dash_58
+  - first:
+      213: -6068442596757957161
+    second: Ellie_Basic_Swimming_Dash_59
+  - first:
+      213: -3674896910338384422
+    second: Ellie_Basic_Swimming_Dash_60
+  - first:
+      213: 1327938575403914934
+    second: Ellie_Basic_Swimming_Dash_61
+  - first:
+      213: 2134343107639692563
+    second: Ellie_Basic_Swimming_Dash_62
+  - first:
+      213: -2343387068719787106
+    second: Ellie_Basic_Swimming_Dash_63
+  - first:
+      213: 3163188192774303600
+    second: Ellie_Basic_Swimming_Dash_64
+  - first:
+      213: -5062837376069059154
+    second: Ellie_Basic_Swimming_Dash_65
+  - first:
+      213: 6219849206624028078
+    second: Ellie_Basic_Swimming_Dash_66
+  - first:
+      213: -4035805046966847996
+    second: Ellie_Basic_Swimming_Dash_67
+  - first:
+      213: -2989517046324915309
+    second: Ellie_Basic_Swimming_Dash_68
+  - first:
+      213: 2471372688309063259
+    second: Ellie_Basic_Swimming_Dash_69
+  - first:
+      213: -5671659764225211531
+    second: Ellie_Basic_Swimming_Dash_70
+  - first:
+      213: -9173890773501901314
+    second: Ellie_Basic_Swimming_Dash_71
+  - first:
+      213: -5345542973299481159
+    second: Ellie_Basic_Swimming_Dash_72
+  - first:
+      213: 6673573177768231054
+    second: Ellie_Basic_Swimming_Dash_73
+  - first:
+      213: 4554300904168539458
+    second: Ellie_Basic_Swimming_Dash_74
+  - first:
+      213: -6714522601119090853
+    second: Ellie_Basic_Swimming_Dash_75
+  - first:
+      213: 6481943550093772479
+    second: Ellie_Basic_Swimming_Dash_76
+  - first:
+      213: 1617619953810938635
+    second: Ellie_Basic_Swimming_Dash_77
+  - first:
+      213: -6913653797389860516
+    second: Ellie_Basic_Swimming_Dash_78
+  - first:
+      213: -8536332631167945253
+    second: Ellie_Basic_Swimming_Dash_79
+  - first:
+      213: -3834932894334415535
+    second: Ellie_Basic_Swimming_Dash_80
+  - first:
+      213: 1213262553339454911
+    second: Ellie_Basic_Swimming_Dash_81
+  - first:
+      213: 7086095189829336703
+    second: Ellie_Basic_Swimming_Dash_82
+  - first:
+      213: 514800459395746559
+    second: Ellie_Basic_Swimming_Dash_83
+  - first:
+      213: -5430556651054274138
+    second: Ellie_Basic_Swimming_Dash_84
+  - first:
+      213: 2142952393233817913
+    second: Ellie_Basic_Swimming_Dash_85
+  - first:
+      213: -1145579247654891197
+    second: Ellie_Basic_Swimming_Dash_86
+  - first:
+      213: -6461071345900055179
+    second: Ellie_Basic_Swimming_Dash_87
+  - first:
+      213: -4786225555919586530
+    second: Ellie_Basic_Swimming_Dash_88
+  - first:
+      213: 230120253269927178
+    second: Ellie_Basic_Swimming_Dash_89
+  - first:
+      213: -4377691482442700191
+    second: Ellie_Basic_Swimming_Dash_90
+  - first:
+      213: 9106863034040803342
+    second: Ellie_Basic_Swimming_Dash_91
+  - first:
+      213: -4204636522030359378
+    second: Ellie_Basic_Swimming_Dash_92
+  - first:
+      213: -430671151019550149
+    second: Ellie_Basic_Swimming_Dash_93
+  - first:
+      213: -8448960789883194761
+    second: Ellie_Basic_Swimming_Dash_94
+  - first:
+      213: -9081131366044317957
+    second: Ellie_Basic_Swimming_Dash_95
+  - first:
+      213: 7913690439606886930
+    second: Ellie_Basic_Swimming_Dash_96
+  - first:
+      213: 1003823274086533617
+    second: Ellie_Basic_Swimming_Dash_97
+  - first:
+      213: 2907108717524399221
+    second: Ellie_Basic_Swimming_Dash_98
+  - first:
+      213: 6694568893805157524
+    second: Ellie_Basic_Swimming_Dash_99
+  - first:
+      213: 6333893662324325951
+    second: Ellie_Basic_Swimming_Dash_100
+  - first:
+      213: -8193011504987309350
+    second: Ellie_Basic_Swimming_Dash_101
+  - first:
+      213: -955271535402150600
+    second: Ellie_Basic_Swimming_Dash_102
+  - first:
+      213: 8936397007240443114
+    second: Ellie_Basic_Swimming_Dash_103
+  - first:
+      213: -6955890328401864939
+    second: Ellie_Basic_Swimming_Dash_104
+  - first:
+      213: -6069995354154523770
+    second: Ellie_Basic_Swimming_Dash_105
+  - first:
+      213: -3637394009286394386
+    second: Ellie_Basic_Swimming_Dash_106
+  - first:
+      213: 5076978666779357285
+    second: Ellie_Basic_Swimming_Dash_107
+  - first:
+      213: 266860572551453192
+    second: Ellie_Basic_Swimming_Dash_108
+  - first:
+      213: 6104700042920683915
+    second: Ellie_Basic_Swimming_Dash_109
+  - first:
+      213: -479441989489104629
+    second: Ellie_Basic_Swimming_Dash_110
+  - first:
+      213: 4633502827035678433
+    second: Ellie_Basic_Swimming_Dash_111
+  - first:
+      213: 4704372920640226128
+    second: Ellie_Basic_Swimming_Dash_112
+  - first:
+      213: 2837844174529753173
+    second: Ellie_Basic_Swimming_Dash_113
+  - first:
+      213: -1416351272231443866
+    second: Ellie_Basic_Swimming_Dash_114
+  - first:
+      213: -1407448985926413502
+    second: Ellie_Basic_Swimming_Dash_115
+  - first:
+      213: -5511666930299512106
+    second: Ellie_Basic_Swimming_Dash_116
+  - first:
+      213: 7077114193061858569
+    second: Ellie_Basic_Swimming_Dash_117
+  - first:
+      213: 508776073907900607
+    second: Ellie_Basic_Swimming_Dash_118
+  - first:
+      213: 3583683528922398956
+    second: Ellie_Basic_Swimming_Dash_119
+  - first:
+      213: -4659202189933702936
+    second: Ellie_Basic_Swimming_Dash_120
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_0
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 929
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4bb06f0b9235750800000000000000
+      internalID: 6292418944385660065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_1
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 931
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2418bad08e04d7540800000000000000
+      internalID: 5007229726111793474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_2
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 929
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561f2a231c92d0fb0800000000000000
+      internalID: -4680038528013110939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_3
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 930
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2cfe4074bb9821b0800000000000000
+      internalID: -5681119730647237589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_4
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 930
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d11c8f59651d7c10800000000000000
+      internalID: 2052820547469578707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_5
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 930
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44db64d3fa43e480800000000000000
+      internalID: -8871164429888400307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_6
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 929
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0792dd6334a7edfa0800000000000000
+      internalID: -5774043243140535952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_7
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 931
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5eb9f23cc7f1bd0800000000000000
+      internalID: -2657268077366090272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_8
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 929
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bcbb2f92a0c3d840800000000000000
+      internalID: 5247749795504438451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_9
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 930
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835e4d3e71cba0d10800000000000000
+      internalID: 2092691787659666744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_10
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 930
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa6ac72f2620ed20800000000000000
+      internalID: 3305684110462839471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_11
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 830
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f097d3bd667b020800000000000000
+      internalID: 2357466021766958961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_12
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 831
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885ff310da1a78a70800000000000000
+      internalID: 8829203358905529736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_13
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 830
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8feff9760b7fa22a0800000000000000
+      internalID: -6761319553518534920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_14
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 831
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6398a4a82b4cab00800000000000000
+      internalID: 841129868344726382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_15
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 831
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c289e710d773ecd0800000000000000
+      internalID: -2530046830014004535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_16
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 831
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299a52b13f22ed160800000000000000
+      internalID: 7052112494036625810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_17
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 829
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35928c9edfe4ebfd0800000000000000
+      internalID: -2324333505220695725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_18
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 831
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970ad6959f6bbcdb0800000000000000
+      internalID: -4770518198205439879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_19
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 829
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429f1c9c94afe81b0800000000000000
+      internalID: -5652305287478904540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_20
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 830
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad8f8651c0720620800000000000000
+      internalID: 2738875499077930412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_21
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 830
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a459d60fdb03575c0800000000000000
+      internalID: -4218411883621935798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_22
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 730
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d09ed5a2a041890800000000000000
+      internalID: -7488349103329833619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_23
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 729
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe9403dd66cb7480800000000000000
+      internalID: -8900302063573623045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_24
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 731
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92fd9448cdfc8fc0800000000000000
+      internalID: -3491136574532488548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_25
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 729
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ac61ee905103fe0800000000000000
+      internalID: -1211445167369303470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_26
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 730
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1dc97b17c7704a0800000000000000
+      internalID: -6627191498798738987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_27
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 730
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b112d46e6f2988890800000000000000
+      internalID: -7455547593988431589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_28
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 730
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763ffaa4e35d9c9e0800000000000000
+      internalID: -1600513729035766937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_29
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 725
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f10412b111188fe0800000000000000
+      internalID: -1186679734112353802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_30
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 724
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97077662ad6e15380800000000000000
+      internalID: -8984145957005856647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_31
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 725
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f066544b1569340800000000000000
+      internalID: 4870169881748049666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_32
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 725
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb653fc120594510800000000000000
+      internalID: 1533845254236892143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_33
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 442
+        width: 117
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614ccf25d13d203a0800000000000000
+      internalID: -6700561172674067434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_34
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 625
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f10283e6a730fb0800000000000000
+      internalID: -4682764573728563441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_35
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 546
+        width: 27
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6110e0109c24940800000000000000
+      internalID: 5279002719598745279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_36
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 443
+        width: 27
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea531df2d167d1bf0800000000000000
+      internalID: -351995328136661586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_37
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 546
+        width: 27
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b748c8e791bdd4db0800000000000000
+      internalID: -4805944324790647685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_38
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 545
+        width: 27
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d6db6b5b5ecab90800000000000000
+      internalID: -7229150733218779872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_39
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 544
+        width: 27
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c655c0eb0dff4220800000000000000
+      internalID: 2472472947907188423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_40
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 544
+        width: 28
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde1c39cdbb543280800000000000000
+      internalID: -9064519279306858789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_41
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 546
+        width: 28
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab47bd4dab6f08bf0800000000000000
+      internalID: -323987890875173702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_42
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 545
+        width: 28
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ad6980014a810b0800000000000000
+      internalID: -5757671734822643080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_43
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 546
+        width: 29
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b783578f43eb07e0800000000000000
+      internalID: -1798093695492061264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_44
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 335
+        width: 110
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a7143dc59a04010800000000000000
+      internalID: 1171122119262697990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_45
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 429
+        width: 110
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61a463efd4522410800000000000000
+      internalID: 1450815350536184170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_46
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 428
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e522bee6ec08bb90800000000000000
+      internalID: -7226011416129296922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_47
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 428
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a4715c855c49be0800000000000000
+      internalID: -1471334193188877688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_48
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 429
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f535ba1017bd4cf0800000000000000
+      internalID: -266355523149548044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_49
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 429
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09403b6546b1c2e60800000000000000
+      internalID: 7938750360912594064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_50
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 429
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d0830a7bde88e90800000000000000
+      internalID: -7023102245961462507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_51
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 429
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9fefd59f54e6e420800000000000000
+      internalID: 2659063729196363675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_52
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 348
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775ced892b2e93450800000000000000
+      internalID: 6069131229555246455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_53
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 335
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa55610152de9280800000000000000
+      internalID: -9034552557101032785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_54
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 342
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41237f4ea67d1330800000000000000
+      internalID: 3683230561288266059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_55
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 344
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b824202a414657580800000000000000
+      internalID: -8830041454609808757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_56
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 329
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ee8e389251daa50800000000000000
+      internalID: 6533901902435380875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_57
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 332
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ed6a3c1fcb96d20800000000000000
+      internalID: 3272354350817009183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_58
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 329
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c868895c7af9fa0800000000000000
+      internalID: -5791726128665818044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_59
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 329
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d594683c9f88cba0800000000000000
+      internalID: -6068442596757957161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_60
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 328
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add99110bb4200dc0800000000000000
+      internalID: -3674896910338384422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_61
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 328
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b61d7e3919cd6210800000000000000
+      internalID: 1327938575403914934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_62
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 329
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31dcaa78fb5be9d10800000000000000
+      internalID: 2134343107639692563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_63
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 329
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9396b570ed9a7fd0800000000000000
+      internalID: -2343387068719787106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_64
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 329
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fa50ce6e6e5eb20800000000000000
+      internalID: 3163188192774303600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_65
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 329
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead35d30b303db9b0800000000000000
+      internalID: -5062837376069059154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_66
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 334
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5025536e7515650800000000000000
+      internalID: 6219849206624028078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_67
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 329
+        width: 131
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406ffc041b0fdf7c0800000000000000
+      internalID: -4035805046966847996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_68
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 329
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39314d3e51a1386d0800000000000000
+      internalID: -2989517046324915309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_69
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 235
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e834abd541c4220800000000000000
+      internalID: 2471372688309063259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_70
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 235
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5730b728e773a41b0800000000000000
+      internalID: -5671659764225211531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_71
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 245
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef58f2562facfa080800000000000000
+      internalID: -9173890773501901314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_72
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 229
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b526e8dcf0d0d5b0800000000000000
+      internalID: -5345542973299481159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_73
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 228
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e804373727b4d9c50800000000000000
+      internalID: 6673573177768231054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_74
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 229
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245c439ea80243f30800000000000000
+      internalID: 4554300904168539458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_75
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 228
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57f6f3f44931d2a0800000000000000
+      internalID: -6714522601119090853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_76
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 229
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb64975e05d74f950800000000000000
+      internalID: 6481943550093772479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_77
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 229
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b1c7807c0f27610800000000000000
+      internalID: 1617619953810938635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_78
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 229
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c510c8a5084cd00a0800000000000000
+      internalID: -6913653797389860516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_79
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 229
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5b8aa03bad88980800000000000000
+      internalID: -8536332631167945253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_80
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 229
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d8cb7d9d497cac0800000000000000
+      internalID: -3834932894334415535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_81
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 229
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5e4173ddf56d010800000000000000
+      internalID: 1213262553339454911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_82
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 228
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7eb16a080ed65260800000000000000
+      internalID: 7086095189829336703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_83
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 228
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffacd705a40f42700800000000000000
+      internalID: 514800459395746559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_84
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 229
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a966498f79c2a4b0800000000000000
+      internalID: -5430556651054274138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_85
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 229
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931664909db4dbd10800000000000000
+      internalID: 2142952393233817913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_86
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 229
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34198796eb51a10f0800000000000000
+      internalID: -1145579247654891197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_87
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 134
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5751c27d7d9a556a0800000000000000
+      internalID: -6461071345900055179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_88
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 129
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b34842739e39db0800000000000000
+      internalID: -4786225555919586530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_89
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 124
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05e6cfa62d813300800000000000000
+      internalID: 230120253269927178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_90
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 128
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16aefbc6ac05f33c0800000000000000
+      internalID: -4377691482442700191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_91
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 124
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e006322eda3126e70800000000000000
+      internalID: 9106863034040803342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_92
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 127
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac1fbe3c5126a5c0800000000000000
+      internalID: -4204636522030359378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_93
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 111
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a9874bed2f50af0800000000000000
+      internalID: -430671151019550149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_94
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 114
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772fec51de24fba80800000000000000
+      internalID: -8448960789883194761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_95
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 120
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf64540f22759f180800000000000000
+      internalID: -9081131366044317957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_96
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 125
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2126c2bb68313dd60800000000000000
+      internalID: 7913690439606886930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_97
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 125
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9823503fb4eed00800000000000000
+      internalID: 1003823274086533617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_98
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 125
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574bb7fd9ff185820800000000000000
+      internalID: 2907108717524399221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_99
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 125
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49cd2a780f2e7ec50800000000000000
+      internalID: 6694568893805157524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_100
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 108
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e70fb3ab286e750800000000000000
+      internalID: 6333893662324325951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_101
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 131
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adafa84d1739c4e80800000000000000
+      internalID: -8193011504987309350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_102
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 114
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835105c89913eb2f0800000000000000
+      internalID: -955271535402150600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_103
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 127
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae43e642bb5740c70800000000000000
+      internalID: 8936397007240443114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_104
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 122
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5171807a996b77f90800000000000000
+      internalID: -6955890328401864939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_105
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 121
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6832957b26b03cba0800000000000000
+      internalID: -6069995354154523770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_106
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 117
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedb9589b61658dc0800000000000000
+      internalID: -3637394009286394386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_107
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 117
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560be9dc23d057640800000000000000
+      internalID: 5076978666779357285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_108
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 21
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a9c7fd64414b300800000000000000
+      internalID: 266860572551453192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_109
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89699e485048b450800000000000000
+      internalID: 6104700042920683915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_110
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 21
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09681efc0ea859f0800000000000000
+      internalID: -479441989489104629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_111
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 28
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6da3795428d4040800000000000000
+      internalID: 4633502827035678433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_112
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 22
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0534ab91f3a494140800000000000000
+      internalID: 4704372920640226128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_113
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 27
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550f1cebd3c026720800000000000000
+      internalID: 2837844174529753173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_114
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 24
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662e875a50c185ce0800000000000000
+      internalID: -1416351272231443866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_115
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 27
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2435f52ba9cb77ce0800000000000000
+      internalID: -1407448985926413502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_116
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 21
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dada330120a283b0800000000000000
+      internalID: -5511666930299512106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_117
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 24
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90dc358ccd5f63260800000000000000
+      internalID: 7077114193061858569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_118
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 11
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb09f73c4298f0700800000000000000
+      internalID: 508776073907900607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_119
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 14
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce086d0be2dcbb130800000000000000
+      internalID: 3583683528922398956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Dash_120
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 20
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e097443b40375fb0800000000000000
+      internalID: -4659202189933702936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ellie_Basic_Swimming_Dash_0: 6292418944385660065
+      Ellie_Basic_Swimming_Dash_1: 5007229726111793474
+      Ellie_Basic_Swimming_Dash_10: 3305684110462839471
+      Ellie_Basic_Swimming_Dash_100: 6333893662324325951
+      Ellie_Basic_Swimming_Dash_101: -8193011504987309350
+      Ellie_Basic_Swimming_Dash_102: -955271535402150600
+      Ellie_Basic_Swimming_Dash_103: 8936397007240443114
+      Ellie_Basic_Swimming_Dash_104: -6955890328401864939
+      Ellie_Basic_Swimming_Dash_105: -6069995354154523770
+      Ellie_Basic_Swimming_Dash_106: -3637394009286394386
+      Ellie_Basic_Swimming_Dash_107: 5076978666779357285
+      Ellie_Basic_Swimming_Dash_108: 266860572551453192
+      Ellie_Basic_Swimming_Dash_109: 6104700042920683915
+      Ellie_Basic_Swimming_Dash_11: 2357466021766958961
+      Ellie_Basic_Swimming_Dash_110: -479441989489104629
+      Ellie_Basic_Swimming_Dash_111: 4633502827035678433
+      Ellie_Basic_Swimming_Dash_112: 4704372920640226128
+      Ellie_Basic_Swimming_Dash_113: 2837844174529753173
+      Ellie_Basic_Swimming_Dash_114: -1416351272231443866
+      Ellie_Basic_Swimming_Dash_115: -1407448985926413502
+      Ellie_Basic_Swimming_Dash_116: -5511666930299512106
+      Ellie_Basic_Swimming_Dash_117: 7077114193061858569
+      Ellie_Basic_Swimming_Dash_118: 508776073907900607
+      Ellie_Basic_Swimming_Dash_119: 3583683528922398956
+      Ellie_Basic_Swimming_Dash_12: 8829203358905529736
+      Ellie_Basic_Swimming_Dash_120: -4659202189933702936
+      Ellie_Basic_Swimming_Dash_13: -6761319553518534920
+      Ellie_Basic_Swimming_Dash_14: 841129868344726382
+      Ellie_Basic_Swimming_Dash_15: -2530046830014004535
+      Ellie_Basic_Swimming_Dash_16: 7052112494036625810
+      Ellie_Basic_Swimming_Dash_17: -2324333505220695725
+      Ellie_Basic_Swimming_Dash_18: -4770518198205439879
+      Ellie_Basic_Swimming_Dash_19: -5652305287478904540
+      Ellie_Basic_Swimming_Dash_2: -4680038528013110939
+      Ellie_Basic_Swimming_Dash_20: 2738875499077930412
+      Ellie_Basic_Swimming_Dash_21: -4218411883621935798
+      Ellie_Basic_Swimming_Dash_22: -7488349103329833619
+      Ellie_Basic_Swimming_Dash_23: -8900302063573623045
+      Ellie_Basic_Swimming_Dash_24: -3491136574532488548
+      Ellie_Basic_Swimming_Dash_25: -1211445167369303470
+      Ellie_Basic_Swimming_Dash_26: -6627191498798738987
+      Ellie_Basic_Swimming_Dash_27: -7455547593988431589
+      Ellie_Basic_Swimming_Dash_28: -1600513729035766937
+      Ellie_Basic_Swimming_Dash_29: -1186679734112353802
+      Ellie_Basic_Swimming_Dash_3: -5681119730647237589
+      Ellie_Basic_Swimming_Dash_30: -8984145957005856647
+      Ellie_Basic_Swimming_Dash_31: 4870169881748049666
+      Ellie_Basic_Swimming_Dash_32: 1533845254236892143
+      Ellie_Basic_Swimming_Dash_33: -6700561172674067434
+      Ellie_Basic_Swimming_Dash_34: -4682764573728563441
+      Ellie_Basic_Swimming_Dash_35: 5279002719598745279
+      Ellie_Basic_Swimming_Dash_36: -351995328136661586
+      Ellie_Basic_Swimming_Dash_37: -4805944324790647685
+      Ellie_Basic_Swimming_Dash_38: -7229150733218779872
+      Ellie_Basic_Swimming_Dash_39: 2472472947907188423
+      Ellie_Basic_Swimming_Dash_4: 2052820547469578707
+      Ellie_Basic_Swimming_Dash_40: -9064519279306858789
+      Ellie_Basic_Swimming_Dash_41: -323987890875173702
+      Ellie_Basic_Swimming_Dash_42: -5757671734822643080
+      Ellie_Basic_Swimming_Dash_43: -1798093695492061264
+      Ellie_Basic_Swimming_Dash_44: 1171122119262697990
+      Ellie_Basic_Swimming_Dash_45: 1450815350536184170
+      Ellie_Basic_Swimming_Dash_46: -7226011416129296922
+      Ellie_Basic_Swimming_Dash_47: -1471334193188877688
+      Ellie_Basic_Swimming_Dash_48: -266355523149548044
+      Ellie_Basic_Swimming_Dash_49: 7938750360912594064
+      Ellie_Basic_Swimming_Dash_5: -8871164429888400307
+      Ellie_Basic_Swimming_Dash_50: -7023102245961462507
+      Ellie_Basic_Swimming_Dash_51: 2659063729196363675
+      Ellie_Basic_Swimming_Dash_52: 6069131229555246455
+      Ellie_Basic_Swimming_Dash_53: -9034552557101032785
+      Ellie_Basic_Swimming_Dash_54: 3683230561288266059
+      Ellie_Basic_Swimming_Dash_55: -8830041454609808757
+      Ellie_Basic_Swimming_Dash_56: 6533901902435380875
+      Ellie_Basic_Swimming_Dash_57: 3272354350817009183
+      Ellie_Basic_Swimming_Dash_58: -5791726128665818044
+      Ellie_Basic_Swimming_Dash_59: -6068442596757957161
+      Ellie_Basic_Swimming_Dash_6: -5774043243140535952
+      Ellie_Basic_Swimming_Dash_60: -3674896910338384422
+      Ellie_Basic_Swimming_Dash_61: 1327938575403914934
+      Ellie_Basic_Swimming_Dash_62: 2134343107639692563
+      Ellie_Basic_Swimming_Dash_63: -2343387068719787106
+      Ellie_Basic_Swimming_Dash_64: 3163188192774303600
+      Ellie_Basic_Swimming_Dash_65: -5062837376069059154
+      Ellie_Basic_Swimming_Dash_66: 6219849206624028078
+      Ellie_Basic_Swimming_Dash_67: -4035805046966847996
+      Ellie_Basic_Swimming_Dash_68: -2989517046324915309
+      Ellie_Basic_Swimming_Dash_69: 2471372688309063259
+      Ellie_Basic_Swimming_Dash_7: -2657268077366090272
+      Ellie_Basic_Swimming_Dash_70: -5671659764225211531
+      Ellie_Basic_Swimming_Dash_71: -9173890773501901314
+      Ellie_Basic_Swimming_Dash_72: -5345542973299481159
+      Ellie_Basic_Swimming_Dash_73: 6673573177768231054
+      Ellie_Basic_Swimming_Dash_74: 4554300904168539458
+      Ellie_Basic_Swimming_Dash_75: -6714522601119090853
+      Ellie_Basic_Swimming_Dash_76: 6481943550093772479
+      Ellie_Basic_Swimming_Dash_77: 1617619953810938635
+      Ellie_Basic_Swimming_Dash_78: -6913653797389860516
+      Ellie_Basic_Swimming_Dash_79: -8536332631167945253
+      Ellie_Basic_Swimming_Dash_8: 5247749795504438451
+      Ellie_Basic_Swimming_Dash_80: -3834932894334415535
+      Ellie_Basic_Swimming_Dash_81: 1213262553339454911
+      Ellie_Basic_Swimming_Dash_82: 7086095189829336703
+      Ellie_Basic_Swimming_Dash_83: 514800459395746559
+      Ellie_Basic_Swimming_Dash_84: -5430556651054274138
+      Ellie_Basic_Swimming_Dash_85: 2142952393233817913
+      Ellie_Basic_Swimming_Dash_86: -1145579247654891197
+      Ellie_Basic_Swimming_Dash_87: -6461071345900055179
+      Ellie_Basic_Swimming_Dash_88: -4786225555919586530
+      Ellie_Basic_Swimming_Dash_89: 230120253269927178
+      Ellie_Basic_Swimming_Dash_9: 2092691787659666744
+      Ellie_Basic_Swimming_Dash_90: -4377691482442700191
+      Ellie_Basic_Swimming_Dash_91: 9106863034040803342
+      Ellie_Basic_Swimming_Dash_92: -4204636522030359378
+      Ellie_Basic_Swimming_Dash_93: -430671151019550149
+      Ellie_Basic_Swimming_Dash_94: -8448960789883194761
+      Ellie_Basic_Swimming_Dash_95: -9081131366044317957
+      Ellie_Basic_Swimming_Dash_96: 7913690439606886930
+      Ellie_Basic_Swimming_Dash_97: 1003823274086533617
+      Ellie_Basic_Swimming_Dash_98: 2907108717524399221
+      Ellie_Basic_Swimming_Dash_99: 6694568893805157524
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

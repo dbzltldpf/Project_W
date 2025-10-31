@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: b9aa69fbe61fc9245b9c629f3261b0e7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9163751914531276049
+    second: Ellie_Basic_Trowel_Swing_0
+  - first:
+      213: -7344285864001197550
+    second: Ellie_Basic_Trowel_Swing_1
+  - first:
+      213: -7942438312889621607
+    second: Ellie_Basic_Trowel_Swing_2
+  - first:
+      213: 8902388453676799026
+    second: Ellie_Basic_Trowel_Swing_3
+  - first:
+      213: 2673080848764498379
+    second: Ellie_Basic_Trowel_Swing_4
+  - first:
+      213: 785252679629551288
+    second: Ellie_Basic_Trowel_Swing_5
+  - first:
+      213: 916516720250592624
+    second: Ellie_Basic_Trowel_Swing_6
+  - first:
+      213: -3761333626716191046
+    second: Ellie_Basic_Trowel_Swing_7
+  - first:
+      213: 1646342072698248037
+    second: Ellie_Basic_Trowel_Swing_8
+  - first:
+      213: -2401550561597860481
+    second: Ellie_Basic_Trowel_Swing_9
+  - first:
+      213: 2619021756004523557
+    second: Ellie_Basic_Trowel_Swing_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ellie_Basic_Trowel_Swing_0
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 318
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115417b80df2c2f70800000000000000
+      internalID: 9163751914531276049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Trowel_Swing_1
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 319
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a294b1bead31a90800000000000000
+      internalID: -7344285864001197550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Trowel_Swing_2
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 319
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993e2cd6f6ac6c190800000000000000
+      internalID: -7942438312889621607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Trowel_Swing_3
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 319
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234d1f9b123ab8b70800000000000000
+      internalID: 8902388453676799026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Trowel_Swing_4
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 143
+        width: 30
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1f18e8ed0b81520800000000000000
+      internalID: 2673080848764498379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Trowel_Swing_5
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 44
+        width: 116
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b63e34d627c5ea00800000000000000
+      internalID: 785252679629551288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Trowel_Swing_6
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 144
+        width: 29
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d1e35e91f18bc00800000000000000
+      internalID: 916516720250592624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Trowel_Swing_7
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 146
+        width: 29
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab689d1befe0dcbc0800000000000000
+      internalID: -3761333626716191046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Trowel_Swing_8
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 143
+        width: 30
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b95f5746bf8d610800000000000000
+      internalID: 1646342072698248037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Trowel_Swing_9
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 45
+        width: 93
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75d1d9fc7afbaed0800000000000000
+      internalID: -2401550561597860481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Trowel_Swing_10
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 45
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e5ba13962a85420800000000000000
+      internalID: 2619021756004523557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ellie_Basic_Trowel_Swing_0: 9163751914531276049
+      Ellie_Basic_Trowel_Swing_1: -7344285864001197550
+      Ellie_Basic_Trowel_Swing_10: 2619021756004523557
+      Ellie_Basic_Trowel_Swing_2: -7942438312889621607
+      Ellie_Basic_Trowel_Swing_3: 8902388453676799026
+      Ellie_Basic_Trowel_Swing_4: 2673080848764498379
+      Ellie_Basic_Trowel_Swing_5: 785252679629551288
+      Ellie_Basic_Trowel_Swing_6: 916516720250592624
+      Ellie_Basic_Trowel_Swing_7: -3761333626716191046
+      Ellie_Basic_Trowel_Swing_8: 1646342072698248037
+      Ellie_Basic_Trowel_Swing_9: -2401550561597860481
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

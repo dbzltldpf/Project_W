@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 6e4707dc10a5a02428043867179e59cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8870018918381254230
+    second: Ellie_Basic_Sleep_0
+  - first:
+      213: 3484587233246399557
+    second: Ellie_Basic_Sleep_1
+  - first:
+      213: 1939368025417216033
+    second: Ellie_Basic_Sleep_2
+  - first:
+      213: -4385990883290212272
+    second: Ellie_Basic_Sleep_3
+  - first:
+      213: 3553937747195904517
+    second: Ellie_Basic_Sleep_4
+  - first:
+      213: -3355657208684941295
+    second: Ellie_Basic_Sleep_5
+  - first:
+      213: -2897912316578810784
+    second: Ellie_Basic_Sleep_6
+  - first:
+      213: -732983497536227475
+    second: Ellie_Basic_Sleep_7
+  - first:
+      213: -339378305914664169
+    second: Ellie_Basic_Sleep_8
+  - first:
+      213: -8529255069186201292
+    second: Ellie_Basic_Sleep_9
+  - first:
+      213: -8886112607863092845
+    second: Ellie_Basic_Sleep_10
+  - first:
+      213: -3126916688182036651
+    second: Ellie_Basic_Sleep_11
+  - first:
+      213: 8052354292912829965
+    second: Ellie_Basic_Sleep_12
+  - first:
+      213: 7053967284881963503
+    second: Ellie_Basic_Sleep_13
+  - first:
+      213: -3426705835286615210
+    second: Ellie_Basic_Sleep_14
+  - first:
+      213: 3914980209247573262
+    second: Ellie_Basic_Sleep_15
+  - first:
+      213: -3599818157604627009
+    second: Ellie_Basic_Sleep_16
+  - first:
+      213: -2539317569754060545
+    second: Ellie_Basic_Sleep_17
+  - first:
+      213: 2154313670852623284
+    second: Ellie_Basic_Sleep_18
+  - first:
+      213: 6716181147790515527
+    second: Ellie_Basic_Sleep_19
+  - first:
+      213: -1458628733055250870
+    second: Ellie_Basic_Sleep_20
+  - first:
+      213: 6868491723606506441
+    second: Ellie_Basic_Sleep_21
+  - first:
+      213: 5999679593959533935
+    second: Ellie_Basic_Sleep_22
+  - first:
+      213: 162836877704129999
+    second: Ellie_Basic_Sleep_23
+  - first:
+      213: -7379585426821899156
+    second: Ellie_Basic_Sleep_24
+  - first:
+      213: 4975285794543529913
+    second: Ellie_Basic_Sleep_25
+  - first:
+      213: 5113691223425296572
+    second: Ellie_Basic_Sleep_26
+  - first:
+      213: -6103513534102131569
+    second: Ellie_Basic_Sleep_27
+  - first:
+      213: 7171675823085394847
+    second: Ellie_Basic_Sleep_28
+  - first:
+      213: 3628128593673379449
+    second: Ellie_Basic_Sleep_29
+  - first:
+      213: -3587337451008177408
+    second: Ellie_Basic_Sleep_30
+  - first:
+      213: 3729615667851490201
+    second: Ellie_Basic_Sleep_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ellie_Basic_Sleep_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 258
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656fb1df533a81b70800000000000000
+      internalID: 8870018918381254230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sleep_1
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 258
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c438260adbb5030800000000000000
+      internalID: 3484587233246399557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sleep_2
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 258
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1207eb3a1f40aea10800000000000000
+      internalID: 1939368025417216033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sleep_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 258
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05892659784d123c0800000000000000
+      internalID: -4385990883290212272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sleep_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 259
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502c67f2d8f125130800000000000000
+      internalID: 3553937747195904517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sleep_5
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 133
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110fa583c8f4e61d0800000000000000
+      internalID: -3355657208684941295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sleep_6
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 209
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06437141a1c88c7d0800000000000000
+      internalID: -2897912316578810784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sleep_7
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 127
+        width: 28
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67312b746be3d5f0800000000000000
+      internalID: -732983497536227475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sleep_8
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 209
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b8b779a394a4bf0800000000000000
+      internalID: -339378305914664169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sleep_9
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 185
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439e47a54bff1a980800000000000000
+      internalID: -8529255069186201292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sleep_10
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 186
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399433ee9af2ea480800000000000000
+      internalID: -8886112607863092845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sleep_11
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 185
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5573ba6d6d5fa94d0800000000000000
+      internalID: -3126916688182036651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sleep_12
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 185
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0639a2f095bfbf60800000000000000
+      internalID: 8052354292912829965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sleep_13
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 132
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9bd904fd9b4e160800000000000000
+      internalID: 7053967284881963503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sleep_14
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 132
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65babf1c235e170d0800000000000000
+      internalID: -3426705835286615210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sleep_15
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 131
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05d2e202cdc45630800000000000000
+      internalID: 3914980209247573262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sleep_16
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 133
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd99f35570ea0ec0800000000000000
+      internalID: -3599818157604627009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sleep_17
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 131
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8a6eacf1882ccd0800000000000000
+      internalID: -2539317569754060545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sleep_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 83
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb30fd9ed8a5ed10800000000000000
+      internalID: 2154313670852623284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sleep_19
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d9a398b2ba43d50800000000000000
+      internalID: 6716181147790515527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sleep_20
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 83
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e401b35e8e1cbe0800000000000000
+      internalID: -1458628733055250870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sleep_21
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 82
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbb640f4d8c15f50800000000000000
+      internalID: 6868491723606506441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sleep_22
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 84
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d2e149dc4234350800000000000000
+      internalID: 5999679593959533935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sleep_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 82
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd63eb0743824200800000000000000
+      internalID: 162836877704129999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sleep_24
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 84
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c91ac2722769990800000000000000
+      internalID: -7379585426821899156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sleep_25
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf60d7e114cb0540800000000000000
+      internalID: 4975285794543529913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sleep_26
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 83
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb82c4ff21b77f640800000000000000
+      internalID: 5113691223425296572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sleep_27
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cad0e47c6fb4ba0800000000000000
+      internalID: -6103513534102131569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sleep_28
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 84
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b1347f929e68360800000000000000
+      internalID: 7171675823085394847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sleep_29
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 82
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ed659bbb3b95230800000000000000
+      internalID: 3628128593673379449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sleep_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 34
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00bc3374897373ec0800000000000000
+      internalID: -3587337451008177408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sleep_31
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 31
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993f40780b142c330800000000000000
+      internalID: 3729615667851490201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 51c77bb01198fee419b2560d8b7beb20
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ellie_Basic_Sleep_0: 8870018918381254230
+      Ellie_Basic_Sleep_1: 3484587233246399557
+      Ellie_Basic_Sleep_10: -8886112607863092845
+      Ellie_Basic_Sleep_11: -3126916688182036651
+      Ellie_Basic_Sleep_12: 8052354292912829965
+      Ellie_Basic_Sleep_13: 7053967284881963503
+      Ellie_Basic_Sleep_14: -3426705835286615210
+      Ellie_Basic_Sleep_15: 3914980209247573262
+      Ellie_Basic_Sleep_16: -3599818157604627009
+      Ellie_Basic_Sleep_17: -2539317569754060545
+      Ellie_Basic_Sleep_18: 2154313670852623284
+      Ellie_Basic_Sleep_19: 6716181147790515527
+      Ellie_Basic_Sleep_2: 1939368025417216033
+      Ellie_Basic_Sleep_20: -1458628733055250870
+      Ellie_Basic_Sleep_21: 6868491723606506441
+      Ellie_Basic_Sleep_22: 5999679593959533935
+      Ellie_Basic_Sleep_23: 162836877704129999
+      Ellie_Basic_Sleep_24: -7379585426821899156
+      Ellie_Basic_Sleep_25: 4975285794543529913
+      Ellie_Basic_Sleep_26: 5113691223425296572
+      Ellie_Basic_Sleep_27: -6103513534102131569
+      Ellie_Basic_Sleep_28: 7171675823085394847
+      Ellie_Basic_Sleep_29: 3628128593673379449
+      Ellie_Basic_Sleep_3: -4385990883290212272
+      Ellie_Basic_Sleep_30: -3587337451008177408
+      Ellie_Basic_Sleep_31: 3729615667851490201
+      Ellie_Basic_Sleep_4: 3553937747195904517
+      Ellie_Basic_Sleep_5: -3355657208684941295
+      Ellie_Basic_Sleep_6: -2897912316578810784
+      Ellie_Basic_Sleep_7: -732983497536227475
+      Ellie_Basic_Sleep_8: -339378305914664169
+      Ellie_Basic_Sleep_9: -8529255069186201292
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

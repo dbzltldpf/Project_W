@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: abf0caf4ec92104448f6b87e21c66166
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8626592920874738194
+    second: Ellie_Basic_Wallcliming_Fall_0
+  - first:
+      213: 654218652454717524
+    second: Ellie_Basic_Wallcliming_Fall_1
+  - first:
+      213: 743283766727966799
+    second: Ellie_Basic_Wallcliming_Fall_2
+  - first:
+      213: 1319409347918724798
+    second: Ellie_Basic_Wallcliming_Fall_3
+  - first:
+      213: 2894798689322105092
+    second: Ellie_Basic_Wallcliming_Fall_4
+  - first:
+      213: -6143871739866785893
+    second: Ellie_Basic_Wallcliming_Fall_5
+  - first:
+      213: -587470969649635719
+    second: Ellie_Basic_Wallcliming_Fall_6
+  - first:
+      213: 3327698245613024220
+    second: Ellie_Basic_Wallcliming_Fall_7
+  - first:
+      213: -5319912950410055116
+    second: Ellie_Basic_Wallcliming_Fall_8
+  - first:
+      213: -3083079239663205769
+    second: Ellie_Basic_Wallcliming_Fall_9
+  - first:
+      213: -4952183857063455778
+    second: Ellie_Basic_Wallcliming_Fall_10
+  - first:
+      213: -5986211898690075
+    second: Ellie_Basic_Wallcliming_Fall_11
+  - first:
+      213: 3081198614207039597
+    second: Ellie_Basic_Wallcliming_Fall_12
+  - first:
+      213: -4700373043971217843
+    second: Ellie_Basic_Wallcliming_Fall_13
+  - first:
+      213: -5397703913715842442
+    second: Ellie_Basic_Wallcliming_Fall_14
+  - first:
+      213: 8492775634695860028
+    second: Ellie_Basic_Wallcliming_Fall_15
+  - first:
+      213: -6811908414390453755
+    second: Ellie_Basic_Wallcliming_Fall_16
+  - first:
+      213: 9087220816103395223
+    second: Ellie_Basic_Wallcliming_Fall_17
+  - first:
+      213: -6181245108885791475
+    second: Ellie_Basic_Wallcliming_Fall_18
+  - first:
+      213: 1090548910421539201
+    second: Ellie_Basic_Wallcliming_Fall_19
+  - first:
+      213: 4731433025988743068
+    second: Ellie_Basic_Wallcliming_Fall_20
+  - first:
+      213: 7226256819664710473
+    second: Ellie_Basic_Wallcliming_Fall_21
+  - first:
+      213: 8242210629634427264
+    second: Ellie_Basic_Wallcliming_Fall_22
+  - first:
+      213: -4939312712031146939
+    second: Ellie_Basic_Wallcliming_Fall_23
+  - first:
+      213: -4640297672163480985
+    second: Ellie_Basic_Wallcliming_Fall_24
+  - first:
+      213: 8420522019712374082
+    second: Ellie_Basic_Wallcliming_Fall_25
+  - first:
+      213: -3781941755160661741
+    second: Ellie_Basic_Wallcliming_Fall_26
+  - first:
+      213: 4143379431778629205
+    second: Ellie_Basic_Wallcliming_Fall_27
+  - first:
+      213: -9190741374219725324
+    second: Ellie_Basic_Wallcliming_Fall_28
+  - first:
+      213: -4035065236006899840
+    second: Ellie_Basic_Wallcliming_Fall_29
+  - first:
+      213: -2760888810560181299
+    second: Ellie_Basic_Wallcliming_Fall_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ellie_Basic_Wallcliming_Fall_0
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 418
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed9c51b17f284880800000000000000
+      internalID: -8626592920874738194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Wallcliming_Fall_1
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 416
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4588ff0f560441900800000000000000
+      internalID: 654218652454717524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Wallcliming_Fall_2
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 419
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f408223d5aca05a00800000000000000
+      internalID: 743283766727966799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Wallcliming_Fall_3
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 419
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe7608bfcb7f4210800000000000000
+      internalID: 1319409347918724798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Wallcliming_Fall_4
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 319
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4097f4512146c2820800000000000000
+      internalID: 2894798689322105092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Wallcliming_Fall_5
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 319
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97dda744359cbaa0800000000000000
+      internalID: -6143871739866785893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Wallcliming_Fall_6
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 319
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97edd220442e8d7f0800000000000000
+      internalID: -587470969649635719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Wallcliming_Fall_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 319
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd374796ceb5e2e20800000000000000
+      internalID: 3327698245613024220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Wallcliming_Fall_8
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 318
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432fec29b5fdb26b0800000000000000
+      internalID: -5319912950410055116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Wallcliming_Fall_9
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 218
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7724e7134c3b635d0800000000000000
+      internalID: -3083079239663205769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Wallcliming_Fall_10
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 217
+        width: 122
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed31f41150f464bb0800000000000000
+      internalID: -4952183857063455778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Wallcliming_Fall_11
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 217
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e57a3e629bbaeff0800000000000000
+      internalID: -5986211898690075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Wallcliming_Fall_12
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 217
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d688c3290dd92ca20800000000000000
+      internalID: 3081198614207039597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Wallcliming_Fall_13
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 217
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d462642ce9be4ceb0800000000000000
+      internalID: -4700373043971217843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Wallcliming_Fall_14
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 217
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6724b3483e08715b0800000000000000
+      internalID: -5397703913715842442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Wallcliming_Fall_15
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 118
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fa32f61766cd570800000000000000
+      internalID: 8492775634695860028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Wallcliming_Fall_16
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 118
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a33cd536d3771a0800000000000000
+      internalID: -6811908414390453755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Wallcliming_Fall_17
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 118
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fc063af2b4c1e70800000000000000
+      internalID: 9087220816103395223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Wallcliming_Fall_18
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 117
+        width: 135
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ddd37b25ec73aa0800000000000000
+      internalID: -6181245108885791475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Wallcliming_Fall_19
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 117
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1897ddfb478622f00800000000000000
+      internalID: 1090548910421539201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Wallcliming_Fall_20
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 117
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f4c98d44d69a140800000000000000
+      internalID: 4731433025988743068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Wallcliming_Fall_21
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 18
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94bebd78a42d84460800000000000000
+      internalID: 7226256819664710473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Wallcliming_Fall_22
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 17
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0890f4706e6326270800000000000000
+      internalID: 8242210629634427264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Wallcliming_Fall_23
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 17
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54cefcc0249047bb0800000000000000
+      internalID: -4939312712031146939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Wallcliming_Fall_24
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 18
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76aaf9e3ad95a9fb0800000000000000
+      internalID: -4640297672163480985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Wallcliming_Fall_25
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 18
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2459f40c924bbd470800000000000000
+      internalID: 8420522019712374082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Wallcliming_Fall_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 18
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3117e62e208d38bc0800000000000000
+      internalID: -3781941755160661741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Wallcliming_Fall_27
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 19
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55633d004ad308930800000000000000
+      internalID: 4143379431778629205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Wallcliming_Fall_28
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 18
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5d52f2a6de37080800000000000000
+      internalID: -9190741374219725324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Wallcliming_Fall_29
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 19
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08fe74aeb819008c0800000000000000
+      internalID: -4035065236006899840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Wallcliming_Fall_30
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 18
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcba53e214a5fa9d0800000000000000
+      internalID: -2760888810560181299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ellie_Basic_Wallcliming_Fall_0: -8626592920874738194
+      Ellie_Basic_Wallcliming_Fall_1: 654218652454717524
+      Ellie_Basic_Wallcliming_Fall_10: -4952183857063455778
+      Ellie_Basic_Wallcliming_Fall_11: -5986211898690075
+      Ellie_Basic_Wallcliming_Fall_12: 3081198614207039597
+      Ellie_Basic_Wallcliming_Fall_13: -4700373043971217843
+      Ellie_Basic_Wallcliming_Fall_14: -5397703913715842442
+      Ellie_Basic_Wallcliming_Fall_15: 8492775634695860028
+      Ellie_Basic_Wallcliming_Fall_16: -6811908414390453755
+      Ellie_Basic_Wallcliming_Fall_17: 9087220816103395223
+      Ellie_Basic_Wallcliming_Fall_18: -6181245108885791475
+      Ellie_Basic_Wallcliming_Fall_19: 1090548910421539201
+      Ellie_Basic_Wallcliming_Fall_2: 743283766727966799
+      Ellie_Basic_Wallcliming_Fall_20: 4731433025988743068
+      Ellie_Basic_Wallcliming_Fall_21: 7226256819664710473
+      Ellie_Basic_Wallcliming_Fall_22: 8242210629634427264
+      Ellie_Basic_Wallcliming_Fall_23: -4939312712031146939
+      Ellie_Basic_Wallcliming_Fall_24: -4640297672163480985
+      Ellie_Basic_Wallcliming_Fall_25: 8420522019712374082
+      Ellie_Basic_Wallcliming_Fall_26: -3781941755160661741
+      Ellie_Basic_Wallcliming_Fall_27: 4143379431778629205
+      Ellie_Basic_Wallcliming_Fall_28: -9190741374219725324
+      Ellie_Basic_Wallcliming_Fall_29: -4035065236006899840
+      Ellie_Basic_Wallcliming_Fall_3: 1319409347918724798
+      Ellie_Basic_Wallcliming_Fall_30: -2760888810560181299
+      Ellie_Basic_Wallcliming_Fall_4: 2894798689322105092
+      Ellie_Basic_Wallcliming_Fall_5: -6143871739866785893
+      Ellie_Basic_Wallcliming_Fall_6: -587470969649635719
+      Ellie_Basic_Wallcliming_Fall_7: 3327698245613024220
+      Ellie_Basic_Wallcliming_Fall_8: -5319912950410055116
+      Ellie_Basic_Wallcliming_Fall_9: -3083079239663205769
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

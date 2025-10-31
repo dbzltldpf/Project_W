@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 7b8c9d350047f8f4d85a7379af867337
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3034313363278904294
+    second: Ellie_Basic_CatToy_Throw_0
+  - first:
+      213: 7631037307516054326
+    second: Ellie_Basic_CatToy_Throw_1
+  - first:
+      213: -9140647616924119322
+    second: Ellie_Basic_CatToy_Throw_2
+  - first:
+      213: 1318690981695148211
+    second: Ellie_Basic_CatToy_Throw_3
+  - first:
+      213: -6684484033878425359
+    second: Ellie_Basic_CatToy_Throw_4
+  - first:
+      213: -406412456188013428
+    second: Ellie_Basic_CatToy_Throw_5
+  - first:
+      213: 53097447465111439
+    second: Ellie_Basic_CatToy_Throw_6
+  - first:
+      213: 5199027315524803894
+    second: Ellie_Basic_CatToy_Throw_7
+  - first:
+      213: 6768385890739590910
+    second: Ellie_Basic_CatToy_Throw_8
+  - first:
+      213: 8288914038049449957
+    second: Ellie_Basic_CatToy_Throw_9
+  - first:
+      213: -6861751378061829987
+    second: Ellie_Basic_CatToy_Throw_10
+  - first:
+      213: 4166574601929462112
+    second: Ellie_Basic_CatToy_Throw_11
+  - first:
+      213: -4838891131005898069
+    second: Ellie_Basic_CatToy_Throw_12
+  - first:
+      213: -909333062412085819
+    second: Ellie_Basic_CatToy_Throw_13
+  - first:
+      213: 3589828965369453560
+    second: Ellie_Basic_CatToy_Throw_14
+  - first:
+      213: -8867457115914903144
+    second: Ellie_Basic_CatToy_Throw_15
+  - first:
+      213: -561681922219169987
+    second: Ellie_Basic_CatToy_Throw_16
+  - first:
+      213: -1294574110786171892
+    second: Ellie_Basic_CatToy_Throw_17
+  - first:
+      213: 7775721353249595489
+    second: Ellie_Basic_CatToy_Throw_18
+  - first:
+      213: 1572226160261688754
+    second: Ellie_Basic_CatToy_Throw_19
+  - first:
+      213: 8731058812927998401
+    second: Ellie_Basic_CatToy_Throw_20
+  - first:
+      213: -6361241809254189946
+    second: Ellie_Basic_CatToy_Throw_21
+  - first:
+      213: 1822614998034015173
+    second: Ellie_Basic_CatToy_Throw_22
+  - first:
+      213: 8490957626102942239
+    second: Ellie_Basic_CatToy_Throw_23
+  - first:
+      213: 4371484740047346577
+    second: Ellie_Basic_CatToy_Throw_24
+  - first:
+      213: -1152009186732302713
+    second: Ellie_Basic_CatToy_Throw_25
+  - first:
+      213: -984093959348377253
+    second: Ellie_Basic_CatToy_Throw_26
+  - first:
+      213: 2005157479698580706
+    second: Ellie_Basic_CatToy_Throw_27
+  - first:
+      213: 7316759955924741304
+    second: Ellie_Basic_CatToy_Throw_28
+  - first:
+      213: -2818838739603087552
+    second: Ellie_Basic_CatToy_Throw_29
+  - first:
+      213: 8882360803599275129
+    second: Ellie_Basic_CatToy_Throw_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Throw_0
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1038
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ebb57b6deb0c1a20800000000000000
+      internalID: 3034313363278904294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Throw_1
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1038
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b6f3e0004e6e960800000000000000
+      internalID: 7631037307516054326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Throw_2
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1039
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee8730fb65e52180800000000000000
+      internalID: -9140647616924119322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Throw_3
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1039
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0537c067eec4210800000000000000
+      internalID: 1318690981695148211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Throw_4
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1041
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f008e5ef21fb33a0800000000000000
+      internalID: -6684484033878425359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Throw_5
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1039
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c849e9c36022c5af0800000000000000
+      internalID: -406412456188013428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Throw_6
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 879
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f43aed8d3acb000800000000000000
+      internalID: 53097447465111439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Throw_7
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 881
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d986f3cc7a62840800000000000000
+      internalID: 5199027315524803894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Throw_8
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 879
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef69c407b132eed50800000000000000
+      internalID: 6768385890739590910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Throw_9
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 879
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7afaba663280370800000000000000
+      internalID: 8288914038049449957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Throw_10
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 881
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98d39d0a7926c0a0800000000000000
+      internalID: -6861751378061829987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Throw_11
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 879
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0619b266685a2d930800000000000000
+      internalID: 4166574601929462112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Throw_12
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 879
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2fa95672ec8dcb0800000000000000
+      internalID: -4838891131005898069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Throw_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 719
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5d868c5666163f0800000000000000
+      internalID: -909333062412085819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Throw_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 719
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb114d9c62a1d130800000000000000
+      internalID: 3589828965369453560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Throw_15
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 721
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891e1e02cb670f480800000000000000
+      internalID: -8867457115914903144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Throw_16
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 719
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d372e5584418438f0800000000000000
+      internalID: -561681922219169987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Throw_17
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 719
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c4c2784bfb80ee0800000000000000
+      internalID: -1294574110786171892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Throw_18
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 719
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160acdc8f59e8eb60800000000000000
+      internalID: 7775721353249595489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Throw_19
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 721
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd69fcdc5ba1d510800000000000000
+      internalID: 1572226160261688754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Throw_20
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 559
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9fd913bb3fa2970800000000000000
+      internalID: 8731058812927998401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Throw_21
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 104
+        width: 177
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6847a0d174458b7a0800000000000000
+      internalID: -6361241809254189946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Throw_22
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 559
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3ed102faa3b4910800000000000000
+      internalID: 1822614998034015173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Throw_23
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 266
+        width: 28
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a82c259f0f5d570800000000000000
+      internalID: 8490957626102942239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Throw_24
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 559
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b109fb532aaac30800000000000000
+      internalID: 4371484740047346577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Throw_25
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 259
+        width: 28
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e95de8fbd3300f0800000000000000
+      internalID: -1152009186732302713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Throw_26
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 101
+        width: 326
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59ae6702cbc752f0800000000000000
+      internalID: -984093959348377253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Throw_27
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 559
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4c620aa10c3db10800000000000000
+      internalID: 2005157479698580706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Throw_28
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 424
+        width: 27
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc62bff96a5a8560800000000000000
+      internalID: 7316759955924741304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Throw_29
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 101
+        width: 336
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f19d6e91971e8d0800000000000000
+      internalID: -2818838739603087552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Throw_30
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 426
+        width: 27
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9745361171c744b70800000000000000
+      internalID: 8882360803599275129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ellie_Basic_CatToy_Throw_0: 3034313363278904294
+      Ellie_Basic_CatToy_Throw_1: 7631037307516054326
+      Ellie_Basic_CatToy_Throw_10: -6861751378061829987
+      Ellie_Basic_CatToy_Throw_11: 4166574601929462112
+      Ellie_Basic_CatToy_Throw_12: -4838891131005898069
+      Ellie_Basic_CatToy_Throw_13: -909333062412085819
+      Ellie_Basic_CatToy_Throw_14: 3589828965369453560
+      Ellie_Basic_CatToy_Throw_15: -8867457115914903144
+      Ellie_Basic_CatToy_Throw_16: -561681922219169987
+      Ellie_Basic_CatToy_Throw_17: -1294574110786171892
+      Ellie_Basic_CatToy_Throw_18: 7775721353249595489
+      Ellie_Basic_CatToy_Throw_19: 1572226160261688754
+      Ellie_Basic_CatToy_Throw_2: -9140647616924119322
+      Ellie_Basic_CatToy_Throw_20: 8731058812927998401
+      Ellie_Basic_CatToy_Throw_21: -6361241809254189946
+      Ellie_Basic_CatToy_Throw_22: 1822614998034015173
+      Ellie_Basic_CatToy_Throw_23: 8490957626102942239
+      Ellie_Basic_CatToy_Throw_24: 4371484740047346577
+      Ellie_Basic_CatToy_Throw_25: -1152009186732302713
+      Ellie_Basic_CatToy_Throw_26: -984093959348377253
+      Ellie_Basic_CatToy_Throw_27: 2005157479698580706
+      Ellie_Basic_CatToy_Throw_28: 7316759955924741304
+      Ellie_Basic_CatToy_Throw_29: -2818838739603087552
+      Ellie_Basic_CatToy_Throw_3: 1318690981695148211
+      Ellie_Basic_CatToy_Throw_30: 8882360803599275129
+      Ellie_Basic_CatToy_Throw_4: -6684484033878425359
+      Ellie_Basic_CatToy_Throw_5: -406412456188013428
+      Ellie_Basic_CatToy_Throw_6: 53097447465111439
+      Ellie_Basic_CatToy_Throw_7: 5199027315524803894
+      Ellie_Basic_CatToy_Throw_8: 6768385890739590910
+      Ellie_Basic_CatToy_Throw_9: 8288914038049449957
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

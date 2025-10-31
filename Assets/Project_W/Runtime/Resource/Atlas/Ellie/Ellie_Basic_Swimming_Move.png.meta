@@ -1,0 +1,2925 @@
+fileFormatVersion: 2
+guid: 587bee6181d3fd1478c559a03fff3eff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6092885533030954075
+    second: Ellie_Basic_Swimming_Move_0
+  - first:
+      213: 5813921565715855803
+    second: Ellie_Basic_Swimming_Move_1
+  - first:
+      213: 2038044594687166561
+    second: Ellie_Basic_Swimming_Move_2
+  - first:
+      213: 7991962295317399325
+    second: Ellie_Basic_Swimming_Move_3
+  - first:
+      213: 9080872189497991369
+    second: Ellie_Basic_Swimming_Move_4
+  - first:
+      213: 3839781797411547015
+    second: Ellie_Basic_Swimming_Move_5
+  - first:
+      213: 9072709490646735953
+    second: Ellie_Basic_Swimming_Move_6
+  - first:
+      213: -7860710705664227029
+    second: Ellie_Basic_Swimming_Move_7
+  - first:
+      213: 685978021209667092
+    second: Ellie_Basic_Swimming_Move_8
+  - first:
+      213: 5591010783952100656
+    second: Ellie_Basic_Swimming_Move_9
+  - first:
+      213: 828816009790966801
+    second: Ellie_Basic_Swimming_Move_10
+  - first:
+      213: 7207020248558084347
+    second: Ellie_Basic_Swimming_Move_11
+  - first:
+      213: -6247939933804672022
+    second: Ellie_Basic_Swimming_Move_12
+  - first:
+      213: 3910890386029507142
+    second: Ellie_Basic_Swimming_Move_13
+  - first:
+      213: 907807679862151921
+    second: Ellie_Basic_Swimming_Move_14
+  - first:
+      213: 7153189014610168689
+    second: Ellie_Basic_Swimming_Move_15
+  - first:
+      213: -1409562093087749941
+    second: Ellie_Basic_Swimming_Move_16
+  - first:
+      213: 77800987100998345
+    second: Ellie_Basic_Swimming_Move_17
+  - first:
+      213: -8320956289280612560
+    second: Ellie_Basic_Swimming_Move_18
+  - first:
+      213: -3567151815067510563
+    second: Ellie_Basic_Swimming_Move_19
+  - first:
+      213: -4161989482967404786
+    second: Ellie_Basic_Swimming_Move_20
+  - first:
+      213: -2696963504258760133
+    second: Ellie_Basic_Swimming_Move_21
+  - first:
+      213: 2066887020025217243
+    second: Ellie_Basic_Swimming_Move_22
+  - first:
+      213: 2487965217340627688
+    second: Ellie_Basic_Swimming_Move_23
+  - first:
+      213: -3739726229000207368
+    second: Ellie_Basic_Swimming_Move_24
+  - first:
+      213: -1226809234029863866
+    second: Ellie_Basic_Swimming_Move_25
+  - first:
+      213: -1708062957206235350
+    second: Ellie_Basic_Swimming_Move_26
+  - first:
+      213: -1314535241229818514
+    second: Ellie_Basic_Swimming_Move_27
+  - first:
+      213: -938028337180334344
+    second: Ellie_Basic_Swimming_Move_28
+  - first:
+      213: 1117824289239787752
+    second: Ellie_Basic_Swimming_Move_29
+  - first:
+      213: -7217551290170533580
+    second: Ellie_Basic_Swimming_Move_30
+  - first:
+      213: -6617279224127743797
+    second: Ellie_Basic_Swimming_Move_31
+  - first:
+      213: 1882363777706040937
+    second: Ellie_Basic_Swimming_Move_32
+  - first:
+      213: 58326917278259776
+    second: Ellie_Basic_Swimming_Move_33
+  - first:
+      213: -121338537617244723
+    second: Ellie_Basic_Swimming_Move_34
+  - first:
+      213: -2865916422439426510
+    second: Ellie_Basic_Swimming_Move_35
+  - first:
+      213: -687639492599504542
+    second: Ellie_Basic_Swimming_Move_36
+  - first:
+      213: -254823032826910112
+    second: Ellie_Basic_Swimming_Move_37
+  - first:
+      213: 8455598804462678853
+    second: Ellie_Basic_Swimming_Move_38
+  - first:
+      213: 3006727769997789276
+    second: Ellie_Basic_Swimming_Move_39
+  - first:
+      213: -4606685581334713256
+    second: Ellie_Basic_Swimming_Move_40
+  - first:
+      213: -2244257195212127152
+    second: Ellie_Basic_Swimming_Move_41
+  - first:
+      213: -1035389874382910420
+    second: Ellie_Basic_Swimming_Move_42
+  - first:
+      213: -4147568368066168628
+    second: Ellie_Basic_Swimming_Move_43
+  - first:
+      213: 9129768150082572263
+    second: Ellie_Basic_Swimming_Move_44
+  - first:
+      213: -3687633937972749642
+    second: Ellie_Basic_Swimming_Move_45
+  - first:
+      213: 6687326295567795418
+    second: Ellie_Basic_Swimming_Move_46
+  - first:
+      213: -4340211979452616291
+    second: Ellie_Basic_Swimming_Move_47
+  - first:
+      213: -7564671756652624308
+    second: Ellie_Basic_Swimming_Move_48
+  - first:
+      213: -5931484910844756185
+    second: Ellie_Basic_Swimming_Move_49
+  - first:
+      213: -7759623823117305252
+    second: Ellie_Basic_Swimming_Move_50
+  - first:
+      213: 5624106920126094645
+    second: Ellie_Basic_Swimming_Move_51
+  - first:
+      213: 5501966401564667288
+    second: Ellie_Basic_Swimming_Move_52
+  - first:
+      213: -5360954544702501006
+    second: Ellie_Basic_Swimming_Move_53
+  - first:
+      213: -5014441653432713266
+    second: Ellie_Basic_Swimming_Move_54
+  - first:
+      213: -7168711160972894397
+    second: Ellie_Basic_Swimming_Move_55
+  - first:
+      213: -7578641997277359594
+    second: Ellie_Basic_Swimming_Move_56
+  - first:
+      213: 1127664518984334877
+    second: Ellie_Basic_Swimming_Move_57
+  - first:
+      213: 7458419598510979072
+    second: Ellie_Basic_Swimming_Move_58
+  - first:
+      213: 8068257140308710849
+    second: Ellie_Basic_Swimming_Move_59
+  - first:
+      213: 7511762408986889761
+    second: Ellie_Basic_Swimming_Move_60
+  - first:
+      213: 2727058814170424198
+    second: Ellie_Basic_Swimming_Move_61
+  - first:
+      213: -8081336835132219802
+    second: Ellie_Basic_Swimming_Move_62
+  - first:
+      213: 6622563970512092895
+    second: Ellie_Basic_Swimming_Move_63
+  - first:
+      213: 1214120254641931308
+    second: Ellie_Basic_Swimming_Move_64
+  - first:
+      213: 3840345992044121614
+    second: Ellie_Basic_Swimming_Move_65
+  - first:
+      213: 9008130837419605307
+    second: Ellie_Basic_Swimming_Move_66
+  - first:
+      213: 3370824588255270060
+    second: Ellie_Basic_Swimming_Move_67
+  - first:
+      213: 7136273015431591945
+    second: Ellie_Basic_Swimming_Move_68
+  - first:
+      213: 5874321375708191982
+    second: Ellie_Basic_Swimming_Move_69
+  - first:
+      213: 8238171808502958556
+    second: Ellie_Basic_Swimming_Move_70
+  - first:
+      213: -8269577530534036962
+    second: Ellie_Basic_Swimming_Move_71
+  - first:
+      213: -1418050715816492664
+    second: Ellie_Basic_Swimming_Move_72
+  - first:
+      213: -2163445280017053511
+    second: Ellie_Basic_Swimming_Move_73
+  - first:
+      213: 1929650897490317657
+    second: Ellie_Basic_Swimming_Move_74
+  - first:
+      213: -9192430287425723560
+    second: Ellie_Basic_Swimming_Move_75
+  - first:
+      213: 312618967760263769
+    second: Ellie_Basic_Swimming_Move_76
+  - first:
+      213: 6563153454664487087
+    second: Ellie_Basic_Swimming_Move_77
+  - first:
+      213: -2424178000131266146
+    second: Ellie_Basic_Swimming_Move_78
+  - first:
+      213: 5420354890013212420
+    second: Ellie_Basic_Swimming_Move_79
+  - first:
+      213: 6464022076046537521
+    second: Ellie_Basic_Swimming_Move_80
+  - first:
+      213: -3266011169220046998
+    second: Ellie_Basic_Swimming_Move_81
+  - first:
+      213: -4198110034881291753
+    second: Ellie_Basic_Swimming_Move_82
+  - first:
+      213: -6145464372489039214
+    second: Ellie_Basic_Swimming_Move_83
+  - first:
+      213: 3126578146585883024
+    second: Ellie_Basic_Swimming_Move_84
+  - first:
+      213: -9100469261891471221
+    second: Ellie_Basic_Swimming_Move_85
+  - first:
+      213: -1280037821653278695
+    second: Ellie_Basic_Swimming_Move_86
+  - first:
+      213: 7319647754448486757
+    second: Ellie_Basic_Swimming_Move_87
+  - first:
+      213: -1273616194345509201
+    second: Ellie_Basic_Swimming_Move_88
+  - first:
+      213: 3401742177243646638
+    second: Ellie_Basic_Swimming_Move_89
+  - first:
+      213: -3076525146397383390
+    second: Ellie_Basic_Swimming_Move_90
+  - first:
+      213: -4462714996295650790
+    second: Ellie_Basic_Swimming_Move_91
+  - first:
+      213: -1407842850152588350
+    second: Ellie_Basic_Swimming_Move_92
+  - first:
+      213: -3808185395731787233
+    second: Ellie_Basic_Swimming_Move_93
+  - first:
+      213: -6672012319881635205
+    second: Ellie_Basic_Swimming_Move_94
+  - first:
+      213: -7516068046679865339
+    second: Ellie_Basic_Swimming_Move_95
+  - first:
+      213: 6314491044642157672
+    second: Ellie_Basic_Swimming_Move_96
+  - first:
+      213: 8634213675826308790
+    second: Ellie_Basic_Swimming_Move_97
+  - first:
+      213: -8110851883059078080
+    second: Ellie_Basic_Swimming_Move_98
+  - first:
+      213: 7950329206452897398
+    second: Ellie_Basic_Swimming_Move_99
+  - first:
+      213: 3814573015806214421
+    second: Ellie_Basic_Swimming_Move_100
+  - first:
+      213: -8781424492403759983
+    second: Ellie_Basic_Swimming_Move_101
+  - first:
+      213: -8486081333728465394
+    second: Ellie_Basic_Swimming_Move_102
+  - first:
+      213: 491774179514057188
+    second: Ellie_Basic_Swimming_Move_103
+  - first:
+      213: 2865197924229477851
+    second: Ellie_Basic_Swimming_Move_104
+  - first:
+      213: -5246528560901907304
+    second: Ellie_Basic_Swimming_Move_105
+  - first:
+      213: 5583155001659704157
+    second: Ellie_Basic_Swimming_Move_106
+  - first:
+      213: 124154496062840151
+    second: Ellie_Basic_Swimming_Move_107
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_0
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 829
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abc292a3e8b17ba0800000000000000
+      internalID: -6092885533030954075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_1
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 829
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9f97c4cd23fa050800000000000000
+      internalID: 5813921565715855803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_2
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 829
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168cbb6c2c6984c10800000000000000
+      internalID: 2038044594687166561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_3
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 829
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1785b64d5729ee60800000000000000
+      internalID: 7991962295317399325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_4
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 829
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c060c1d42db50e70800000000000000
+      internalID: 9080872189497991369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_5
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 829
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787e9b16335a94530800000000000000
+      internalID: 3839781797411547015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_6
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 829
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c5054663db8ed70800000000000000
+      internalID: 9072709490646735953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_7
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 829
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2906c2d24529e290800000000000000
+      internalID: -7860710705664227029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_8
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 731
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4167de53065158900800000000000000
+      internalID: 685978021209667092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_9
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 731
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03dd7d08fa2479d40800000000000000
+      internalID: 5591010783952100656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_10
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 730
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c4fb705cb808b00800000000000000
+      internalID: 828816009790966801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_11
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 730
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf02a5c4bba740460800000000000000
+      internalID: 7207020248558084347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_12
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 729
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb4893bbbbda49a0800000000000000
+      internalID: -6247939933804672022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_13
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 729
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64277c6d516464630800000000000000
+      internalID: 3910890386029507142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_14
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 729
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa1e8a664e299c00800000000000000
+      internalID: 907807679862151921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_15
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 729
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bc013728b354360800000000000000
+      internalID: 7153189014610168689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_16
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 729
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc806a89eba307ce0800000000000000
+      internalID: -1409562093087749941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_17
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 629
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca6457e597641100800000000000000
+      internalID: 77800987100998345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_18
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 629
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03760e95756068c80800000000000000
+      internalID: -8320956289280612560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_19
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 629
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8d203e25eee7ec0800000000000000
+      internalID: -3567151815067510563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_20
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 626
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0fe0dccd94ad36c0800000000000000
+      internalID: -4161989482967404786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_21
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 627
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32c6746bf5729ad0800000000000000
+      internalID: -2696963504258760133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_22
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 626
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0087b3bce0fac10800000000000000
+      internalID: 2066887020025217243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_23
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 626
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea9d11fe27078220800000000000000
+      internalID: 2487965217340627688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_24
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 626
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f34b330fc2d91cc0800000000000000
+      internalID: -3739726229000207368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_25
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 545
+        width: 27
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c1b76608f79fee0800000000000000
+      internalID: -1226809234029863866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_26
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 544
+        width: 29
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2718b54acdbb48e0800000000000000
+      internalID: -1708062957206235350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_27
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 443
+        width: 115
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65a3cda925d1cde0800000000000000
+      internalID: -1314535241229818514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_28
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 444
+        width: 27
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6ad1d72347bf2f0800000000000000
+      internalID: -938028337180334344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_29
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 444
+        width: 28
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8e071c44f438f00800000000000000
+      internalID: 1117824289239787752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_30
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 445
+        width: 29
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4391931875b16db90800000000000000
+      internalID: -7217551290170533580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_31
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 444
+        width: 27
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc81b420b93ba24a0800000000000000
+      internalID: -6617279224127743797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_32
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 443
+        width: 27
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e1b34f1ef7f1a10800000000000000
+      internalID: 1882363777706040937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_33
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 442
+        width: 115
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ad631b5083fc000800000000000000
+      internalID: 58326917278259776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_34
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 328
+        width: 120
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd32cf2e3be05ef0800000000000000
+      internalID: -121338537617244723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_35
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 337
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2362a84b2383a38d0800000000000000
+      internalID: -2865916422439426510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_36
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 340
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261a31656830576f0800000000000000
+      internalID: -687639492599504542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_37
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 343
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06aa3cf3dcfa67cf0800000000000000
+      internalID: -254823032826910112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_38
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 344
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543373f1052585570800000000000000
+      internalID: 8455598804462678853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_39
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 330
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58450bf9fa0ab920800000000000000
+      internalID: 3006727769997789276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_40
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 328
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c61acfed3c110c0800000000000000
+      internalID: -4606685581334713256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_41
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 332
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05444c6b8fbcad0e0800000000000000
+      internalID: -2244257195212127152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_42
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 328
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2cce5d156e81a1f0800000000000000
+      internalID: -1035389874382910420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_43
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 328
+        width: 40
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8f4c34b80e076c0800000000000000
+      internalID: -4147568368066168628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_44
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 328
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7efc85bc2c373be70800000000000000
+      internalID: 9129768150082572263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_45
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 330
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba9579a874e2dcc0800000000000000
+      internalID: -3687633937972749642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_46
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 328
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad48278b5d72ecc50800000000000000
+      internalID: 6687326295567795418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_47
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 328
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91f4da333874c3c0800000000000000
+      internalID: -4340211979452616291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_48
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 328
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c464a4edd13e40790800000000000000
+      internalID: -7564671756652624308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_49
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 230
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f328266e12fada0800000000000000
+      internalID: -5931484910844756185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_50
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 230
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a3f60ce37405490800000000000000
+      internalID: -7759623823117305252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_51
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 246
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d9ee03277dc0e40800000000000000
+      internalID: 5624106920126094645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_52
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 236
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d6563aa49ea5c40800000000000000
+      internalID: 5501966401564667288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_53
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 230
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27fcdf1ce301a95b0800000000000000
+      internalID: -5360954544702501006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_54
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 230
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf783442ef196ab0800000000000000
+      internalID: -5014441653432713266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_55
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 230
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f15d83e2f938c90800000000000000
+      internalID: -7168711160972894397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_56
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 237
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6121d60c14143d690800000000000000
+      internalID: -7578641997277359594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_57
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 228
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e7fd7c7e446af00800000000000000
+      internalID: 1127664518984334877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_58
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 240
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008fe03cb11a18760800000000000000
+      internalID: 7458419598510979072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_59
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 228
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c51c942f1538ff60800000000000000
+      internalID: 8068257140308710849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_60
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 230
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ecbc8ac142f3860800000000000000
+      internalID: 7511762408986889761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_61
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 243
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683e93cfa8578d520800000000000000
+      internalID: 2727058814170424198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_62
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 228
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e1aa717f259df80800000000000000
+      internalID: -8081336835132219802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_63
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 244
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde7ca4e7d218eb50800000000000000
+      internalID: 6622563970512092895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_64
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 228
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c240a8c50fb69d010800000000000000
+      internalID: 1214120254641931308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_65
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 228
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e826e2556ab4530800000000000000
+      internalID: 3840345992044121614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_66
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 132
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d33aef44f430d70800000000000000
+      internalID: 9008130837419605307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_67
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 128
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca49b178a1397ce20800000000000000
+      internalID: 3370824588255270060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_68
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 130
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90871097f72290360800000000000000
+      internalID: 7136273015431591945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_69
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 128
+        width: 37
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec129fea28c58150800000000000000
+      internalID: 5874321375708191982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_70
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 39
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9c474bc9dd35270800000000000000
+      internalID: 8238171808502958556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_71
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 125
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a77f1dc0f8c3d80800000000000000
+      internalID: -8269577530534036962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_72
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 125
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881054a1362125ce0800000000000000
+      internalID: -1418050715816492664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_73
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 125
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b88691faf5e9f1e0800000000000000
+      internalID: -2163445280017053511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_74
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 125
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9519c6d744f77ca10800000000000000
+      internalID: 1929650897490317657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_75
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 125
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853a27f6b5ded6080800000000000000
+      internalID: -9192430287425723560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_76
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 125
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a566b7b45a65400800000000000000
+      internalID: 312618967760263769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_77
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 124
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa097af3b41051b50800000000000000
+      internalID: 6563153454664487087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_78
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 119
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99ebd5e3f69b5ed0800000000000000
+      internalID: -2424178000131266146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_79
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 124
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ff9cfdd08f83b40800000000000000
+      internalID: 5420354890013212420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_80
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 122
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133790f84d1d4b950800000000000000
+      internalID: 6464022076046537521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_81
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 124
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f4e2a452ccca2d0800000000000000
+      internalID: -3266011169220046998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_82
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 128
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ad5e27a215db5c0800000000000000
+      internalID: -4198110034881291753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_83
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 117
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292d8f996bce6baa0800000000000000
+      internalID: -6145464372489039214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_84
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 117
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09130cd4246d36b20800000000000000
+      internalID: 3126578146585883024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_85
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 118
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88f8933c63a4b180800000000000000
+      internalID: -9100469261891471221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_86
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 115
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910aa4512646c3ee0800000000000000
+      internalID: -1280037821653278695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_87
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 113
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56143ecf9dc949560800000000000000
+      internalID: 7319647754448486757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_88
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 120
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faed9d3b1d4335ee0800000000000000
+      internalID: -1273616194345509201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_89
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 24
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa421cac7a653f20800000000000000
+      internalID: 3401742177243646638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_90
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 21
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2256d62fdacfd45d0800000000000000
+      internalID: -3076525146397383390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_91
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 24
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a123df7fa504112c0800000000000000
+      internalID: -4462714996295650790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_92
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 21
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbd4190366567ce0800000000000000
+      internalID: -1407842850152588350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_93
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 28
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1293982f8b962bc0800000000000000
+      internalID: -3808185395731787233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_94
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 22
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7adc6815204863a0800000000000000
+      internalID: -6672012319881635205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_95
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 24
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5088bf1feef81b790800000000000000
+      internalID: -7516068046679865339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_96
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 28
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864f745462491a750800000000000000
+      internalID: 6314491044642157672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_97
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 20
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b662769793e2d770800000000000000
+      internalID: 8634213675826308790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_98
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 24
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c947c7f27707f80800000000000000
+      internalID: -8110851883059078080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_99
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 24
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676c9066a4e355e60800000000000000
+      internalID: 7950329206452897398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_100
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 21
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5118be882f510f430800000000000000
+      internalID: 3814573015806214421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_101
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 28
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194eb5c33fc122680800000000000000
+      internalID: -8781424492403759983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_102
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 21
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0eaa08fcf16b3a80800000000000000
+      internalID: -8486081333728465394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_103
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 24
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e105afb20223d600800000000000000
+      internalID: 491774179514057188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_104
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 19
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd572e4e45a33c720800000000000000
+      internalID: 2865197924229477851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_105
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 18
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c108732169037b0800000000000000
+      internalID: -5246528560901907304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_106
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 19
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d534fd7a4e95b7d40800000000000000
+      internalID: 5583155001659704157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Swimming_Move_107
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 18
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75dd71b3bd519b100800000000000000
+      internalID: 124154496062840151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ellie_Basic_Swimming_Move_0: -6092885533030954075
+      Ellie_Basic_Swimming_Move_1: 5813921565715855803
+      Ellie_Basic_Swimming_Move_10: 828816009790966801
+      Ellie_Basic_Swimming_Move_100: 3814573015806214421
+      Ellie_Basic_Swimming_Move_101: -8781424492403759983
+      Ellie_Basic_Swimming_Move_102: -8486081333728465394
+      Ellie_Basic_Swimming_Move_103: 491774179514057188
+      Ellie_Basic_Swimming_Move_104: 2865197924229477851
+      Ellie_Basic_Swimming_Move_105: -5246528560901907304
+      Ellie_Basic_Swimming_Move_106: 5583155001659704157
+      Ellie_Basic_Swimming_Move_107: 124154496062840151
+      Ellie_Basic_Swimming_Move_11: 7207020248558084347
+      Ellie_Basic_Swimming_Move_12: -6247939933804672022
+      Ellie_Basic_Swimming_Move_13: 3910890386029507142
+      Ellie_Basic_Swimming_Move_14: 907807679862151921
+      Ellie_Basic_Swimming_Move_15: 7153189014610168689
+      Ellie_Basic_Swimming_Move_16: -1409562093087749941
+      Ellie_Basic_Swimming_Move_17: 77800987100998345
+      Ellie_Basic_Swimming_Move_18: -8320956289280612560
+      Ellie_Basic_Swimming_Move_19: -3567151815067510563
+      Ellie_Basic_Swimming_Move_2: 2038044594687166561
+      Ellie_Basic_Swimming_Move_20: -4161989482967404786
+      Ellie_Basic_Swimming_Move_21: -2696963504258760133
+      Ellie_Basic_Swimming_Move_22: 2066887020025217243
+      Ellie_Basic_Swimming_Move_23: 2487965217340627688
+      Ellie_Basic_Swimming_Move_24: -3739726229000207368
+      Ellie_Basic_Swimming_Move_25: -1226809234029863866
+      Ellie_Basic_Swimming_Move_26: -1708062957206235350
+      Ellie_Basic_Swimming_Move_27: -1314535241229818514
+      Ellie_Basic_Swimming_Move_28: -938028337180334344
+      Ellie_Basic_Swimming_Move_29: 1117824289239787752
+      Ellie_Basic_Swimming_Move_3: 7991962295317399325
+      Ellie_Basic_Swimming_Move_30: -7217551290170533580
+      Ellie_Basic_Swimming_Move_31: -6617279224127743797
+      Ellie_Basic_Swimming_Move_32: 1882363777706040937
+      Ellie_Basic_Swimming_Move_33: 58326917278259776
+      Ellie_Basic_Swimming_Move_34: -121338537617244723
+      Ellie_Basic_Swimming_Move_35: -2865916422439426510
+      Ellie_Basic_Swimming_Move_36: -687639492599504542
+      Ellie_Basic_Swimming_Move_37: -254823032826910112
+      Ellie_Basic_Swimming_Move_38: 8455598804462678853
+      Ellie_Basic_Swimming_Move_39: 3006727769997789276
+      Ellie_Basic_Swimming_Move_4: 9080872189497991369
+      Ellie_Basic_Swimming_Move_40: -4606685581334713256
+      Ellie_Basic_Swimming_Move_41: -2244257195212127152
+      Ellie_Basic_Swimming_Move_42: -1035389874382910420
+      Ellie_Basic_Swimming_Move_43: -4147568368066168628
+      Ellie_Basic_Swimming_Move_44: 9129768150082572263
+      Ellie_Basic_Swimming_Move_45: -3687633937972749642
+      Ellie_Basic_Swimming_Move_46: 6687326295567795418
+      Ellie_Basic_Swimming_Move_47: -4340211979452616291
+      Ellie_Basic_Swimming_Move_48: -7564671756652624308
+      Ellie_Basic_Swimming_Move_49: -5931484910844756185
+      Ellie_Basic_Swimming_Move_5: 3839781797411547015
+      Ellie_Basic_Swimming_Move_50: -7759623823117305252
+      Ellie_Basic_Swimming_Move_51: 5624106920126094645
+      Ellie_Basic_Swimming_Move_52: 5501966401564667288
+      Ellie_Basic_Swimming_Move_53: -5360954544702501006
+      Ellie_Basic_Swimming_Move_54: -5014441653432713266
+      Ellie_Basic_Swimming_Move_55: -7168711160972894397
+      Ellie_Basic_Swimming_Move_56: -7578641997277359594
+      Ellie_Basic_Swimming_Move_57: 1127664518984334877
+      Ellie_Basic_Swimming_Move_58: 7458419598510979072
+      Ellie_Basic_Swimming_Move_59: 8068257140308710849
+      Ellie_Basic_Swimming_Move_6: 9072709490646735953
+      Ellie_Basic_Swimming_Move_60: 7511762408986889761
+      Ellie_Basic_Swimming_Move_61: 2727058814170424198
+      Ellie_Basic_Swimming_Move_62: -8081336835132219802
+      Ellie_Basic_Swimming_Move_63: 6622563970512092895
+      Ellie_Basic_Swimming_Move_64: 1214120254641931308
+      Ellie_Basic_Swimming_Move_65: 3840345992044121614
+      Ellie_Basic_Swimming_Move_66: 9008130837419605307
+      Ellie_Basic_Swimming_Move_67: 3370824588255270060
+      Ellie_Basic_Swimming_Move_68: 7136273015431591945
+      Ellie_Basic_Swimming_Move_69: 5874321375708191982
+      Ellie_Basic_Swimming_Move_7: -7860710705664227029
+      Ellie_Basic_Swimming_Move_70: 8238171808502958556
+      Ellie_Basic_Swimming_Move_71: -8269577530534036962
+      Ellie_Basic_Swimming_Move_72: -1418050715816492664
+      Ellie_Basic_Swimming_Move_73: -2163445280017053511
+      Ellie_Basic_Swimming_Move_74: 1929650897490317657
+      Ellie_Basic_Swimming_Move_75: -9192430287425723560
+      Ellie_Basic_Swimming_Move_76: 312618967760263769
+      Ellie_Basic_Swimming_Move_77: 6563153454664487087
+      Ellie_Basic_Swimming_Move_78: -2424178000131266146
+      Ellie_Basic_Swimming_Move_79: 5420354890013212420
+      Ellie_Basic_Swimming_Move_8: 685978021209667092
+      Ellie_Basic_Swimming_Move_80: 6464022076046537521
+      Ellie_Basic_Swimming_Move_81: -3266011169220046998
+      Ellie_Basic_Swimming_Move_82: -4198110034881291753
+      Ellie_Basic_Swimming_Move_83: -6145464372489039214
+      Ellie_Basic_Swimming_Move_84: 3126578146585883024
+      Ellie_Basic_Swimming_Move_85: -9100469261891471221
+      Ellie_Basic_Swimming_Move_86: -1280037821653278695
+      Ellie_Basic_Swimming_Move_87: 7319647754448486757
+      Ellie_Basic_Swimming_Move_88: -1273616194345509201
+      Ellie_Basic_Swimming_Move_89: 3401742177243646638
+      Ellie_Basic_Swimming_Move_9: 5591010783952100656
+      Ellie_Basic_Swimming_Move_90: -3076525146397383390
+      Ellie_Basic_Swimming_Move_91: -4462714996295650790
+      Ellie_Basic_Swimming_Move_92: -1407842850152588350
+      Ellie_Basic_Swimming_Move_93: -3808185395731787233
+      Ellie_Basic_Swimming_Move_94: -6672012319881635205
+      Ellie_Basic_Swimming_Move_95: -7516068046679865339
+      Ellie_Basic_Swimming_Move_96: 6314491044642157672
+      Ellie_Basic_Swimming_Move_97: 8634213675826308790
+      Ellie_Basic_Swimming_Move_98: -8110851883059078080
+      Ellie_Basic_Swimming_Move_99: 7950329206452897398
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

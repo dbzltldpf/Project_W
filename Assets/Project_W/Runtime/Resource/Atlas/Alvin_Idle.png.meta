@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: b336ea115ffd4024484a0347aac53713
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3400244212648641050
+    second: Alvin_Idle_0
+  - first:
+      213: -155163203128880170
+    second: Alvin_Idle_1
+  - first:
+      213: -1336860808816149913
+    second: Alvin_Idle_2
+  - first:
+      213: -5516442758278584051
+    second: Alvin_Idle_3
+  - first:
+      213: -3789081217637504605
+    second: Alvin_Idle_4
+  - first:
+      213: -4253424848663698732
+    second: Alvin_Idle_5
+  - first:
+      213: 3191814063457957965
+    second: Alvin_Idle_6
+  - first:
+      213: -8124986321424333575
+    second: Alvin_Idle_7
+  - first:
+      213: -38145999409148694
+    second: Alvin_Idle_8
+  - first:
+      213: -8728503071214298460
+    second: Alvin_Idle_9
+  - first:
+      213: 9093404378353422261
+    second: Alvin_Idle_10
+  - first:
+      213: -2496025509581865732
+    second: Alvin_Idle_11
+  - first:
+      213: 7030317420347523130
+    second: Alvin_Idle_12
+  - first:
+      213: 9215429653380112970
+    second: Alvin_Idle_13
+  - first:
+      213: -506583704531019052
+    second: Alvin_Idle_14
+  - first:
+      213: -4786036772299852707
+    second: Alvin_Idle_15
+  - first:
+      213: -2101944589637510620
+    second: Alvin_Idle_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Alvin_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 318
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12008c9818103f20800000000000000
+      internalID: 3400244212648641050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvin_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 319
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d39a4b83efb8ddf0800000000000000
+      internalID: -155163203128880170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvin_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 319
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a3f586d24827de0800000000000000
+      internalID: -1336860808816149913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvin_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 319
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d096709e988a173b0800000000000000
+      internalID: -5516442758278584051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvin_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 219
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9ac9d35ba7a6bc0800000000000000
+      internalID: -3789081217637504605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvin_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 219
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2a490c2acc8f4c0800000000000000
+      internalID: -4253424848663698732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvin_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 219
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48f181daf99b4c20800000000000000
+      internalID: 3191814063457957965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvin_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 219
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4489a1dff3e3f80800000000000000
+      internalID: -8124986321424333575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvin_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 219
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec8d976a6a787ff0800000000000000
+      internalID: -38145999409148694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvin_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 119
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa9d5bc3b02ed680800000000000000
+      internalID: -8728503071214298460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvin_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 119
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfccba6a13423e70800000000000000
+      internalID: 9093404378353422261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvin_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 119
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc3f0706065c5dd0800000000000000
+      internalID: -2496025509581865732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvin_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 119
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a300e021274b09160800000000000000
+      internalID: 7030317420347523130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvin_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 119
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42a25eb178c3ef70800000000000000
+      internalID: 9215429653380112970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvin_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 19
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da5d620ec048f8f0800000000000000
+      internalID: -506583704531019052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvin_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 19
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d543c11c9e4949db0800000000000000
+      internalID: -4786036772299852707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvin_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 19
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a1a15488464d2e0800000000000000
+      internalID: -2101944589637510620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Alvin_Idle_0: 3400244212648641050
+      Alvin_Idle_1: -155163203128880170
+      Alvin_Idle_10: 9093404378353422261
+      Alvin_Idle_11: -2496025509581865732
+      Alvin_Idle_12: 7030317420347523130
+      Alvin_Idle_13: 9215429653380112970
+      Alvin_Idle_14: -506583704531019052
+      Alvin_Idle_15: -4786036772299852707
+      Alvin_Idle_16: -2101944589637510620
+      Alvin_Idle_2: -1336860808816149913
+      Alvin_Idle_3: -5516442758278584051
+      Alvin_Idle_4: -3789081217637504605
+      Alvin_Idle_5: -4253424848663698732
+      Alvin_Idle_6: 3191814063457957965
+      Alvin_Idle_7: -8124986321424333575
+      Alvin_Idle_8: -38145999409148694
+      Alvin_Idle_9: -8728503071214298460
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

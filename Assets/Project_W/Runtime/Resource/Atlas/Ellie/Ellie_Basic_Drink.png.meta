@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 15750640b2a2cda4ab3b66798a5fe62f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5750361919899215424
+    second: Ellie_Basic_Drink_0
+  - first:
+      213: 7809299894418124604
+    second: Ellie_Basic_Drink_1
+  - first:
+      213: 7600631101262183044
+    second: Ellie_Basic_Drink_2
+  - first:
+      213: 7750107423660511964
+    second: Ellie_Basic_Drink_3
+  - first:
+      213: 5164613076680253757
+    second: Ellie_Basic_Drink_4
+  - first:
+      213: -4416586733129538562
+    second: Ellie_Basic_Drink_5
+  - first:
+      213: -6691881452863464156
+    second: Ellie_Basic_Drink_6
+  - first:
+      213: -320723637382407019
+    second: Ellie_Basic_Drink_7
+  - first:
+      213: 3605024154906988385
+    second: Ellie_Basic_Drink_8
+  - first:
+      213: -7250313410218403276
+    second: Ellie_Basic_Drink_9
+  - first:
+      213: -5833742428062846030
+    second: Ellie_Basic_Drink_10
+  - first:
+      213: 9052736112037483496
+    second: Ellie_Basic_Drink_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ellie_Basic_Drink_0
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 208
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c95972fc4c9230b0800000000000000
+      internalID: -5750361919899215424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Drink_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 208
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fa947e0e4306c60800000000000000
+      internalID: 7809299894418124604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Drink_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 209
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ab48b77bdda7960800000000000000
+      internalID: 7600631101262183044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Drink_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 209
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd21766d3a9ed8b60800000000000000
+      internalID: 7750107423660511964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Drink_4
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 159
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d312dddda346ca740800000000000000
+      internalID: 5164613076680253757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Drink_5
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 34
+        width: 73
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef36c1c24c125b2c0800000000000000
+      internalID: -4416586733129538562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Drink_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 159
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d5c031649a123a0800000000000000
+      internalID: -6691881452863464156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Drink_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 83
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c10c21d8f8c8bf0800000000000000
+      internalID: -320723637382407019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Drink_8
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 159
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f0fef5e5e970230800000000000000
+      internalID: 3605024154906988385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Drink_9
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 33
+        width: 29
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a5ea10e56b16b90800000000000000
+      internalID: -7250313410218403276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Drink_10
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 135
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b370309b226a0fa0800000000000000
+      internalID: -5833742428062846030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Drink_11
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 82
+        width: 61
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3585bc787c1ad70800000000000000
+      internalID: 9052736112037483496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ellie_Basic_Drink_0: -5750361919899215424
+      Ellie_Basic_Drink_1: 7809299894418124604
+      Ellie_Basic_Drink_10: -5833742428062846030
+      Ellie_Basic_Drink_11: 9052736112037483496
+      Ellie_Basic_Drink_2: 7600631101262183044
+      Ellie_Basic_Drink_3: 7750107423660511964
+      Ellie_Basic_Drink_4: 5164613076680253757
+      Ellie_Basic_Drink_5: -4416586733129538562
+      Ellie_Basic_Drink_6: -6691881452863464156
+      Ellie_Basic_Drink_7: -320723637382407019
+      Ellie_Basic_Drink_8: 3605024154906988385
+      Ellie_Basic_Drink_9: -7250313410218403276
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

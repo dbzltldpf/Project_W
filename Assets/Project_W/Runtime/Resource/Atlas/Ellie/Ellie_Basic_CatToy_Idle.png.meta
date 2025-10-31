@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: 89e0da54df9381942ae51acca0480d53
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6741527143209209249
+    second: Ellie_Basic_CatToy_Idle_0
+  - first:
+      213: -1818198929303892542
+    second: Ellie_Basic_CatToy_Idle_1
+  - first:
+      213: 5096520730413299357
+    second: Ellie_Basic_CatToy_Idle_2
+  - first:
+      213: 7870592155433950993
+    second: Ellie_Basic_CatToy_Idle_3
+  - first:
+      213: 8745934758823328267
+    second: Ellie_Basic_CatToy_Idle_4
+  - first:
+      213: -4012956127356413168
+    second: Ellie_Basic_CatToy_Idle_5
+  - first:
+      213: 8021155856431090424
+    second: Ellie_Basic_CatToy_Idle_6
+  - first:
+      213: -7091046597925634953
+    second: Ellie_Basic_CatToy_Idle_7
+  - first:
+      213: -8444648857990513556
+    second: Ellie_Basic_CatToy_Idle_8
+  - first:
+      213: 8559192500608502665
+    second: Ellie_Basic_CatToy_Idle_9
+  - first:
+      213: -3046961852726070239
+    second: Ellie_Basic_CatToy_Idle_10
+  - first:
+      213: -9136309145434962755
+    second: Ellie_Basic_CatToy_Idle_11
+  - first:
+      213: -8022026321004144275
+    second: Ellie_Basic_CatToy_Idle_12
+  - first:
+      213: -4996565001133669194
+    second: Ellie_Basic_CatToy_Idle_13
+  - first:
+      213: -4076431042475082615
+    second: Ellie_Basic_CatToy_Idle_14
+  - first:
+      213: 7099254914751209639
+    second: Ellie_Basic_CatToy_Idle_15
+  - first:
+      213: -8377803801389936725
+    second: Ellie_Basic_CatToy_Idle_16
+  - first:
+      213: -7568165935870243770
+    second: Ellie_Basic_CatToy_Idle_17
+  - first:
+      213: 5241008137459857650
+    second: Ellie_Basic_CatToy_Idle_18
+  - first:
+      213: -5514029005336334672
+    second: Ellie_Basic_CatToy_Idle_19
+  - first:
+      213: -5379894988622639784
+    second: Ellie_Basic_CatToy_Idle_20
+  - first:
+      213: 1466739602096787353
+    second: Ellie_Basic_CatToy_Idle_21
+  - first:
+      213: -4456979278554699897
+    second: Ellie_Basic_CatToy_Idle_22
+  - first:
+      213: 7557192934850365193
+    second: Ellie_Basic_CatToy_Idle_23
+  - first:
+      213: -8660645447236500359
+    second: Ellie_Basic_CatToy_Idle_24
+  - first:
+      213: -2847766581360017345
+    second: Ellie_Basic_CatToy_Idle_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 878
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad83a6f737be8d50800000000000000
+      internalID: 6741527143209209249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 878
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd88dff4b574c6e0800000000000000
+      internalID: -1818198929303892542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 879
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96f2be0a9a7ab640800000000000000
+      internalID: 5096520730413299357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 879
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11fdd9c7dd5f93d60800000000000000
+      internalID: 7870592155433950993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 879
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0af760435dcf5970800000000000000
+      internalID: 8745934758823328267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 879
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b91b9e9ad1f48c0800000000000000
+      internalID: -4012956127356413168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 719
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa8e96e0ced05f60800000000000000
+      internalID: 8021155856431090424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 719
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c76ec60ba879d90800000000000000
+      internalID: -7091046597925634953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 719
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c3196fa949eca80800000000000000
+      internalID: -8444648857990513556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 719
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b05f21b3c58c670800000000000000
+      internalID: 8559192500608502665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 719
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124b814a65407b5d0800000000000000
+      internalID: -3046961852726070239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 719
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4423c0d3f453180800000000000000
+      internalID: -9136309145434962755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 719
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69d6b540990ca090800000000000000
+      internalID: -8022026321004144275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 559
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4474aba92a8aab0800000000000000
+      internalID: -4996565001133669194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 105
+        width: 175
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98cb5e1909b9d67c0800000000000000
+      internalID: -4076431042475082615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 265
+        width: 29
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a021b34bbe958260800000000000000
+      internalID: 7099254914751209639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 559
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf4c3484df0cbb80800000000000000
+      internalID: -8377803801389936725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 559
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c0e3fdd2978f690800000000000000
+      internalID: -7568165935870243770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 268
+        width: 29
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8f93a022dcbb840800000000000000
+      internalID: 5241008137459857650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 105
+        width: 177
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be2abf85db3a73b0800000000000000
+      internalID: -5514029005336334672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 559
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d4e320306c655b0800000000000000
+      internalID: -5379894988622639784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 559
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f0af0a5e7ea5410800000000000000
+      internalID: 1466739602096787353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 269
+        width: 29
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7876872d5f0a522c0800000000000000
+      internalID: -4456979278554699897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 105
+        width: 178
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90709dc3fea80e860800000000000000
+      internalID: 7557192934850365193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 559
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9744ddf0ad43fc780800000000000000
+      internalID: -8660645447236500359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_CatToy_Idle_25
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 265
+        width: 27
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30cec2e163ba78d0800000000000000
+      internalID: -2847766581360017345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ellie_Basic_CatToy_Idle_0: 6741527143209209249
+      Ellie_Basic_CatToy_Idle_1: -1818198929303892542
+      Ellie_Basic_CatToy_Idle_10: -3046961852726070239
+      Ellie_Basic_CatToy_Idle_11: -9136309145434962755
+      Ellie_Basic_CatToy_Idle_12: -8022026321004144275
+      Ellie_Basic_CatToy_Idle_13: -4996565001133669194
+      Ellie_Basic_CatToy_Idle_14: -4076431042475082615
+      Ellie_Basic_CatToy_Idle_15: 7099254914751209639
+      Ellie_Basic_CatToy_Idle_16: -8377803801389936725
+      Ellie_Basic_CatToy_Idle_17: -7568165935870243770
+      Ellie_Basic_CatToy_Idle_18: 5241008137459857650
+      Ellie_Basic_CatToy_Idle_19: -5514029005336334672
+      Ellie_Basic_CatToy_Idle_2: 5096520730413299357
+      Ellie_Basic_CatToy_Idle_20: -5379894988622639784
+      Ellie_Basic_CatToy_Idle_21: 1466739602096787353
+      Ellie_Basic_CatToy_Idle_22: -4456979278554699897
+      Ellie_Basic_CatToy_Idle_23: 7557192934850365193
+      Ellie_Basic_CatToy_Idle_24: -8660645447236500359
+      Ellie_Basic_CatToy_Idle_25: -2847766581360017345
+      Ellie_Basic_CatToy_Idle_3: 7870592155433950993
+      Ellie_Basic_CatToy_Idle_4: 8745934758823328267
+      Ellie_Basic_CatToy_Idle_5: -4012956127356413168
+      Ellie_Basic_CatToy_Idle_6: 8021155856431090424
+      Ellie_Basic_CatToy_Idle_7: -7091046597925634953
+      Ellie_Basic_CatToy_Idle_8: -8444648857990513556
+      Ellie_Basic_CatToy_Idle_9: 8559192500608502665
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

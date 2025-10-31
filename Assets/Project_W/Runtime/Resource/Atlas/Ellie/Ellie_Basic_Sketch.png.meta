@@ -1,0 +1,737 @@
+fileFormatVersion: 2
+guid: 1c2f40280e3e8f04e985efc36f23dfae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7961865801005357520
+    second: Ellie_Basic_Sketch_0
+  - first:
+      213: 4121309556598323655
+    second: Ellie_Basic_Sketch_1
+  - first:
+      213: 1574071924995672625
+    second: Ellie_Basic_Sketch_2
+  - first:
+      213: 2340706322264322927
+    second: Ellie_Basic_Sketch_3
+  - first:
+      213: -7423997296521462647
+    second: Ellie_Basic_Sketch_4
+  - first:
+      213: 1615677736741206434
+    second: Ellie_Basic_Sketch_5
+  - first:
+      213: -1069387896073133574
+    second: Ellie_Basic_Sketch_6
+  - first:
+      213: -2433519517559907497
+    second: Ellie_Basic_Sketch_7
+  - first:
+      213: -1732430584768296305
+    second: Ellie_Basic_Sketch_8
+  - first:
+      213: 2381580392978319724
+    second: Ellie_Basic_Sketch_9
+  - first:
+      213: -1943468186018149809
+    second: Ellie_Basic_Sketch_10
+  - first:
+      213: 1452869648374690613
+    second: Ellie_Basic_Sketch_11
+  - first:
+      213: 8784713154325934447
+    second: Ellie_Basic_Sketch_12
+  - first:
+      213: -5432186770051181815
+    second: Ellie_Basic_Sketch_13
+  - first:
+      213: 6128154621489493235
+    second: Ellie_Basic_Sketch_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ellie_Basic_Sketch_0
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036aebddc35c18190800000000000000
+      internalID: -7961865801005357520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sketch_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c93772c435d13930800000000000000
+      internalID: 4121309556598323655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sketch_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a4844731a38d510800000000000000
+      internalID: 1574071924995672625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sketch_3
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 410
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63731e9ffbdb7020800000000000000
+      internalID: 2340706322264322927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sketch_4
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 410
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98cb067fac9a8f890800000000000000
+      internalID: -7423997296521462647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sketch_5
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 310
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a977f1675a0c6610800000000000000
+      internalID: 1615677736741206434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sketch_6
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 310
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af16577df55c821f0800000000000000
+      internalID: -1069387896073133574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sketch_7
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 310
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b9cd164e66a3ed0800000000000000
+      internalID: -2433519517559907497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sketch_8
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 310
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a0ddcdf8b25f7e0800000000000000
+      internalID: -1732430584768296305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sketch_9
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 310
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69028fcfb21d0120800000000000000
+      internalID: 2381580392978319724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sketch_10
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 310
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a8d145bf96705e0800000000000000
+      internalID: -1943468186018149809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sketch_11
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 210
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533f1506f31a92410800000000000000
+      internalID: 1452869648374690613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sketch_12
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 210
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f617c49021299e970800000000000000
+      internalID: 8784713154325934447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sketch_13
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 210
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903d581e9eefc94b0800000000000000
+      internalID: -5432186770051181815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sketch_14
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 210
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4bc8ee8249b0550800000000000000
+      internalID: 6128154621489493235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sketch_15
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 210
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05ed247a33b2eb499e1ce08b29ddda3
+      internalID: 85131380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sketch_16
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 210
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8e28fe663ef6a44a9a549ba1af494c
+      internalID: 465947333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sketch_17
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 110
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613e074c639a0e8408c856e23fcede31
+      internalID: -785636589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sketch_18
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 110
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8c6cbedf948644591ae686b291011f
+      internalID: -997335508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sketch_19
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 110
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553e368ec4468814eaabd4b33b210059
+      internalID: -807784735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sketch_20
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 110
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84790198cfed8a4dba0b7fcfe495111
+      internalID: 318353237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sketch_21
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 110
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b794dfd549b0af9459b5658883da72e9
+      internalID: 1617824771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sketch_22
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 110
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fa3e72e4e080348a0088e1a561e14e
+      internalID: 1225736521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sketch_23
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 10
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57e7e96108dd474e9079ba8fa05bbbd
+      internalID: 538943152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Sketch_24
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 10
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54a99f17b05278489e06c193ba6e3d9
+      internalID: 992411667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f0ccc43d3a80a1e419b5d83b7a80afc7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ellie_Basic_Sketch_0: -7961865801005357520
+      Ellie_Basic_Sketch_1: 4121309556598323655
+      Ellie_Basic_Sketch_10: -1943468186018149809
+      Ellie_Basic_Sketch_11: 1452869648374690613
+      Ellie_Basic_Sketch_12: 8784713154325934447
+      Ellie_Basic_Sketch_13: -5432186770051181815
+      Ellie_Basic_Sketch_14: 6128154621489493235
+      Ellie_Basic_Sketch_15: 85131380
+      Ellie_Basic_Sketch_16: 465947333
+      Ellie_Basic_Sketch_17: -785636589
+      Ellie_Basic_Sketch_18: -997335508
+      Ellie_Basic_Sketch_19: -807784735
+      Ellie_Basic_Sketch_2: 1574071924995672625
+      Ellie_Basic_Sketch_20: 318353237
+      Ellie_Basic_Sketch_21: 1617824771
+      Ellie_Basic_Sketch_22: 1225736521
+      Ellie_Basic_Sketch_23: 538943152
+      Ellie_Basic_Sketch_24: 992411667
+      Ellie_Basic_Sketch_3: 2340706322264322927
+      Ellie_Basic_Sketch_4: -7423997296521462647
+      Ellie_Basic_Sketch_5: 1615677736741206434
+      Ellie_Basic_Sketch_6: -1069387896073133574
+      Ellie_Basic_Sketch_7: -2433519517559907497
+      Ellie_Basic_Sketch_8: -1732430584768296305
+      Ellie_Basic_Sketch_9: 2381580392978319724
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

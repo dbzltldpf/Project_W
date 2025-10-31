@@ -1,0 +1,1989 @@
+fileFormatVersion: 2
+guid: b0a31f5315b6c144f9fced1c593f6046
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7794777731415407051
+    second: Book_Basic_Drawing_0
+  - first:
+      213: -6583851590735012384
+    second: Book_Basic_Drawing_1
+  - first:
+      213: -5603231898088129051
+    second: Book_Basic_Drawing_2
+  - first:
+      213: -2729205943688287239
+    second: Book_Basic_Drawing_3
+  - first:
+      213: 4019553987981725529
+    second: Book_Basic_Drawing_4
+  - first:
+      213: 8792863646575098496
+    second: Book_Basic_Drawing_5
+  - first:
+      213: 1431232242571645527
+    second: Book_Basic_Drawing_6
+  - first:
+      213: 8175210633097854290
+    second: Book_Basic_Drawing_7
+  - first:
+      213: 1284879893557464950
+    second: Book_Basic_Drawing_8
+  - first:
+      213: 3327730274947331212
+    second: Book_Basic_Drawing_9
+  - first:
+      213: 2896873795021458312
+    second: Book_Basic_Drawing_10
+  - first:
+      213: 2001950168136266786
+    second: Book_Basic_Drawing_11
+  - first:
+      213: 3076568580469578457
+    second: Book_Basic_Drawing_12
+  - first:
+      213: 8352034106748099979
+    second: Book_Basic_Drawing_13
+  - first:
+      213: -2112570651584397282
+    second: Book_Basic_Drawing_14
+  - first:
+      213: -2916366701347993261
+    second: Book_Basic_Drawing_15
+  - first:
+      213: -5601288509509970576
+    second: Book_Basic_Drawing_16
+  - first:
+      213: -567488443821160818
+    second: Book_Basic_Drawing_17
+  - first:
+      213: 6437131581603062117
+    second: Book_Basic_Drawing_18
+  - first:
+      213: -1112343902859274464
+    second: Book_Basic_Drawing_19
+  - first:
+      213: 8694434175193222608
+    second: Book_Basic_Drawing_20
+  - first:
+      213: 7505543435976150901
+    second: Book_Basic_Drawing_21
+  - first:
+      213: -4657013230762003499
+    second: Book_Basic_Drawing_22
+  - first:
+      213: 982383462619463310
+    second: Book_Basic_Drawing_23
+  - first:
+      213: -7114053260093037082
+    second: Book_Basic_Drawing_24
+  - first:
+      213: -2941052494007843919
+    second: Book_Basic_Drawing_25
+  - first:
+      213: -6482122925756177933
+    second: Book_Basic_Drawing_26
+  - first:
+      213: -5267068139815999332
+    second: Book_Basic_Drawing_27
+  - first:
+      213: 6207458518496205978
+    second: Book_Basic_Drawing_28
+  - first:
+      213: 3675749135008415887
+    second: Book_Basic_Drawing_29
+  - first:
+      213: 3734956775200236319
+    second: Book_Basic_Drawing_30
+  - first:
+      213: 3105585350490046450
+    second: Book_Basic_Drawing_31
+  - first:
+      213: -1172220366062701041
+    second: Book_Basic_Drawing_32
+  - first:
+      213: 9214153538722000504
+    second: Book_Basic_Drawing_33
+  - first:
+      213: 4132685311434078324
+    second: Book_Basic_Drawing_34
+  - first:
+      213: -7210904219829919550
+    second: Book_Basic_Drawing_35
+  - first:
+      213: 1856632969433332716
+    second: Book_Basic_Drawing_36
+  - first:
+      213: -8426412676067266039
+    second: Book_Basic_Drawing_37
+  - first:
+      213: -5949178894594088512
+    second: Book_Basic_Drawing_38
+  - first:
+      213: 2246014630789991268
+    second: Book_Basic_Drawing_39
+  - first:
+      213: 7565812838468073756
+    second: Book_Basic_Drawing_40
+  - first:
+      213: -2638868826398931431
+    second: Book_Basic_Drawing_41
+  - first:
+      213: 1703297968361315105
+    second: Book_Basic_Drawing_42
+  - first:
+      213: -4432621292797438914
+    second: Book_Basic_Drawing_43
+  - first:
+      213: -5510394340392795850
+    second: Book_Basic_Drawing_44
+  - first:
+      213: 4600129157429904247
+    second: Book_Basic_Drawing_45
+  - first:
+      213: -612342307206602469
+    second: Book_Basic_Drawing_46
+  - first:
+      213: 8088768663457622283
+    second: Book_Basic_Drawing_47
+  - first:
+      213: -2817301994510173406
+    second: Book_Basic_Drawing_48
+  - first:
+      213: -5553915991904135334
+    second: Book_Basic_Drawing_49
+  - first:
+      213: 6403732057200114463
+    second: Book_Basic_Drawing_50
+  - first:
+      213: 2534474931377292421
+    second: Book_Basic_Drawing_51
+  - first:
+      213: -7564610085688030254
+    second: Book_Basic_Drawing_52
+  - first:
+      213: 9073936253975588924
+    second: Book_Basic_Drawing_53
+  - first:
+      213: -7633592552184934387
+    second: Book_Basic_Drawing_54
+  - first:
+      213: -6136146904325977528
+    second: Book_Basic_Drawing_55
+  - first:
+      213: -325061767355916042
+    second: Book_Basic_Drawing_56
+  - first:
+      213: 626681862349576965
+    second: Book_Basic_Drawing_57
+  - first:
+      213: -5990986801317148655
+    second: Book_Basic_Drawing_58
+  - first:
+      213: 2816599355596814906
+    second: Book_Basic_Drawing_59
+  - first:
+      213: 3749903362018724727
+    second: Book_Basic_Drawing_60
+  - first:
+      213: 3415805882197114445
+    second: Book_Basic_Drawing_61
+  - first:
+      213: 1513019483471163219
+    second: Book_Basic_Drawing_62
+  - first:
+      213: 845581368499979650
+    second: Book_Basic_Drawing_63
+  - first:
+      213: -6226163197068890595
+    second: Book_Basic_Drawing_64
+  - first:
+      213: -412036482704505431
+    second: Book_Basic_Drawing_65
+  - first:
+      213: -5317748299651449216
+    second: Book_Basic_Drawing_66
+  - first:
+      213: -9011095762412830897
+    second: Book_Basic_Drawing_67
+  - first:
+      213: -1818274394126576431
+    second: Book_Basic_Drawing_68
+  - first:
+      213: -7331859971466791431
+    second: Book_Basic_Drawing_69
+  - first:
+      213: 3349226059821488344
+    second: Book_Basic_Drawing_70
+  - first:
+      213: 4971247036181319738
+    second: Book_Basic_Drawing_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_0
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5360cd7a3f263d390800000000000000
+      internalID: -7794777731415407051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed59586cd571a4a0800000000000000
+      internalID: -6583851590735012384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5edb150a6425d32b0800000000000000
+      internalID: -5603231898088129051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_3
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb239777a9ef1ad0800000000000000
+      internalID: -2729205943688287239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_4
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95fc7293e0358c730800000000000000
+      internalID: 4019553987981725529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_5
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08afd8466e6860a70800000000000000
+      internalID: 8792863646575098496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_6
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75291914422ccd310800000000000000
+      internalID: 1431232242571645527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_7
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d3bc5b1ce247170800000000000000
+      internalID: 8175210633097854290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fc882a47fc4d110800000000000000
+      internalID: 1284879893557464950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_9
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c847c82dd097e2e20800000000000000
+      internalID: 3327730274947331212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b44674e53c33820800000000000000
+      internalID: 2896873795021458312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_11
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224bbc5321b58cb10800000000000000
+      internalID: 2001950168136266786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_12
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da5406d2da22ba20800000000000000
+      internalID: 3076568580469578457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_13
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ddaa4e4c268e370800000000000000
+      internalID: 8352034106748099979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_14
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10856d6f24aea2e0800000000000000
+      internalID: -2112570651584397282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_15
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359006bcfebf687d0800000000000000
+      internalID: -2916366701347993261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_16
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0755e2a07c93442b0800000000000000
+      internalID: -5601288509509970576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8686eb5440ef18f0800000000000000
+      internalID: -567488443821160818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_18
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56126ed6119455950800000000000000
+      internalID: 6437131581603062117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_19
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02750022d192090f0800000000000000
+      internalID: -1112343902859274464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_20
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd886731d5d8a870800000000000000
+      internalID: 8694434175193222608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_21
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f8f9b2dfb092860800000000000000
+      internalID: 7505543435976150901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_22
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3f22af327fe5fb0800000000000000
+      internalID: -4657013230762003499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_23
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8eb6aaed8022ad00800000000000000
+      internalID: 982383462619463310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_24
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5e1f6704ec54d90800000000000000
+      internalID: -7114053260093037082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_25
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3c2ecc6584f27d0800000000000000
+      internalID: -2941052494007843919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f123e3fa8fda06a0800000000000000
+      internalID: -6482122925756177933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_27
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c986d76de6d97e6b0800000000000000
+      internalID: -5267068139815999332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_28
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c50f052a2552650800000000000000
+      internalID: 6207458518496205978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_29
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8040a30d52e20330800000000000000
+      internalID: 3675749135008415887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_30
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13af3df56b35d330800000000000000
+      internalID: 3734956775200236319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_31
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ffbd931c61491b20800000000000000
+      internalID: 3105585350490046450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_32
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06ba5aa9cf6bbfe0800000000000000
+      internalID: -1172220366062701041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_33
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87eee6523df3fdf70800000000000000
+      internalID: 9214153538722000504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_34
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478b084156f3a5930800000000000000
+      internalID: 4132685311434078324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c02cab21d8bdeb90800000000000000
+      internalID: -7210904219829919550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_36
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb3a5d49d514c910800000000000000
+      internalID: 1856632969433332716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_37
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9027920f05e5f0b80800000000000000
+      internalID: -8426412676067266039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_38
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1e772c055407da0800000000000000
+      internalID: -5949178894594088512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_39
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b419428627b2f10800000000000000
+      internalID: 2246014630789991268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_40
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19baf1f0ba2ff860800000000000000
+      internalID: 7565812838468073756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_41
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916c3a1a8cad06bd0800000000000000
+      internalID: -2638868826398931431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_42
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b12de4a7453a710800000000000000
+      internalID: 1703297968361315105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_43
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34d9f25b6a2c72c0800000000000000
+      internalID: -4432621292797438914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6318090fa852783b0800000000000000
+      internalID: -5510394340392795850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_45
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773c68d9811f6df30800000000000000
+      internalID: 4600129157429904247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_46
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11e10a7ae58087f0800000000000000
+      internalID: -612342307206602469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_47
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09e3b74e34114070800000000000000
+      internalID: 8088768663457622283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_48
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bb83043cee6e8d0800000000000000
+      internalID: -2817301994510173406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_49
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57513ec4d68ce2b0800000000000000
+      internalID: -5553915991904135334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_50
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bb13aa060aed850800000000000000
+      internalID: 6403732057200114463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_51
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58440e895834c2320800000000000000
+      internalID: 2534474931377292421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_52
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db4a32c43b150790800000000000000
+      internalID: -7564610085688030254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30f0cc72f81ded70800000000000000
+      internalID: 9073936253975588924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_54
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0013fea408001690800000000000000
+      internalID: -7633592552184934387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_55
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a8906b6e608daa0800000000000000
+      internalID: -6136146904325977528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_56
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0a0ba7b062d7bf0800000000000000
+      internalID: -325061767355916042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_57
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bd68065db62b800800000000000000
+      internalID: 626681862349576965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_58
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118007dee3dbbdca0800000000000000
+      internalID: -5990986801317148655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_59
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a31f0e032961720800000000000000
+      internalID: 2816599355596814906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_60
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b4b2b6d355a0430800000000000000
+      internalID: 3749903362018724727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_61
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e7c062a51676f20800000000000000
+      internalID: 3415805882197114445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f2b8234335ff410800000000000000
+      internalID: 1513019483471163219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_63
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285412a46cb1cbb00800000000000000
+      internalID: 845581368499979650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_64
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e29155f893899a0800000000000000
+      internalID: -6226163197068890595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_65
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a585e58007284af0800000000000000
+      internalID: -412036482704505431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_66
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e765a98109336b0800000000000000
+      internalID: -5317748299651449216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_67
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ffa5c952822f280800000000000000
+      internalID: -9011095762412830897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_68
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d495e9721134c6e0800000000000000
+      internalID: -1818274394126576431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_69
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5f0d9a330004a90800000000000000
+      internalID: -7331859971466791431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_70
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d814204b57da7e20800000000000000
+      internalID: 3349226059821488344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Basic_Drawing_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a301d4237da6df440800000000000000
+      internalID: 4971247036181319738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: db2fccd7ad7b7d14586f87ce41de1b82
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Book_Basic_Drawing_0: -7794777731415407051
+      Book_Basic_Drawing_1: -6583851590735012384
+      Book_Basic_Drawing_10: 2896873795021458312
+      Book_Basic_Drawing_11: 2001950168136266786
+      Book_Basic_Drawing_12: 3076568580469578457
+      Book_Basic_Drawing_13: 8352034106748099979
+      Book_Basic_Drawing_14: -2112570651584397282
+      Book_Basic_Drawing_15: -2916366701347993261
+      Book_Basic_Drawing_16: -5601288509509970576
+      Book_Basic_Drawing_17: -567488443821160818
+      Book_Basic_Drawing_18: 6437131581603062117
+      Book_Basic_Drawing_19: -1112343902859274464
+      Book_Basic_Drawing_2: -5603231898088129051
+      Book_Basic_Drawing_20: 8694434175193222608
+      Book_Basic_Drawing_21: 7505543435976150901
+      Book_Basic_Drawing_22: -4657013230762003499
+      Book_Basic_Drawing_23: 982383462619463310
+      Book_Basic_Drawing_24: -7114053260093037082
+      Book_Basic_Drawing_25: -2941052494007843919
+      Book_Basic_Drawing_26: -6482122925756177933
+      Book_Basic_Drawing_27: -5267068139815999332
+      Book_Basic_Drawing_28: 6207458518496205978
+      Book_Basic_Drawing_29: 3675749135008415887
+      Book_Basic_Drawing_3: -2729205943688287239
+      Book_Basic_Drawing_30: 3734956775200236319
+      Book_Basic_Drawing_31: 3105585350490046450
+      Book_Basic_Drawing_32: -1172220366062701041
+      Book_Basic_Drawing_33: 9214153538722000504
+      Book_Basic_Drawing_34: 4132685311434078324
+      Book_Basic_Drawing_35: -7210904219829919550
+      Book_Basic_Drawing_36: 1856632969433332716
+      Book_Basic_Drawing_37: -8426412676067266039
+      Book_Basic_Drawing_38: -5949178894594088512
+      Book_Basic_Drawing_39: 2246014630789991268
+      Book_Basic_Drawing_4: 4019553987981725529
+      Book_Basic_Drawing_40: 7565812838468073756
+      Book_Basic_Drawing_41: -2638868826398931431
+      Book_Basic_Drawing_42: 1703297968361315105
+      Book_Basic_Drawing_43: -4432621292797438914
+      Book_Basic_Drawing_44: -5510394340392795850
+      Book_Basic_Drawing_45: 4600129157429904247
+      Book_Basic_Drawing_46: -612342307206602469
+      Book_Basic_Drawing_47: 8088768663457622283
+      Book_Basic_Drawing_48: -2817301994510173406
+      Book_Basic_Drawing_49: -5553915991904135334
+      Book_Basic_Drawing_5: 8792863646575098496
+      Book_Basic_Drawing_50: 6403732057200114463
+      Book_Basic_Drawing_51: 2534474931377292421
+      Book_Basic_Drawing_52: -7564610085688030254
+      Book_Basic_Drawing_53: 9073936253975588924
+      Book_Basic_Drawing_54: -7633592552184934387
+      Book_Basic_Drawing_55: -6136146904325977528
+      Book_Basic_Drawing_56: -325061767355916042
+      Book_Basic_Drawing_57: 626681862349576965
+      Book_Basic_Drawing_58: -5990986801317148655
+      Book_Basic_Drawing_59: 2816599355596814906
+      Book_Basic_Drawing_6: 1431232242571645527
+      Book_Basic_Drawing_60: 3749903362018724727
+      Book_Basic_Drawing_61: 3415805882197114445
+      Book_Basic_Drawing_62: 1513019483471163219
+      Book_Basic_Drawing_63: 845581368499979650
+      Book_Basic_Drawing_64: -6226163197068890595
+      Book_Basic_Drawing_65: -412036482704505431
+      Book_Basic_Drawing_66: -5317748299651449216
+      Book_Basic_Drawing_67: -9011095762412830897
+      Book_Basic_Drawing_68: -1818274394126576431
+      Book_Basic_Drawing_69: -7331859971466791431
+      Book_Basic_Drawing_7: 8175210633097854290
+      Book_Basic_Drawing_70: 3349226059821488344
+      Book_Basic_Drawing_71: 4971247036181319738
+      Book_Basic_Drawing_8: 1284879893557464950
+      Book_Basic_Drawing_9: 3327730274947331212
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

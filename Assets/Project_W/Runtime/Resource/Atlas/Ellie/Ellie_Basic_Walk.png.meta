@@ -1,0 +1,3367 @@
+fileFormatVersion: 2
+guid: 36b475376d473204380e8272c2f5486a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 413134587312245168
+    second: Ellie_Basic_Walk_0
+  - first:
+      213: 6491034663439526980
+    second: Ellie_Basic_Walk_1
+  - first:
+      213: 8460123444653691774
+    second: Ellie_Basic_Walk_2
+  - first:
+      213: -7464391573211697833
+    second: Ellie_Basic_Walk_3
+  - first:
+      213: -4064751336546677989
+    second: Ellie_Basic_Walk_4
+  - first:
+      213: -3432894084951501768
+    second: Ellie_Basic_Walk_5
+  - first:
+      213: -4433245758919370943
+    second: Ellie_Basic_Walk_6
+  - first:
+      213: 1449917983100063597
+    second: Ellie_Basic_Walk_7
+  - first:
+      213: -7147838714931115247
+    second: Ellie_Basic_Walk_8
+  - first:
+      213: -7666674244824464282
+    second: Ellie_Basic_Walk_9
+  - first:
+      213: -614292257578100241
+    second: Ellie_Basic_Walk_10
+  - first:
+      213: -7540446423400621496
+    second: Ellie_Basic_Walk_11
+  - first:
+      213: 2118957494065703118
+    second: Ellie_Basic_Walk_12
+  - first:
+      213: -1976245977204038871
+    second: Ellie_Basic_Walk_13
+  - first:
+      213: -5182571313939916272
+    second: Ellie_Basic_Walk_14
+  - first:
+      213: 2223605577959714664
+    second: Ellie_Basic_Walk_15
+  - first:
+      213: -3196635303079678402
+    second: Ellie_Basic_Walk_16
+  - first:
+      213: -310797446064139251
+    second: Ellie_Basic_Walk_17
+  - first:
+      213: -6373057108816692000
+    second: Ellie_Basic_Walk_18
+  - first:
+      213: 3651360167192191408
+    second: Ellie_Basic_Walk_19
+  - first:
+      213: -7877318015303186179
+    second: Ellie_Basic_Walk_20
+  - first:
+      213: -5803309959937086725
+    second: Ellie_Basic_Walk_21
+  - first:
+      213: -4675732153127920526
+    second: Ellie_Basic_Walk_22
+  - first:
+      213: -6479466247866973386
+    second: Ellie_Basic_Walk_23
+  - first:
+      213: -2796947672990363440
+    second: Ellie_Basic_Walk_24
+  - first:
+      213: 2764207062795338620
+    second: Ellie_Basic_Walk_25
+  - first:
+      213: -654818524637947061
+    second: Ellie_Basic_Walk_26
+  - first:
+      213: -4531845967385649259
+    second: Ellie_Basic_Walk_27
+  - first:
+      213: -3358683578794690994
+    second: Ellie_Basic_Walk_28
+  - first:
+      213: -6104203076416843144
+    second: Ellie_Basic_Walk_29
+  - first:
+      213: -7471542945362449097
+    second: Ellie_Basic_Walk_30
+  - first:
+      213: -6687896594863223823
+    second: Ellie_Basic_Walk_31
+  - first:
+      213: -8158457967263900117
+    second: Ellie_Basic_Walk_32
+  - first:
+      213: 8045296780914126000
+    second: Ellie_Basic_Walk_33
+  - first:
+      213: -3695028302552227580
+    second: Ellie_Basic_Walk_34
+  - first:
+      213: -33171427250451557
+    second: Ellie_Basic_Walk_35
+  - first:
+      213: -2820301843549007803
+    second: Ellie_Basic_Walk_36
+  - first:
+      213: -3799572841151010789
+    second: Ellie_Basic_Walk_37
+  - first:
+      213: 6427037494289275347
+    second: Ellie_Basic_Walk_38
+  - first:
+      213: 3793017777611725902
+    second: Ellie_Basic_Walk_39
+  - first:
+      213: 4960411211991218229
+    second: Ellie_Basic_Walk_40
+  - first:
+      213: 885767637034969037
+    second: Ellie_Basic_Walk_41
+  - first:
+      213: 856172363105852863
+    second: Ellie_Basic_Walk_42
+  - first:
+      213: -1225523205698847108
+    second: Ellie_Basic_Walk_43
+  - first:
+      213: -2730735964774770458
+    second: Ellie_Basic_Walk_44
+  - first:
+      213: 1959109946383862161
+    second: Ellie_Basic_Walk_45
+  - first:
+      213: 2920590381281944942
+    second: Ellie_Basic_Walk_46
+  - first:
+      213: -2686003617140593844
+    second: Ellie_Basic_Walk_47
+  - first:
+      213: -575957155190617479
+    second: Ellie_Basic_Walk_48
+  - first:
+      213: 9173467801764963626
+    second: Ellie_Basic_Walk_49
+  - first:
+      213: -5090261499797909329
+    second: Ellie_Basic_Walk_50
+  - first:
+      213: 459140384743109633
+    second: Ellie_Basic_Walk_51
+  - first:
+      213: -6981441556823636238
+    second: Ellie_Basic_Walk_52
+  - first:
+      213: 7206732871567034884
+    second: Ellie_Basic_Walk_53
+  - first:
+      213: -5147917917343190776
+    second: Ellie_Basic_Walk_54
+  - first:
+      213: 6884820932727076086
+    second: Ellie_Basic_Walk_55
+  - first:
+      213: -3775106033251897308
+    second: Ellie_Basic_Walk_56
+  - first:
+      213: -4922557810455638562
+    second: Ellie_Basic_Walk_57
+  - first:
+      213: 8885449473345777542
+    second: Ellie_Basic_Walk_58
+  - first:
+      213: 2495584030615772552
+    second: Ellie_Basic_Walk_59
+  - first:
+      213: -4576659779758452987
+    second: Ellie_Basic_Walk_60
+  - first:
+      213: 6230391749353643190
+    second: Ellie_Basic_Walk_61
+  - first:
+      213: -1942502920369599850
+    second: Ellie_Basic_Walk_62
+  - first:
+      213: -6032589735997334640
+    second: Ellie_Basic_Walk_63
+  - first:
+      213: 4283690701435838585
+    second: Ellie_Basic_Walk_64
+  - first:
+      213: -4001442055963107429
+    second: Ellie_Basic_Walk_65
+  - first:
+      213: -6348457055581614198
+    second: Ellie_Basic_Walk_66
+  - first:
+      213: 4720589459922576783
+    second: Ellie_Basic_Walk_67
+  - first:
+      213: -5224402819465477594
+    second: Ellie_Basic_Walk_68
+  - first:
+      213: 5404785851445585431
+    second: Ellie_Basic_Walk_69
+  - first:
+      213: -4248506709957780202
+    second: Ellie_Basic_Walk_70
+  - first:
+      213: 2394634050694583969
+    second: Ellie_Basic_Walk_71
+  - first:
+      213: 7640320292440437721
+    second: Ellie_Basic_Walk_72
+  - first:
+      213: 5515256081089709960
+    second: Ellie_Basic_Walk_73
+  - first:
+      213: -5197376304981998446
+    second: Ellie_Basic_Walk_74
+  - first:
+      213: -844773301568253676
+    second: Ellie_Basic_Walk_75
+  - first:
+      213: -2533783423738100712
+    second: Ellie_Basic_Walk_76
+  - first:
+      213: 1525061804219198303
+    second: Ellie_Basic_Walk_77
+  - first:
+      213: 5950528826153450673
+    second: Ellie_Basic_Walk_78
+  - first:
+      213: 6345267375680306489
+    second: Ellie_Basic_Walk_79
+  - first:
+      213: -4807410821858246886
+    second: Ellie_Basic_Walk_80
+  - first:
+      213: -1233440367565100146
+    second: Ellie_Basic_Walk_81
+  - first:
+      213: -7849267925831466458
+    second: Ellie_Basic_Walk_82
+  - first:
+      213: 1252487631314159665
+    second: Ellie_Basic_Walk_83
+  - first:
+      213: 3948313913163009671
+    second: Ellie_Basic_Walk_84
+  - first:
+      213: 651445141107276162
+    second: Ellie_Basic_Walk_85
+  - first:
+      213: -5315986537481238171
+    second: Ellie_Basic_Walk_86
+  - first:
+      213: -566813385938648550
+    second: Ellie_Basic_Walk_87
+  - first:
+      213: -9141384656212529714
+    second: Ellie_Basic_Walk_88
+  - first:
+      213: -3796443735718677794
+    second: Ellie_Basic_Walk_89
+  - first:
+      213: -7894174407780153021
+    second: Ellie_Basic_Walk_90
+  - first:
+      213: 7041589651985598010
+    second: Ellie_Basic_Walk_91
+  - first:
+      213: -3667132566131491059
+    second: Ellie_Basic_Walk_92
+  - first:
+      213: -4750400796581675463
+    second: Ellie_Basic_Walk_93
+  - first:
+      213: 6281760009496220087
+    second: Ellie_Basic_Walk_94
+  - first:
+      213: 7146861314608555479
+    second: Ellie_Basic_Walk_95
+  - first:
+      213: 6113759527542931857
+    second: Ellie_Basic_Walk_96
+  - first:
+      213: -2900750462043914049
+    second: Ellie_Basic_Walk_97
+  - first:
+      213: 4889254780644975167
+    second: Ellie_Basic_Walk_98
+  - first:
+      213: 2895897374209950605
+    second: Ellie_Basic_Walk_99
+  - first:
+      213: -7714620257465907122
+    second: Ellie_Basic_Walk_100
+  - first:
+      213: 4133701364340187855
+    second: Ellie_Basic_Walk_101
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 500
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b98c21e7bfbbb500800000000000000
+      internalID: 413134587312245168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 500
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c6f0ba2a9c41a50800000000000000
+      internalID: 6491034663439526980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 500
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7399820375686570800000000000000
+      internalID: 8460123444653691774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 500
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d2c468967296890800000000000000
+      internalID: -7464391573211697833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 500
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b47d4023a1797c0800000000000000
+      internalID: -4064751336546677989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 500
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8341dea9409eb50d0800000000000000
+      internalID: -3432894084951501768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_6
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 500
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1479a997872f972c0800000000000000
+      internalID: -4433245758919370943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_7
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 500
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f412049b42f1410800000000000000
+      internalID: 1449917983100063597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_8
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 500
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b0fb44f86cdcc90800000000000000
+      internalID: -7147838714931115247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_9
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 500
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6640a94e4608a9590800000000000000
+      internalID: -7666674244824464282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_10
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 500
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9d8c642789977f0800000000000000
+      internalID: -614292257578100241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a575dcde3fa5790800000000000000
+      internalID: -7540446423400621496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_12
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 450
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec820f73d9c086d10800000000000000
+      internalID: 2118957494065703118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_13
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 450
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92365fb11c6f294e0800000000000000
+      internalID: -1976245977204038871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_14
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 450
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a5b7139dec318b0800000000000000
+      internalID: -5182571313939916272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_15
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 450
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86fadd2fd75dbde10800000000000000
+      internalID: 2223605577959714664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_16
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 450
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e667bd02543a3d0800000000000000
+      internalID: -3196635303079678402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_17
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 450
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d049f369e53dfabf0800000000000000
+      internalID: -310797446064139251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_18
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 450
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ecf3bf435a5e87a0800000000000000
+      internalID: -6373057108816692000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_19
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 450
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b16080f9bc3ca230800000000000000
+      internalID: 3651360167192191408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_20
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 450
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8811b30052ea290800000000000000
+      internalID: -7877318015303186179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_21
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 450
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfaa674b650867fa0800000000000000
+      internalID: -5803309959937086725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_22
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 450
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c10fb31667c1fb0800000000000000
+      internalID: -4675732153127920526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63381c9f6cf4416a0800000000000000
+      internalID: -6479466247866973386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_24
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 400
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0dd0809ee3f29d0800000000000000
+      internalID: -2796947672990363440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_25
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 400
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73ca8f9daf6c5620800000000000000
+      internalID: 2764207062795338620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_26
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 400
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b1c9e650e99e6f0800000000000000
+      internalID: -654818524637947061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_27
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 400
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f11397a16ab11c0800000000000000
+      internalID: -4531845967385649259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_28
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 400
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e463105841f8361d0800000000000000
+      internalID: -3358683578794690994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_29
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 400
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872d359b4a3894ba0800000000000000
+      internalID: -6104203076416843144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_30
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 400
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d6891f64fbf4890800000000000000
+      internalID: -7471542945362449097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_31
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb02a02b71df23a0800000000000000
+      internalID: -6687896594863223823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_32
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 400
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e974244b557ce80800000000000000
+      internalID: -8158457967263900117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_33
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 400
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bceaf2ebc2a6af60800000000000000
+      internalID: 8045296780914126000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_34
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 400
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4012c5ff55f98bcc0800000000000000
+      internalID: -3695028302552227580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b4b0e33c62a8ff0800000000000000
+      internalID: -33171427250451557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_36
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 350
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540d1e77a664cd8d0800000000000000
+      internalID: -2820301843549007803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_37
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 350
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18e8f8c1a4354bc0800000000000000
+      internalID: -3799572841151010789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_38
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 350
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d99a359c8c613950800000000000000
+      internalID: 6427037494289275347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_39
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 350
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4cd94d829183a430800000000000000
+      internalID: 3793017777611725902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_40
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 350
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538f99647bbe6d440800000000000000
+      internalID: 4960411211991218229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_41
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 350
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7a10f09f0ea4c00800000000000000
+      internalID: 885767637034969037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_42
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 350
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd5e616a3cb1eb00800000000000000
+      internalID: 856172363105852863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_43
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 350
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e725433211efee0800000000000000
+      internalID: -1225523205698847108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_44
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 350
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8573cab1a7a1ad0800000000000000
+      internalID: -2730735964774770458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_45
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 350
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199052ecd18203b10800000000000000
+      internalID: 1959109946383862161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_46
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 350
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65abb25a75088820800000000000000
+      internalID: 2920590381281944942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4babe6f0f569bad0800000000000000
+      internalID: -2686003617140593844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_48
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 300
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ac407d40ac108f0800000000000000
+      internalID: -575957155190617479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_49
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 300
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a252fa2dc54be4f70800000000000000
+      internalID: 9173467801764963626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_50
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 300
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0d2b2a222cb59b0800000000000000
+      internalID: -5090261499797909329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_51
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 300
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10436ae4fb13f5600800000000000000
+      internalID: 459140384743109633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_52
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 300
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f68061b4efec1f90800000000000000
+      internalID: -6981441556823636238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_53
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a42e02d55730460800000000000000
+      internalID: 7206732871567034884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_54
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 300
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801f3e3ddebee88b0800000000000000
+      internalID: -5147917917343190776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_55
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 300
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4fe55392ccb8f50800000000000000
+      internalID: 6884820932727076086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_56
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 300
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420369a60112c9bc0800000000000000
+      internalID: -3775106033251897308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_57
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 300
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd877190cf8fabb0800000000000000
+      internalID: -4922557810455638562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_58
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 300
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68fe47808357f4b70800000000000000
+      internalID: 8885449473345777542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d9df3247812a220800000000000000
+      internalID: 2495584030615772552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_60
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 250
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f0ea1bd207c70c0800000000000000
+      internalID: -4576659779758452987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_61
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 250
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc9fb7394cc67650800000000000000
+      internalID: 6230391749353643190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_62
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 250
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a0630c2e7da05e0800000000000000
+      internalID: -1942502920369599850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_63
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 250
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b163ed89fe74ca0800000000000000
+      internalID: -6032589735997334640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_64
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 250
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9702aba3ff9b27b30800000000000000
+      internalID: 4283690701435838585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_65
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 250
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f920196a50878c0800000000000000
+      internalID: -4001442055963107429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_66
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 250
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f4c3a81ffb5e7a0800000000000000
+      internalID: -6348457055581614198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_67
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 250
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8563216a17e28140800000000000000
+      internalID: 4720589459922576783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_68
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 250
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6220636d0513f77b0800000000000000
+      internalID: -5224402819465477594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_69
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 250
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716a87a9818a10b40800000000000000
+      internalID: 5404785851445585431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_70
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 250
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d5a1728a54a05c0800000000000000
+      internalID: -4248506709957780202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a694b65bf27b3120800000000000000
+      internalID: 2394634050694583969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_72
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 200
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3fe1963ded70a60800000000000000
+      internalID: 7640320292440437721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_73
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 200
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8874aa64f202a8c40800000000000000
+      internalID: 5515256081089709960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_74
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 200
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294048999c53fd7b0800000000000000
+      internalID: -5197376304981998446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_75
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4115a447823c644f0800000000000000
+      internalID: -844773301568253676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_76
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 200
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8144152966136dcd0800000000000000
+      internalID: -2533783423738100712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_77
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 200
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b600d71ab1a2510800000000000000
+      internalID: 1525061804219198303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_78
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 200
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc399ca076849250800000000000000
+      internalID: 5950528826153450673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_79
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93dbc4c3f0bee0850800000000000000
+      internalID: 6345267375680306489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_80
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 200
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f35c90455a84db0800000000000000
+      internalID: -4807410821858246886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_81
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 200
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ba7af4580f1eee0800000000000000
+      internalID: -1233440367565100146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_82
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 200
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622c2fd986cc11390800000000000000
+      internalID: -7849267925831466458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1380d0e5ddab16110800000000000000
+      internalID: 1252487631314159665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e40dfb59a3bc630800000000000000
+      internalID: 3948313913163009671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_96
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 100
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2897a5287e56a0900800000000000000
+      internalID: 651445141107276162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_84
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 150
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5690ca2d862d936b0800000000000000
+      internalID: -5315986537481238171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_97
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12c0358a364228f0800000000000000
+      internalID: -566813385938648550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_85
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 150
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecdee3b9617432180800000000000000
+      internalID: -9141384656212529714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_86
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 150
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed23bba6982505bc0800000000000000
+      internalID: -3796443735718677794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_87
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 150
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349c8458332427290800000000000000
+      internalID: -7894174407780153021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_88
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 150
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a360ba40b70c8b160800000000000000
+      internalID: 7041589651985598010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_89
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 150
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f37734c5abb1dc0800000000000000
+      internalID: -3667132566131491059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_90
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 150
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e340be4af231eb0800000000000000
+      internalID: -4750400796581675463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_91
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 150
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1d64a427b4d2750800000000000000
+      internalID: 6281760009496220087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_92
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 150
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5693cff70ce2360800000000000000
+      internalID: 7146861314608555479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_93
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 150
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1914b51f5ef68d450800000000000000
+      internalID: 6113759527542931857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_94
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 150
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb082d7d2d67eb7d0800000000000000
+      internalID: -2900750462043914049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_98
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 100
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37486f9d87051743b1648045a0fd0ed
+      internalID: 4889254780644975167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_99
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 100
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bce47b9682b63744ae62bafb93bafa6
+      internalID: 2895897374209950605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_100
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 100
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a29baee05a331a48be7f0edba57d710
+      internalID: -7714620257465907122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_101
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 100
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0556e207eb7c3c439384efc3a286daf
+      internalID: 4133701364340187855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_102
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 100
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c0d17989606414cbac63e542e08ac4
+      internalID: -1098888107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_103
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 100
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478022f2f819d9d449ee8b552dcb8a64
+      internalID: -727101587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_104
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 100
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280203be160bfce4e99f5a70da9670d0
+      internalID: -1739015936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_105
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 100
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5b4266834ebbf4f95273e1ab0aa07f
+      internalID: -1888408542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_106
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 100
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd17f2d7be887d643b1f65c124cc16fc
+      internalID: 684434093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e608c6c457df9924891aed85c66ecce7
+      internalID: -225984769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_108
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 50
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d3816b40e6a0644854305f5fdb3c97
+      internalID: -845969656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_109
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 50
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a06463d24811ca46b1234193c77101e
+      internalID: -891162168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_110
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 50
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6627d362c7d19244388678435888e577
+      internalID: 1454716560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_111
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 50
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6e6e0aa2864f74db3df57d7ffd9798
+      internalID: 2024798240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_112
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 50
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2759672a46c5648a71ecd70bbf7e46
+      internalID: 1325651727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_113
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 50
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bb2b4a8d3c60747ba62d5128fd462d
+      internalID: -728088978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_114
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 50
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677e88042bdf2be4f954e1c549d74b13
+      internalID: -1367615885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_115
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 50
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7b83ac36a3d5d4aa0cb54f56455fa1
+      internalID: -883437841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_116
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 50
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9444f090f689f14dbe007071b0df660
+      internalID: 1630586986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_117
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 50
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd22c6d50f4d45e458f9c3dac3259a4c
+      internalID: 962040012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_118
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 50
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755c92e5898db794c96c42bcba8e786a
+      internalID: 264554852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd517e95ce35de8478914d76d39afbe2
+      internalID: -740785565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_120
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ceccbad6f9ad345ad4c09015622249
+      internalID: -1287685697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_121
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bdeede0ba054f448de7e589ea41122
+      internalID: -108185917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_122
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be9c19ec341c9547968b57f98be6acb
+      internalID: -1519893917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_123
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98e921f79a67eb4f93a2c428029b7ad
+      internalID: 1502153486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_124
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad3ceee458b10c40b65454a3c4e176f
+      internalID: -332619083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_125
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd85b2c15195564387a364dab31a4d0
+      internalID: -1606196462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_126
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca6015608cfcbc4894254cc89d88e27
+      internalID: 955122247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Walk_127
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4498e014e684d4d96981372844a6e6
+      internalID: -2084418523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d96c58d0a5e33384ab9d5e0426b915e8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ellie_Basic_Walk_0: 413134587312245168
+      Ellie_Basic_Walk_1: 6491034663439526980
+      Ellie_Basic_Walk_10: -614292257578100241
+      Ellie_Basic_Walk_100: -7714620257465907122
+      Ellie_Basic_Walk_101: 4133701364340187855
+      Ellie_Basic_Walk_102: -1098888107
+      Ellie_Basic_Walk_103: -727101587
+      Ellie_Basic_Walk_104: -1739015936
+      Ellie_Basic_Walk_105: -1888408542
+      Ellie_Basic_Walk_106: 684434093
+      Ellie_Basic_Walk_107: -225984769
+      Ellie_Basic_Walk_108: -845969656
+      Ellie_Basic_Walk_109: -891162168
+      Ellie_Basic_Walk_11: -7540446423400621496
+      Ellie_Basic_Walk_110: 1454716560
+      Ellie_Basic_Walk_111: 2024798240
+      Ellie_Basic_Walk_112: 1325651727
+      Ellie_Basic_Walk_113: -728088978
+      Ellie_Basic_Walk_114: -1367615885
+      Ellie_Basic_Walk_115: -883437841
+      Ellie_Basic_Walk_116: 1630586986
+      Ellie_Basic_Walk_117: 962040012
+      Ellie_Basic_Walk_118: 264554852
+      Ellie_Basic_Walk_119: -740785565
+      Ellie_Basic_Walk_12: 2118957494065703118
+      Ellie_Basic_Walk_120: -1287685697
+      Ellie_Basic_Walk_121: -108185917
+      Ellie_Basic_Walk_122: -1519893917
+      Ellie_Basic_Walk_123: 1502153486
+      Ellie_Basic_Walk_124: -332619083
+      Ellie_Basic_Walk_125: -1606196462
+      Ellie_Basic_Walk_126: 955122247
+      Ellie_Basic_Walk_127: -2084418523
+      Ellie_Basic_Walk_13: -1976245977204038871
+      Ellie_Basic_Walk_14: -5182571313939916272
+      Ellie_Basic_Walk_15: 2223605577959714664
+      Ellie_Basic_Walk_16: -3196635303079678402
+      Ellie_Basic_Walk_17: -310797446064139251
+      Ellie_Basic_Walk_18: -6373057108816692000
+      Ellie_Basic_Walk_19: 3651360167192191408
+      Ellie_Basic_Walk_2: 8460123444653691774
+      Ellie_Basic_Walk_20: -7877318015303186179
+      Ellie_Basic_Walk_21: -5803309959937086725
+      Ellie_Basic_Walk_22: -4675732153127920526
+      Ellie_Basic_Walk_23: -6479466247866973386
+      Ellie_Basic_Walk_24: -2796947672990363440
+      Ellie_Basic_Walk_25: 2764207062795338620
+      Ellie_Basic_Walk_26: -654818524637947061
+      Ellie_Basic_Walk_27: -4531845967385649259
+      Ellie_Basic_Walk_28: -3358683578794690994
+      Ellie_Basic_Walk_29: -6104203076416843144
+      Ellie_Basic_Walk_3: -7464391573211697833
+      Ellie_Basic_Walk_30: -7471542945362449097
+      Ellie_Basic_Walk_31: -6687896594863223823
+      Ellie_Basic_Walk_32: -8158457967263900117
+      Ellie_Basic_Walk_33: 8045296780914126000
+      Ellie_Basic_Walk_34: -3695028302552227580
+      Ellie_Basic_Walk_35: -33171427250451557
+      Ellie_Basic_Walk_36: -2820301843549007803
+      Ellie_Basic_Walk_37: -3799572841151010789
+      Ellie_Basic_Walk_38: 6427037494289275347
+      Ellie_Basic_Walk_39: 3793017777611725902
+      Ellie_Basic_Walk_4: -4064751336546677989
+      Ellie_Basic_Walk_40: 4960411211991218229
+      Ellie_Basic_Walk_41: 885767637034969037
+      Ellie_Basic_Walk_42: 856172363105852863
+      Ellie_Basic_Walk_43: -1225523205698847108
+      Ellie_Basic_Walk_44: -2730735964774770458
+      Ellie_Basic_Walk_45: 1959109946383862161
+      Ellie_Basic_Walk_46: 2920590381281944942
+      Ellie_Basic_Walk_47: -2686003617140593844
+      Ellie_Basic_Walk_48: -575957155190617479
+      Ellie_Basic_Walk_49: 9173467801764963626
+      Ellie_Basic_Walk_5: -3432894084951501768
+      Ellie_Basic_Walk_50: -5090261499797909329
+      Ellie_Basic_Walk_51: 459140384743109633
+      Ellie_Basic_Walk_52: -6981441556823636238
+      Ellie_Basic_Walk_53: 7206732871567034884
+      Ellie_Basic_Walk_54: -5147917917343190776
+      Ellie_Basic_Walk_55: 6884820932727076086
+      Ellie_Basic_Walk_56: -3775106033251897308
+      Ellie_Basic_Walk_57: -4922557810455638562
+      Ellie_Basic_Walk_58: 8885449473345777542
+      Ellie_Basic_Walk_59: 2495584030615772552
+      Ellie_Basic_Walk_6: -4433245758919370943
+      Ellie_Basic_Walk_60: -4576659779758452987
+      Ellie_Basic_Walk_61: 6230391749353643190
+      Ellie_Basic_Walk_62: -1942502920369599850
+      Ellie_Basic_Walk_63: -6032589735997334640
+      Ellie_Basic_Walk_64: 4283690701435838585
+      Ellie_Basic_Walk_65: -4001442055963107429
+      Ellie_Basic_Walk_66: -6348457055581614198
+      Ellie_Basic_Walk_67: 4720589459922576783
+      Ellie_Basic_Walk_68: -5224402819465477594
+      Ellie_Basic_Walk_69: 5404785851445585431
+      Ellie_Basic_Walk_7: 1449917983100063597
+      Ellie_Basic_Walk_70: -4248506709957780202
+      Ellie_Basic_Walk_71: 2394634050694583969
+      Ellie_Basic_Walk_72: 7640320292440437721
+      Ellie_Basic_Walk_73: 5515256081089709960
+      Ellie_Basic_Walk_74: -5197376304981998446
+      Ellie_Basic_Walk_75: -844773301568253676
+      Ellie_Basic_Walk_76: -2533783423738100712
+      Ellie_Basic_Walk_77: 1525061804219198303
+      Ellie_Basic_Walk_78: 5950528826153450673
+      Ellie_Basic_Walk_79: 6345267375680306489
+      Ellie_Basic_Walk_8: -7147838714931115247
+      Ellie_Basic_Walk_80: -4807410821858246886
+      Ellie_Basic_Walk_81: -1233440367565100146
+      Ellie_Basic_Walk_82: -7849267925831466458
+      Ellie_Basic_Walk_83: 3948313913163009671
+      Ellie_Basic_Walk_84: -5315986537481238171
+      Ellie_Basic_Walk_85: -9141384656212529714
+      Ellie_Basic_Walk_86: -3796443735718677794
+      Ellie_Basic_Walk_87: -7894174407780153021
+      Ellie_Basic_Walk_88: 7041589651985598010
+      Ellie_Basic_Walk_89: -3667132566131491059
+      Ellie_Basic_Walk_9: -7666674244824464282
+      Ellie_Basic_Walk_90: -4750400796581675463
+      Ellie_Basic_Walk_91: 6281760009496220087
+      Ellie_Basic_Walk_92: 7146861314608555479
+      Ellie_Basic_Walk_93: 6113759527542931857
+      Ellie_Basic_Walk_94: -2900750462043914049
+      Ellie_Basic_Walk_95: 1252487631314159665
+      Ellie_Basic_Walk_96: 651445141107276162
+      Ellie_Basic_Walk_97: -566813385938648550
+      Ellie_Basic_Walk_98: 4889254780644975167
+      Ellie_Basic_Walk_99: 2895897374209950605
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

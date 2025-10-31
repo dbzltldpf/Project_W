@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: 01c5124cb0a19f746a7c0aa4b54ca2fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5903361679600598783
+    second: Ellie_Basic_Stun_0
+  - first:
+      213: -2615064672216774109
+    second: Ellie_Basic_Stun_1
+  - first:
+      213: -1310116605087010856
+    second: Ellie_Basic_Stun_2
+  - first:
+      213: 6275364765201821374
+    second: Ellie_Basic_Stun_3
+  - first:
+      213: 2705713595668575672
+    second: Ellie_Basic_Stun_4
+  - first:
+      213: 8110238146370240233
+    second: Ellie_Basic_Stun_5
+  - first:
+      213: -1070562472267137738
+    second: Ellie_Basic_Stun_6
+  - first:
+      213: 2716770390336036951
+    second: Ellie_Basic_Stun_7
+  - first:
+      213: -5050332464289991590
+    second: Ellie_Basic_Stun_8
+  - first:
+      213: -7164951569938303981
+    second: Ellie_Basic_Stun_9
+  - first:
+      213: 106074501527532608
+    second: Ellie_Basic_Stun_10
+  - first:
+      213: -6799053606358073997
+    second: Ellie_Basic_Stun_11
+  - first:
+      213: 6132014544455814075
+    second: Ellie_Basic_Stun_12
+  - first:
+      213: -8443744773710321539
+    second: Ellie_Basic_Stun_13
+  - first:
+      213: 4737773147510800741
+    second: Ellie_Basic_Stun_14
+  - first:
+      213: 8290089406519729768
+    second: Ellie_Basic_Stun_15
+  - first:
+      213: 2024650710978698433
+    second: Ellie_Basic_Stun_16
+  - first:
+      213: -4983941440249020535
+    second: Ellie_Basic_Stun_17
+  - first:
+      213: 4495841550637716918
+    second: Ellie_Basic_Stun_18
+  - first:
+      213: 1615755214530346268
+    second: Ellie_Basic_Stun_19
+  - first:
+      213: 1616194441089314390
+    second: Ellie_Basic_Stun_20
+  - first:
+      213: 2845063227093987340
+    second: Ellie_Basic_Stun_21
+  - first:
+      213: 4356114790402201210
+    second: Ellie_Basic_Stun_22
+  - first:
+      213: -5115022507156043649
+    second: Ellie_Basic_Stun_23
+  - first:
+      213: 5253436615583313495
+    second: Ellie_Basic_Stun_24
+  - first:
+      213: -3223564865292803323
+    second: Ellie_Basic_Stun_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ellie_Basic_Stun_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 308
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101c0ca64db031ea0800000000000000
+      internalID: -5903361679600598783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Stun_1
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 308
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a88db298c65bbd0800000000000000
+      internalID: -2615064672216774109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Stun_2
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 308
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dfa27393e781dde0800000000000000
+      internalID: -1310116605087010856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Stun_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 308
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe6bd17103961750800000000000000
+      internalID: 6275364765201821374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Stun_4
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 308
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b535c50e20ac8520800000000000000
+      internalID: 2705713595668575672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Stun_5
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 309
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee783ecf9a5d8070800000000000000
+      internalID: 8110238146370240233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Stun_6
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 259
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d37a28a199421f0800000000000000
+      internalID: -1070562472267137738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Stun_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 259
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7506744a648e3b520800000000000000
+      internalID: 2716770390336036951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Stun_8
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 259
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a543f5ca16d99e9b0800000000000000
+      internalID: -5050332464289991590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Stun_9
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 259
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31433f8328af09c90800000000000000
+      internalID: -7164951569938303981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Stun_10
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 259
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0447647723ad87100800000000000000
+      internalID: 106074501527532608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Stun_11
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 259
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d303894c8e4a1a0800000000000000
+      internalID: -6799053606358073997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Stun_12
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 259
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb41d74dba491550800000000000000
+      internalID: 6132014544455814075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Stun_13
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 133
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d786fec7ddac1da80800000000000000
+      internalID: -8443744773710321539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Stun_14
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 209
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56104cb6393ffb140800000000000000
+      internalID: 4737773147510800741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Stun_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 31
+        width: 167
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e56d774605c0370800000000000000
+      internalID: 8290089406519729768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Stun_16
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 209
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc90263811091c10800000000000000
+      internalID: 2024650710978698433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Stun_17
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 129
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98fbb988aab75dab0800000000000000
+      internalID: -4983941440249020535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Stun_18
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 209
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5d3300210746e30800000000000000
+      internalID: 4495841550637716918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Stun_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 135
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1df0169ec05c6610800000000000000
+      internalID: 1615755214530346268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Stun_20
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 209
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ee61df740ed6610800000000000000
+      internalID: 1616194441089314390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Stun_21
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 134
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00b6766ee1bb7720800000000000000
+      internalID: 2845063227093987340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Stun_22
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 209
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a769fba7257047c30800000000000000
+      internalID: 4356114790402201210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Stun_23
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 81
+        width: 110
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7806da512ac309b0800000000000000
+      internalID: -5115022507156043649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Stun_24
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 209
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75eafd994c4f7e840800000000000000
+      internalID: 5253436615583313495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Stun_25
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 184
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503eacd85d89343d0800000000000000
+      internalID: -3223564865292803323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ellie_Basic_Stun_0: -5903361679600598783
+      Ellie_Basic_Stun_1: -2615064672216774109
+      Ellie_Basic_Stun_10: 106074501527532608
+      Ellie_Basic_Stun_11: -6799053606358073997
+      Ellie_Basic_Stun_12: 6132014544455814075
+      Ellie_Basic_Stun_13: -8443744773710321539
+      Ellie_Basic_Stun_14: 4737773147510800741
+      Ellie_Basic_Stun_15: 8290089406519729768
+      Ellie_Basic_Stun_16: 2024650710978698433
+      Ellie_Basic_Stun_17: -4983941440249020535
+      Ellie_Basic_Stun_18: 4495841550637716918
+      Ellie_Basic_Stun_19: 1615755214530346268
+      Ellie_Basic_Stun_2: -1310116605087010856
+      Ellie_Basic_Stun_20: 1616194441089314390
+      Ellie_Basic_Stun_21: 2845063227093987340
+      Ellie_Basic_Stun_22: 4356114790402201210
+      Ellie_Basic_Stun_23: -5115022507156043649
+      Ellie_Basic_Stun_24: 5253436615583313495
+      Ellie_Basic_Stun_25: -3223564865292803323
+      Ellie_Basic_Stun_3: 6275364765201821374
+      Ellie_Basic_Stun_4: 2705713595668575672
+      Ellie_Basic_Stun_5: 8110238146370240233
+      Ellie_Basic_Stun_6: -1070562472267137738
+      Ellie_Basic_Stun_7: 2716770390336036951
+      Ellie_Basic_Stun_8: -5050332464289991590
+      Ellie_Basic_Stun_9: -7164951569938303981
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

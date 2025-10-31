@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: 583f45840ed6862488fe3778ab8b141b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2903457186390932805
+    second: Mung_Plump_Normal_Up_IdleA_0
+  - first:
+      213: 7861536932172333547
+    second: Mung_Plump_Normal_Up_IdleA_1
+  - first:
+      213: -6110279653648576440
+    second: Mung_Plump_Normal_Up_IdleA_2
+  - first:
+      213: -3811181447015049007
+    second: Mung_Plump_Normal_Up_IdleA_3
+  - first:
+      213: -1771360915417294964
+    second: Mung_Plump_Normal_Up_IdleA_4
+  - first:
+      213: -5789377319835661115
+    second: Mung_Plump_Normal_Up_IdleA_5
+  - first:
+      213: -489975451503379428
+    second: Mung_Plump_Normal_Up_IdleA_6
+  - first:
+      213: 6993330866856171650
+    second: Mung_Plump_Normal_Up_IdleA_7
+  - first:
+      213: 93298333369119209
+    second: Mung_Plump_Normal_Up_IdleA_8
+  - first:
+      213: -6515838627053618307
+    second: Mung_Plump_Normal_Up_IdleA_9
+  - first:
+      213: -178636882928844399
+    second: Mung_Plump_Normal_Up_IdleA_10
+  - first:
+      213: 2967860473877059211
+    second: Mung_Plump_Normal_Up_IdleA_11
+  - first:
+      213: 3742135708280668607
+    second: Mung_Plump_Normal_Up_IdleA_12
+  - first:
+      213: 2373038544030740521
+    second: Mung_Plump_Normal_Up_IdleA_13
+  - first:
+      213: -8572169410375294168
+    second: Mung_Plump_Normal_Up_IdleA_14
+  - first:
+      213: 3210203359049774087
+    second: Mung_Plump_Normal_Up_IdleA_15
+  - first:
+      213: -7631746644382312139
+    second: Mung_Plump_Normal_Up_IdleA_16
+  - first:
+      213: 796692325556962448
+    second: Mung_Plump_Normal_Up_IdleA_17
+  - first:
+      213: 8332338310434766085
+    second: Mung_Plump_Normal_Up_IdleA_18
+  - first:
+      213: 6637287272334521857
+    second: Mung_Plump_Normal_Up_IdleA_19
+  - first:
+      213: -1878497459509962087
+    second: Mung_Plump_Normal_Up_IdleA_20
+  - first:
+      213: -1525586804192575600
+    second: Mung_Plump_Normal_Up_IdleA_21
+  - first:
+      213: -1365354456202867078
+    second: Mung_Plump_Normal_Up_IdleA_22
+  - first:
+      213: 7297473060542281238
+    second: Mung_Plump_Normal_Up_IdleA_23
+  - first:
+      213: 5307141320148294857
+    second: Mung_Plump_Normal_Up_IdleA_24
+  - first:
+      213: 3485634468898047382
+    second: Mung_Plump_Normal_Up_IdleA_25
+  - first:
+      213: 3042306995072040092
+    second: Mung_Plump_Normal_Up_IdleA_26
+  - first:
+      213: 8584972593878325428
+    second: Mung_Plump_Normal_Up_IdleA_27
+  - first:
+      213: 6440546047348314751
+    second: Mung_Plump_Normal_Up_IdleA_28
+  - first:
+      213: 7296907560673245906
+    second: Mung_Plump_Normal_Up_IdleA_29
+  - first:
+      213: -2693019411534226584
+    second: Mung_Plump_Normal_Up_IdleA_30
+  - first:
+      213: -2609782652112106226
+    second: Mung_Plump_Normal_Up_IdleA_31
+  - first:
+      213: -6599071848841711826
+    second: Mung_Plump_Normal_Up_IdleA_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mung_Plump_Normal_Up_IdleA_0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 257
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb20d987219d4b7d0800000000000000
+      internalID: -2903457186390932805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mung_Plump_Normal_Up_IdleA_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 259
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be10fb6003ac91d60800000000000000
+      internalID: 7861536932172333547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mung_Plump_Normal_Up_IdleA_2
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 259
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840daf5570de33ba0800000000000000
+      internalID: -6110279653648576440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mung_Plump_Normal_Up_IdleA_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 259
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8db1c9aa6fb1bc0800000000000000
+      internalID: -3811181447015049007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mung_Plump_Normal_Up_IdleA_4
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 259
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c879a8be1acda67e0800000000000000
+      internalID: -1771360915417294964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mung_Plump_Normal_Up_IdleA_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 209
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc0e74400008afa0800000000000000
+      internalID: -5789377319835661115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mung_Plump_Normal_Up_IdleA_6
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 209
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1cba704ce14339f0800000000000000
+      internalID: -489975451503379428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mung_Plump_Normal_Up_IdleA_7
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 209
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2889cb30f5d4d0160800000000000000
+      internalID: 6993330866856171650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mung_Plump_Normal_Up_IdleA_8
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 209
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e13a9207567b4100800000000000000
+      internalID: 93298333369119209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mung_Plump_Normal_Up_IdleA_9
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 209
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b33b48a471395a0800000000000000
+      internalID: -6515838627053618307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mung_Plump_Normal_Up_IdleA_10
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 209
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1914e3193ba558df0800000000000000
+      internalID: -178636882928844399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mung_Plump_Normal_Up_IdleA_11
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 159
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b865d586065ff2920800000000000000
+      internalID: 2967860473877059211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mung_Plump_Normal_Up_IdleA_12
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 159
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1cf59999cbee330800000000000000
+      internalID: 3742135708280668607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mung_Plump_Normal_Up_IdleA_13
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 159
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920334f9bf9bee020800000000000000
+      internalID: 2373038544030740521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mung_Plump_Normal_Up_IdleA_14
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 159
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8236c1ca659890980800000000000000
+      internalID: -8572169410375294168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mung_Plump_Normal_Up_IdleA_15
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 159
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7047de852feec8c20800000000000000
+      internalID: 3210203359049774087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mung_Plump_Normal_Up_IdleA_16
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 159
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53910d59cd6961690800000000000000
+      internalID: -7631746644382312139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mung_Plump_Normal_Up_IdleA_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 109
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0944a14f27b6e0b00800000000000000
+      internalID: 796692325556962448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mung_Plump_Normal_Up_IdleA_18
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 109
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50db7d5fb8962a370800000000000000
+      internalID: 8332338310434766085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mung_Plump_Normal_Up_IdleA_19
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 109
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10678bbbb916c1c50800000000000000
+      internalID: 6637287272334521857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mung_Plump_Normal_Up_IdleA_20
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 109
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a5f66638c3ee5e0800000000000000
+      internalID: -1878497459509962087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mung_Plump_Normal_Up_IdleA_21
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 109
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ff31e62e604dae0800000000000000
+      internalID: -1525586804192575600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mung_Plump_Normal_Up_IdleA_22
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 109
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e08852b594d0de0800000000000000
+      internalID: -1365354456202867078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mung_Plump_Normal_Up_IdleA_23
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 59
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616fa9bb515d54560800000000000000
+      internalID: 7297473060542281238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mung_Plump_Normal_Up_IdleA_24
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 59
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc9c3889e0c6a940800000000000000
+      internalID: 5307141320148294857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mung_Plump_Normal_Up_IdleA_25
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 59
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695868fe4167f5030800000000000000
+      internalID: 3485634468898047382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mung_Plump_Normal_Up_IdleA_26
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 59
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c74fad712783a20800000000000000
+      internalID: 3042306995072040092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mung_Plump_Normal_Up_IdleA_27
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 59
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8d498c613f32770800000000000000
+      internalID: 8584972593878325428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mung_Plump_Normal_Up_IdleA_28
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 59
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f721ebfa18a616950800000000000000
+      internalID: 6440546047348314751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mung_Plump_Normal_Up_IdleA_29
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 9
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da7ac804c2d34560800000000000000
+      internalID: 7296907560673245906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mung_Plump_Normal_Up_IdleA_30
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 9
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b554a0d1970aad0800000000000000
+      internalID: -2693019411534226584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mung_Plump_Normal_Up_IdleA_31
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 9
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d81ef418038cbd0800000000000000
+      internalID: -2609782652112106226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mung_Plump_Normal_Up_IdleA_32
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 9
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f628aed136b64a0800000000000000
+      internalID: -6599071848841711826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mung_Plump_Normal_Up_IdleA_0: -2903457186390932805
+      Mung_Plump_Normal_Up_IdleA_1: 7861536932172333547
+      Mung_Plump_Normal_Up_IdleA_10: -178636882928844399
+      Mung_Plump_Normal_Up_IdleA_11: 2967860473877059211
+      Mung_Plump_Normal_Up_IdleA_12: 3742135708280668607
+      Mung_Plump_Normal_Up_IdleA_13: 2373038544030740521
+      Mung_Plump_Normal_Up_IdleA_14: -8572169410375294168
+      Mung_Plump_Normal_Up_IdleA_15: 3210203359049774087
+      Mung_Plump_Normal_Up_IdleA_16: -7631746644382312139
+      Mung_Plump_Normal_Up_IdleA_17: 796692325556962448
+      Mung_Plump_Normal_Up_IdleA_18: 8332338310434766085
+      Mung_Plump_Normal_Up_IdleA_19: 6637287272334521857
+      Mung_Plump_Normal_Up_IdleA_2: -6110279653648576440
+      Mung_Plump_Normal_Up_IdleA_20: -1878497459509962087
+      Mung_Plump_Normal_Up_IdleA_21: -1525586804192575600
+      Mung_Plump_Normal_Up_IdleA_22: -1365354456202867078
+      Mung_Plump_Normal_Up_IdleA_23: 7297473060542281238
+      Mung_Plump_Normal_Up_IdleA_24: 5307141320148294857
+      Mung_Plump_Normal_Up_IdleA_25: 3485634468898047382
+      Mung_Plump_Normal_Up_IdleA_26: 3042306995072040092
+      Mung_Plump_Normal_Up_IdleA_27: 8584972593878325428
+      Mung_Plump_Normal_Up_IdleA_28: 6440546047348314751
+      Mung_Plump_Normal_Up_IdleA_29: 7296907560673245906
+      Mung_Plump_Normal_Up_IdleA_3: -3811181447015049007
+      Mung_Plump_Normal_Up_IdleA_30: -2693019411534226584
+      Mung_Plump_Normal_Up_IdleA_31: -2609782652112106226
+      Mung_Plump_Normal_Up_IdleA_32: -6599071848841711826
+      Mung_Plump_Normal_Up_IdleA_4: -1771360915417294964
+      Mung_Plump_Normal_Up_IdleA_5: -5789377319835661115
+      Mung_Plump_Normal_Up_IdleA_6: -489975451503379428
+      Mung_Plump_Normal_Up_IdleA_7: 6993330866856171650
+      Mung_Plump_Normal_Up_IdleA_8: 93298333369119209
+      Mung_Plump_Normal_Up_IdleA_9: -6515838627053618307
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
