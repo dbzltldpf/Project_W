@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: c81dd31e54dae6743b315bece196a0fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6500561588760300666
+    second: Ellie_Basic_Fishing_ThrowFail_0
+  - first:
+      213: 1513835030178999262
+    second: Ellie_Basic_Fishing_ThrowFail_1
+  - first:
+      213: -2553529026976932427
+    second: Ellie_Basic_Fishing_ThrowFail_2
+  - first:
+      213: 2008510305202902158
+    second: Ellie_Basic_Fishing_ThrowFail_3
+  - first:
+      213: -7496620939044686873
+    second: Ellie_Basic_Fishing_ThrowFail_4
+  - first:
+      213: -8079874105000291833
+    second: Ellie_Basic_Fishing_ThrowFail_5
+  - first:
+      213: 3663793780174620033
+    second: Ellie_Basic_Fishing_ThrowFail_6
+  - first:
+      213: 3570273224383208145
+    second: Ellie_Basic_Fishing_ThrowFail_7
+  - first:
+      213: -3995595314464908361
+    second: Ellie_Basic_Fishing_ThrowFail_8
+  - first:
+      213: 7902940461354332086
+    second: Ellie_Basic_Fishing_ThrowFail_9
+  - first:
+      213: -982287229398541202
+    second: Ellie_Basic_Fishing_ThrowFail_10
+  - first:
+      213: 9123038730277548843
+    second: Ellie_Basic_Fishing_ThrowFail_11
+  - first:
+      213: -8167757635631045206
+    second: Ellie_Basic_Fishing_ThrowFail_12
+  - first:
+      213: -3223507448423879151
+    second: Ellie_Basic_Fishing_ThrowFail_13
+  - first:
+      213: 8479671094918466162
+    second: Ellie_Basic_Fishing_ThrowFail_14
+  - first:
+      213: -8792334056132844230
+    second: Ellie_Basic_Fishing_ThrowFail_15
+  - first:
+      213: -1193737610831777351
+    second: Ellie_Basic_Fishing_ThrowFail_16
+  - first:
+      213: -7148337184536948884
+    second: Ellie_Basic_Fishing_ThrowFail_17
+  - first:
+      213: 1157634870131791415
+    second: Ellie_Basic_Fishing_ThrowFail_18
+  - first:
+      213: 6230779597204978588
+    second: Ellie_Basic_Fishing_ThrowFail_19
+  - first:
+      213: 551177072332031491
+    second: Ellie_Basic_Fishing_ThrowFail_20
+  - first:
+      213: 7227282971604979470
+    second: Ellie_Basic_Fishing_ThrowFail_21
+  - first:
+      213: 9190796536160089644
+    second: Ellie_Basic_Fishing_ThrowFail_22
+  - first:
+      213: 5885721350958740983
+    second: Ellie_Basic_Fishing_ThrowFail_23
+  - first:
+      213: -1908949648659639682
+    second: Ellie_Basic_Fishing_ThrowFail_24
+  - first:
+      213: 6503395742984179165
+    second: Ellie_Basic_Fishing_ThrowFail_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_ThrowFail_0
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1038
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683b46d2dad59c5a0800000000000000
+      internalID: -6500561588760300666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_ThrowFail_1
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1038
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbac5670f8320510800000000000000
+      internalID: 1513835030178999262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_ThrowFail_2
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1039
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd146f01ea009cd0800000000000000
+      internalID: -2553529026976932427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_ThrowFail_3
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1039
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8494552b79afdb10800000000000000
+      internalID: 2008510305202902158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_ThrowFail_4
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1039
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e37c7889f6a6f790800000000000000
+      internalID: -7496620939044686873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_ThrowFail_5
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1039
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702949d7f458edf80800000000000000
+      internalID: -8079874105000291833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_ThrowFail_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 879
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185089d080968d230800000000000000
+      internalID: 3663793780174620033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_ThrowFail_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 879
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da137ad4982c8130800000000000000
+      internalID: 3570273224383208145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_ThrowFail_8
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 879
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb9a172b3bcc88c0800000000000000
+      internalID: -3995595314464908361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_ThrowFail_9
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 879
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf26106a72ecad60800000000000000
+      internalID: 7902940461354332086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_ThrowFail_10
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 879
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c1c4028f63e52f0800000000000000
+      internalID: -982287229398541202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_ThrowFail_11
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 879
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23f256a36b8b9e70800000000000000
+      internalID: 9123038730277548843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_ThrowFail_12
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 879
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa52abc74bb46ae80800000000000000
+      internalID: -8167757635631045206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_ThrowFail_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 719
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e6ed5fd0dc343d0800000000000000
+      internalID: -3223507448423879151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_ThrowFail_14
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 424
+        width: 27
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a43c00fe7dda570800000000000000
+      internalID: 8479671094918466162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_ThrowFail_15
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 101
+        width: 649
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35e1ad72ca5bf580800000000000000
+      internalID: -8792334056132844230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_ThrowFail_16
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 425
+        width: 27
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b13957b7fdfe6fe0800000000000000
+      internalID: -1193737610831777351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_ThrowFail_17
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 719
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f85f444310ccc90800000000000000
+      internalID: -7148337184536948884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_ThrowFail_18
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 425
+        width: 28
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7369fcde7ceb01010800000000000000
+      internalID: 1157634870131791415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_ThrowFail_19
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 719
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b7725180d287650800000000000000
+      internalID: 6230779597204978588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_ThrowFail_20
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 719
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306c0b480ac26a700800000000000000
+      internalID: 551177072332031491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_ThrowFail_21
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 719
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f8eb522977c4460800000000000000
+      internalID: 7227282971604979470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_ThrowFail_22
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 423
+        width: 28
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2676b431c44c8f70800000000000000
+      internalID: 9190796536160089644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_ThrowFail_23
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 719
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5f3d282684ea150800000000000000
+      internalID: 5885721350958740983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_ThrowFail_24
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 425
+        width: 29
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e721989986c0285e0800000000000000
+      internalID: -1908949648659639682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_ThrowFail_25
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 262
+        width: 175
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd0c56c8f3b04a50800000000000000
+      internalID: 6503395742984179165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ellie_Basic_Fishing_ThrowFail_0: -6500561588760300666
+      Ellie_Basic_Fishing_ThrowFail_1: 1513835030178999262
+      Ellie_Basic_Fishing_ThrowFail_10: -982287229398541202
+      Ellie_Basic_Fishing_ThrowFail_11: 9123038730277548843
+      Ellie_Basic_Fishing_ThrowFail_12: -8167757635631045206
+      Ellie_Basic_Fishing_ThrowFail_13: -3223507448423879151
+      Ellie_Basic_Fishing_ThrowFail_14: 8479671094918466162
+      Ellie_Basic_Fishing_ThrowFail_15: -8792334056132844230
+      Ellie_Basic_Fishing_ThrowFail_16: -1193737610831777351
+      Ellie_Basic_Fishing_ThrowFail_17: -7148337184536948884
+      Ellie_Basic_Fishing_ThrowFail_18: 1157634870131791415
+      Ellie_Basic_Fishing_ThrowFail_19: 6230779597204978588
+      Ellie_Basic_Fishing_ThrowFail_2: -2553529026976932427
+      Ellie_Basic_Fishing_ThrowFail_20: 551177072332031491
+      Ellie_Basic_Fishing_ThrowFail_21: 7227282971604979470
+      Ellie_Basic_Fishing_ThrowFail_22: 9190796536160089644
+      Ellie_Basic_Fishing_ThrowFail_23: 5885721350958740983
+      Ellie_Basic_Fishing_ThrowFail_24: -1908949648659639682
+      Ellie_Basic_Fishing_ThrowFail_25: 6503395742984179165
+      Ellie_Basic_Fishing_ThrowFail_3: 2008510305202902158
+      Ellie_Basic_Fishing_ThrowFail_4: -7496620939044686873
+      Ellie_Basic_Fishing_ThrowFail_5: -8079874105000291833
+      Ellie_Basic_Fishing_ThrowFail_6: 3663793780174620033
+      Ellie_Basic_Fishing_ThrowFail_7: 3570273224383208145
+      Ellie_Basic_Fishing_ThrowFail_8: -3995595314464908361
+      Ellie_Basic_Fishing_ThrowFail_9: 7902940461354332086
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

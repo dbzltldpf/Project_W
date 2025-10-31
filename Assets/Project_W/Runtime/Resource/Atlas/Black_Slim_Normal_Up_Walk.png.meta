@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: f06618118515ed341aba783dcde5db6e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -736989089913601101
+    second: Black_Slim_Normal_Up_Walk_0
+  - first:
+      213: -8579484955229148712
+    second: Black_Slim_Normal_Up_Walk_1
+  - first:
+      213: 3557306453457191160
+    second: Black_Slim_Normal_Up_Walk_2
+  - first:
+      213: 2217453581075925990
+    second: Black_Slim_Normal_Up_Walk_3
+  - first:
+      213: -4254373156669459099
+    second: Black_Slim_Normal_Up_Walk_4
+  - first:
+      213: -412673855215424948
+    second: Black_Slim_Normal_Up_Walk_5
+  - first:
+      213: 6156753026534036606
+    second: Black_Slim_Normal_Up_Walk_6
+  - first:
+      213: 2772608104417451527
+    second: Black_Slim_Normal_Up_Walk_7
+  - first:
+      213: -863756183388686605
+    second: Black_Slim_Normal_Up_Walk_8
+  - first:
+      213: -8520474797388357585
+    second: Black_Slim_Normal_Up_Walk_9
+  - first:
+      213: 1075448081184959229
+    second: Black_Slim_Normal_Up_Walk_10
+  - first:
+      213: 8321558060318058000
+    second: Black_Slim_Normal_Up_Walk_11
+  - first:
+      213: 3877489712549676432
+    second: Black_Slim_Normal_Up_Walk_12
+  - first:
+      213: 2597636702803614732
+    second: Black_Slim_Normal_Up_Walk_13
+  - first:
+      213: 957321176681676913
+    second: Black_Slim_Normal_Up_Walk_14
+  - first:
+      213: -5809964434547672187
+    second: Black_Slim_Normal_Up_Walk_15
+  - first:
+      213: -3857555112041045182
+    second: Black_Slim_Normal_Up_Walk_16
+  - first:
+      213: -1254885327273488315
+    second: Black_Slim_Normal_Up_Walk_17
+  - first:
+      213: 6811253775166401702
+    second: Black_Slim_Normal_Up_Walk_18
+  - first:
+      213: 6862981670608112809
+    second: Black_Slim_Normal_Up_Walk_19
+  - first:
+      213: -3285583245774023023
+    second: Black_Slim_Normal_Up_Walk_20
+  - first:
+      213: -8939747008866043188
+    second: Black_Slim_Normal_Up_Walk_21
+  - first:
+      213: 2844663030479383640
+    second: Black_Slim_Normal_Up_Walk_22
+  - first:
+      213: 1616240797537101042
+    second: Black_Slim_Normal_Up_Walk_23
+  - first:
+      213: 3890651246342693380
+    second: Black_Slim_Normal_Up_Walk_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 207
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b38c54d350b5c5f0800000000000000
+      internalID: -736989089913601101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 209
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d922c7a3eb8fe880800000000000000
+      internalID: -8579484955229148712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 209
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0458b3f571e5130800000000000000
+      internalID: 3557306453457191160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 209
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ebc2fd884af5ce10800000000000000
+      internalID: 2217453581075925990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 209
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56572c6972e65f4c0800000000000000
+      internalID: -4254373156669459099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 159
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a2bcba053e54af0800000000000000
+      internalID: -412673855215424948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_Walk_6
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 159
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e745f5cf14e217550800000000000000
+      internalID: 6156753026534036606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_Walk_7
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 159
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70edb2d81684a7620800000000000000
+      internalID: 2772608104417451527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_Walk_8
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 159
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6f19cd3525304f0800000000000000
+      internalID: -863756183388686605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_Walk_9
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 159
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20afffa05131c980800000000000000
+      internalID: -8520474797388357585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_Walk_10
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 159
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfaa765f452ccee00800000000000000
+      internalID: 1075448081184959229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_Walk_11
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 109
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016eb0367fc1c7370800000000000000
+      internalID: 8321558060318058000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_Walk_12
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 109
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09541c8895c9fc530800000000000000
+      internalID: 3877489712549676432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_Walk_13
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 109
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c502e71d8ac0420800000000000000
+      internalID: 2597636702803614732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_Walk_14
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 109
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1700210c986194d00800000000000000
+      internalID: 957321176681676913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_Walk_15
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 109
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58bf129112cde5fa0800000000000000
+      internalID: -5809964434547672187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_Walk_16
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 109
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2432d455016377ac0800000000000000
+      internalID: -3857555112041045182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_Walk_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 59
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540930a8170c59ee0800000000000000
+      internalID: -1254885327273488315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_Walk_18
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 59
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ace4df883f668e50800000000000000
+      internalID: 6811253775166401702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_Walk_19
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 59
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac0d90c7753e3f50800000000000000
+      internalID: 6862981670608112809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_Walk_20
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 59
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1961aab12734762d0800000000000000
+      internalID: -3285583245774023023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_Walk_21
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 59
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccabda2d573afe380800000000000000
+      internalID: -8939747008866043188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_Walk_22
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 59
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ce86d54f54a7720800000000000000
+      internalID: 2844663030479383640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_Walk_23
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 9
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f461b0317a0e6610800000000000000
+      internalID: 1616240797537101042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_Walk_24
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 9
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402ef2be1be5ef530800000000000000
+      internalID: 3890651246342693380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Black_Slim_Normal_Up_Walk_0: -736989089913601101
+      Black_Slim_Normal_Up_Walk_1: -8579484955229148712
+      Black_Slim_Normal_Up_Walk_10: 1075448081184959229
+      Black_Slim_Normal_Up_Walk_11: 8321558060318058000
+      Black_Slim_Normal_Up_Walk_12: 3877489712549676432
+      Black_Slim_Normal_Up_Walk_13: 2597636702803614732
+      Black_Slim_Normal_Up_Walk_14: 957321176681676913
+      Black_Slim_Normal_Up_Walk_15: -5809964434547672187
+      Black_Slim_Normal_Up_Walk_16: -3857555112041045182
+      Black_Slim_Normal_Up_Walk_17: -1254885327273488315
+      Black_Slim_Normal_Up_Walk_18: 6811253775166401702
+      Black_Slim_Normal_Up_Walk_19: 6862981670608112809
+      Black_Slim_Normal_Up_Walk_2: 3557306453457191160
+      Black_Slim_Normal_Up_Walk_20: -3285583245774023023
+      Black_Slim_Normal_Up_Walk_21: -8939747008866043188
+      Black_Slim_Normal_Up_Walk_22: 2844663030479383640
+      Black_Slim_Normal_Up_Walk_23: 1616240797537101042
+      Black_Slim_Normal_Up_Walk_24: 3890651246342693380
+      Black_Slim_Normal_Up_Walk_3: 2217453581075925990
+      Black_Slim_Normal_Up_Walk_4: -4254373156669459099
+      Black_Slim_Normal_Up_Walk_5: -412673855215424948
+      Black_Slim_Normal_Up_Walk_6: 6156753026534036606
+      Black_Slim_Normal_Up_Walk_7: 2772608104417451527
+      Black_Slim_Normal_Up_Walk_8: -863756183388686605
+      Black_Slim_Normal_Up_Walk_9: -8520474797388357585
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

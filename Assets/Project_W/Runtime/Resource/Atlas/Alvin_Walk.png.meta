@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: c2f09800e58d0914585e7a1172017c34
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5333346689306358997
+    second: Alvin_Walk_0
+  - first:
+      213: -7160724556220026779
+    second: Alvin_Walk_1
+  - first:
+      213: 2207147822790398977
+    second: Alvin_Walk_2
+  - first:
+      213: -2791805713398543098
+    second: Alvin_Walk_3
+  - first:
+      213: 93931258772302864
+    second: Alvin_Walk_4
+  - first:
+      213: 1406728077554610263
+    second: Alvin_Walk_5
+  - first:
+      213: 8637663678470793819
+    second: Alvin_Walk_6
+  - first:
+      213: 6653000884849302507
+    second: Alvin_Walk_7
+  - first:
+      213: -7650831210297032817
+    second: Alvin_Walk_8
+  - first:
+      213: 3911522663432963859
+    second: Alvin_Walk_9
+  - first:
+      213: 4372994347098093535
+    second: Alvin_Walk_10
+  - first:
+      213: 1228743643380815906
+    second: Alvin_Walk_11
+  - first:
+      213: -250201516858832057
+    second: Alvin_Walk_12
+  - first:
+      213: -7979734921953785185
+    second: Alvin_Walk_13
+  - first:
+      213: 324936597264541507
+    second: Alvin_Walk_14
+  - first:
+      213: -8957815198496297327
+    second: Alvin_Walk_15
+  - first:
+      213: 4727893226900868967
+    second: Alvin_Walk_16
+  - first:
+      213: -2956147247457338091
+    second: Alvin_Walk_17
+  - first:
+      213: -51234212336794913
+    second: Alvin_Walk_18
+  - first:
+      213: -2273484032147900175
+    second: Alvin_Walk_19
+  - first:
+      213: -2463605455396490848
+    second: Alvin_Walk_20
+  - first:
+      213: 1028456254531239047
+    second: Alvin_Walk_21
+  - first:
+      213: -3227844441308699948
+    second: Alvin_Walk_22
+  - first:
+      213: -639663961743655969
+    second: Alvin_Walk_23
+  - first:
+      213: -9006948173907064709
+    second: Alvin_Walk_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Alvin_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 418
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b83ef71752cf5b0800000000000000
+      internalID: -5333346689306358997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvin_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 419
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560b61c84feff9c90800000000000000
+      internalID: -7160724556220026779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvin_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 419
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104d238304d51ae10800000000000000
+      internalID: 2207147822790398977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvin_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 419
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d49face738149d0800000000000000
+      internalID: -2791805713398543098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvin_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 419
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01cad607bf5bd4100800000000000000
+      internalID: 93931258772302864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvin_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 319
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750f53ebbb3b58310800000000000000
+      internalID: 1406728077554610263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvin_Walk_6
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 319
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5aab8ce9552fd770800000000000000
+      internalID: 8637663678470793819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvin_Walk_7
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 319
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb5dcf3e05345c50800000000000000
+      internalID: 6653000884849302507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvin_Walk_8
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 319
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ff5c1dc89c2d590800000000000000
+      internalID: -7650831210297032817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvin_Walk_9
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 319
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317cfc46325884630800000000000000
+      internalID: 3911522663432963859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvin_Walk_10
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 319
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7b297803fffac30800000000000000
+      internalID: 4372994347098093535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvin_Walk_11
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 219
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2289bbf55df5d0110800000000000000
+      internalID: 1228743643380815906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvin_Walk_12
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 219
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b8d59cb0b178cf0800000000000000
+      internalID: -250201516858832057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvin_Walk_13
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 219
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a4a2fed59424190800000000000000
+      internalID: -7979734921953785185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvin_Walk_14
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 219
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3472a761d18628400800000000000000
+      internalID: 324936597264541507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvin_Walk_15
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 219
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e680a99827fa380800000000000000
+      internalID: -8957815198496297327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvin_Walk_16
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 219
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76fc66527d9dc9140800000000000000
+      internalID: 4727893226900868967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvin_Walk_17
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 119
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d7e83adb7a9f6d0800000000000000
+      internalID: -2956147247457338091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvin_Walk_18
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 119
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2815d51caf94ff0800000000000000
+      internalID: -51234212336794913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvin_Walk_19
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 119
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f83d457156f270e0800000000000000
+      internalID: -2273484032147900175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvin_Walk_20
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 119
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1b06c14e38fcdd0800000000000000
+      internalID: -2463605455396490848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvin_Walk_21
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 119
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cfc56b38fc54e00800000000000000
+      internalID: 1028456254531239047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvin_Walk_22
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 119
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2639d15946433d0800000000000000
+      internalID: -3227844441308699948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvin_Walk_23
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 19
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb76a014057f17f0800000000000000
+      internalID: -639663961743655969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvin_Walk_24
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 19
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b788aef4b54e00380800000000000000
+      internalID: -9006948173907064709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Alvin_Walk_0: -5333346689306358997
+      Alvin_Walk_1: -7160724556220026779
+      Alvin_Walk_10: 4372994347098093535
+      Alvin_Walk_11: 1228743643380815906
+      Alvin_Walk_12: -250201516858832057
+      Alvin_Walk_13: -7979734921953785185
+      Alvin_Walk_14: 324936597264541507
+      Alvin_Walk_15: -8957815198496297327
+      Alvin_Walk_16: 4727893226900868967
+      Alvin_Walk_17: -2956147247457338091
+      Alvin_Walk_18: -51234212336794913
+      Alvin_Walk_19: -2273484032147900175
+      Alvin_Walk_2: 2207147822790398977
+      Alvin_Walk_20: -2463605455396490848
+      Alvin_Walk_21: 1028456254531239047
+      Alvin_Walk_22: -3227844441308699948
+      Alvin_Walk_23: -639663961743655969
+      Alvin_Walk_24: -9006948173907064709
+      Alvin_Walk_3: -2791805713398543098
+      Alvin_Walk_4: 93931258772302864
+      Alvin_Walk_5: 1406728077554610263
+      Alvin_Walk_6: 8637663678470793819
+      Alvin_Walk_7: 6653000884849302507
+      Alvin_Walk_8: -7650831210297032817
+      Alvin_Walk_9: 3911522663432963859
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

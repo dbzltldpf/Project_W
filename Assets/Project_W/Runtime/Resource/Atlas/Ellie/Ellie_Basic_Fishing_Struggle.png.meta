@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: e8e0bb3ca8f1c1446b793196c47a7d5a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -843126860484514004
+    second: Ellie_Basic_Fishing_Struggle_0
+  - first:
+      213: -7475403001605883422
+    second: Ellie_Basic_Fishing_Struggle_1
+  - first:
+      213: -4701128640644902837
+    second: Ellie_Basic_Fishing_Struggle_2
+  - first:
+      213: 4069172774413104221
+    second: Ellie_Basic_Fishing_Struggle_3
+  - first:
+      213: 3711600627132540058
+    second: Ellie_Basic_Fishing_Struggle_4
+  - first:
+      213: -8192315010257329992
+    second: Ellie_Basic_Fishing_Struggle_5
+  - first:
+      213: -6107044728307737953
+    second: Ellie_Basic_Fishing_Struggle_6
+  - first:
+      213: -3246081633670980920
+    second: Ellie_Basic_Fishing_Struggle_7
+  - first:
+      213: 2533297552587591319
+    second: Ellie_Basic_Fishing_Struggle_8
+  - first:
+      213: 2455122746048450419
+    second: Ellie_Basic_Fishing_Struggle_9
+  - first:
+      213: -1281121660343850383
+    second: Ellie_Basic_Fishing_Struggle_10
+  - first:
+      213: -5904520260500267917
+    second: Ellie_Basic_Fishing_Struggle_11
+  - first:
+      213: 821633814380184182
+    second: Ellie_Basic_Fishing_Struggle_12
+  - first:
+      213: -223300882654627912
+    second: Ellie_Basic_Fishing_Struggle_13
+  - first:
+      213: 278534469872705687
+    second: Ellie_Basic_Fishing_Struggle_14
+  - first:
+      213: -6735308652854249010
+    second: Ellie_Basic_Fishing_Struggle_15
+  - first:
+      213: -4681906865757841656
+    second: Ellie_Basic_Fishing_Struggle_16
+  - first:
+      213: -3929297656004342603
+    second: Ellie_Basic_Fishing_Struggle_17
+  - first:
+      213: 6189198092266178506
+    second: Ellie_Basic_Fishing_Struggle_18
+  - first:
+      213: -6228827690725481501
+    second: Ellie_Basic_Fishing_Struggle_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_Struggle_0
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 878
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2fea34669c9c44f0800000000000000
+      internalID: -843126860484514004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_Struggle_1
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 878
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e974609398024890800000000000000
+      internalID: -7475403001605883422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_Struggle_2
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 879
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4012f2b86c32ceb0800000000000000
+      internalID: -4701128640644902837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_Struggle_3
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 879
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d547594341b987830800000000000000
+      internalID: 4069172774413104221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_Struggle_4
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 879
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a942a500b11428330800000000000000
+      internalID: 3711600627132540058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_Struggle_5
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 719
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0e28527ec0f4e80800000000000000
+      internalID: -8192315010257329992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_Struggle_6
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 719
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a9bc51d2b6f3ba0800000000000000
+      internalID: -6107044728307737953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_Struggle_7
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 719
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca1f11e3f993f2d0800000000000000
+      internalID: -3246081633670980920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_Struggle_8
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 719
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e895cb3b4182320800000000000000
+      internalID: 2533297552587591319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_Struggle_9
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 719
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f03363129521220800000000000000
+      internalID: 2455122746048450419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_Struggle_10
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 719
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a652933aa883ee0800000000000000
+      internalID: -1281121660343850383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_Struggle_11
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 559
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37cd8c74b1eee0ea0800000000000000
+      internalID: -5904520260500267917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_Struggle_12
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 268
+        width: 29
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6728499d997076b00800000000000000
+      internalID: 821633814380184182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_Struggle_13
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 102
+        width: 335
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7f653c70da6ecf0800000000000000
+      internalID: -223300882654627912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_Struggle_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 559
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790e676ef9d8dd300800000000000000
+      internalID: 278534469872705687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_Struggle_15
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 559
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9f10627706782a0800000000000000
+      internalID: -6735308652854249010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_Struggle_16
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 102
+        width: 179
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8079a0be286860fb0800000000000000
+      internalID: -4681906865757841656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_Struggle_17
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 425
+        width: 27
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc0615a9945879c0800000000000000
+      internalID: -3929297656004342603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_Struggle_18
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 263
+        width: 175
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac70d068fd274e550800000000000000
+      internalID: 6189198092266178506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellie_Basic_Fishing_Struggle_19
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 421
+        width: 27
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3e03f8732ce89a0800000000000000
+      internalID: -6228827690725481501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ellie_Basic_Fishing_Struggle_0: -843126860484514004
+      Ellie_Basic_Fishing_Struggle_1: -7475403001605883422
+      Ellie_Basic_Fishing_Struggle_10: -1281121660343850383
+      Ellie_Basic_Fishing_Struggle_11: -5904520260500267917
+      Ellie_Basic_Fishing_Struggle_12: 821633814380184182
+      Ellie_Basic_Fishing_Struggle_13: -223300882654627912
+      Ellie_Basic_Fishing_Struggle_14: 278534469872705687
+      Ellie_Basic_Fishing_Struggle_15: -6735308652854249010
+      Ellie_Basic_Fishing_Struggle_16: -4681906865757841656
+      Ellie_Basic_Fishing_Struggle_17: -3929297656004342603
+      Ellie_Basic_Fishing_Struggle_18: 6189198092266178506
+      Ellie_Basic_Fishing_Struggle_19: -6228827690725481501
+      Ellie_Basic_Fishing_Struggle_2: -4701128640644902837
+      Ellie_Basic_Fishing_Struggle_3: 4069172774413104221
+      Ellie_Basic_Fishing_Struggle_4: 3711600627132540058
+      Ellie_Basic_Fishing_Struggle_5: -8192315010257329992
+      Ellie_Basic_Fishing_Struggle_6: -6107044728307737953
+      Ellie_Basic_Fishing_Struggle_7: -3246081633670980920
+      Ellie_Basic_Fishing_Struggle_8: 2533297552587591319
+      Ellie_Basic_Fishing_Struggle_9: 2455122746048450419
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

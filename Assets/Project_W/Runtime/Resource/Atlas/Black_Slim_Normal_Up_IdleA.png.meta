@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: d065d38262c895047ae25c59ae837400
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2081027585763876982
+    second: Black_Slim_Normal_Up_IdleA_0
+  - first:
+      213: -6787326042006316140
+    second: Black_Slim_Normal_Up_IdleA_1
+  - first:
+      213: -5293042120595028875
+    second: Black_Slim_Normal_Up_IdleA_2
+  - first:
+      213: 6563355862795216132
+    second: Black_Slim_Normal_Up_IdleA_3
+  - first:
+      213: 6574535203549221736
+    second: Black_Slim_Normal_Up_IdleA_4
+  - first:
+      213: 4236717647817810719
+    second: Black_Slim_Normal_Up_IdleA_5
+  - first:
+      213: -2183613558592936136
+    second: Black_Slim_Normal_Up_IdleA_6
+  - first:
+      213: 8529107973425549771
+    second: Black_Slim_Normal_Up_IdleA_7
+  - first:
+      213: -5679186876093155925
+    second: Black_Slim_Normal_Up_IdleA_8
+  - first:
+      213: -3301917049412242053
+    second: Black_Slim_Normal_Up_IdleA_9
+  - first:
+      213: 3647328394847962920
+    second: Black_Slim_Normal_Up_IdleA_10
+  - first:
+      213: 1252629902445909090
+    second: Black_Slim_Normal_Up_IdleA_11
+  - first:
+      213: 8790455901767118907
+    second: Black_Slim_Normal_Up_IdleA_12
+  - first:
+      213: 665672487677630474
+    second: Black_Slim_Normal_Up_IdleA_13
+  - first:
+      213: 6886400111093956450
+    second: Black_Slim_Normal_Up_IdleA_14
+  - first:
+      213: 7167570919607003339
+    second: Black_Slim_Normal_Up_IdleA_15
+  - first:
+      213: -3354446156317177732
+    second: Black_Slim_Normal_Up_IdleA_16
+  - first:
+      213: 6644096621274563063
+    second: Black_Slim_Normal_Up_IdleA_17
+  - first:
+      213: 2665937971365844159
+    second: Black_Slim_Normal_Up_IdleA_18
+  - first:
+      213: -8661466723706435730
+    second: Black_Slim_Normal_Up_IdleA_19
+  - first:
+      213: -8813530860748309891
+    second: Black_Slim_Normal_Up_IdleA_20
+  - first:
+      213: -3395950906988208496
+    second: Black_Slim_Normal_Up_IdleA_21
+  - first:
+      213: 1068645327251040345
+    second: Black_Slim_Normal_Up_IdleA_22
+  - first:
+      213: 1010228757333513048
+    second: Black_Slim_Normal_Up_IdleA_23
+  - first:
+      213: -652658109094602746
+    second: Black_Slim_Normal_Up_IdleA_24
+  - first:
+      213: 7127381163276543966
+    second: Black_Slim_Normal_Up_IdleA_25
+  - first:
+      213: -6437436235150170653
+    second: Black_Slim_Normal_Up_IdleA_26
+  - first:
+      213: 4774785332336728383
+    second: Black_Slim_Normal_Up_IdleA_27
+  - first:
+      213: 109923150144276771
+    second: Black_Slim_Normal_Up_IdleA_28
+  - first:
+      213: -4601048633669876733
+    second: Black_Slim_Normal_Up_IdleA_29
+  - first:
+      213: -2915968694410608992
+    second: Black_Slim_Normal_Up_IdleA_30
+  - first:
+      213: -4495248682087321365
+    second: Black_Slim_Normal_Up_IdleA_31
+  - first:
+      213: -6460894858395897809
+    second: Black_Slim_Normal_Up_IdleA_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_IdleA_0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 257
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670ae31409b41ec10800000000000000
+      internalID: 2081027585763876982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_IdleA_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 259
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b9473fce29ec1a0800000000000000
+      internalID: -6787326042006316140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_IdleA_2
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 259
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574c0cc2c365b86b0800000000000000
+      internalID: -5293042120595028875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_IdleA_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 259
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405e2601269b51b50800000000000000
+      internalID: 6563355862795216132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_IdleA_4
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 259
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8631ada2fe07d3b50800000000000000
+      internalID: 6574535203549221736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_IdleA_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 209
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f132fcbe048dbca30800000000000000
+      internalID: 4236717647817810719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_IdleA_6
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 209
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8376759a90f32b1e0800000000000000
+      internalID: -2183613558592936136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_IdleA_7
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 209
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc15bfe338a7d5670800000000000000
+      internalID: 8529107973425549771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_IdleA_8
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 209
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5386530a97f21b0800000000000000
+      internalID: -5679186876093155925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_IdleA_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 209
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b753af710fb3d22d0800000000000000
+      internalID: -3301917049412242053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_IdleA_10
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 209
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827cb1ac9d9ed9230800000000000000
+      internalID: 3647328394847962920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_IdleA_11
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 159
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2641252724c326110800000000000000
+      internalID: 1252629902445909090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_IdleA_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 159
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30b09e9119fdf970800000000000000
+      internalID: 8790455901767118907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_IdleA_13
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 159
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0896c4c991fc3900800000000000000
+      internalID: 665672487677630474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_IdleA_14
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 159
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f37f25a68619f50800000000000000
+      internalID: 6886400111093956450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_IdleA_15
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 159
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc86895a6c3587360800000000000000
+      internalID: 7167570919607003339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_IdleA_16
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 159
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c784a825efc9271d0800000000000000
+      internalID: -3354446156317177732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_IdleA_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 109
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f18174dca2943c50800000000000000
+      internalID: 6644096621274563063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_IdleA_18
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 109
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb49c70d5705ff420800000000000000
+      internalID: 2665937971365844159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_IdleA_19
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 109
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e678c9bb7e94cc780800000000000000
+      internalID: -8661466723706435730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_IdleA_20
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 109
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a7724d06c00b580800000000000000
+      internalID: -8813530860748309891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_IdleA_21
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 109
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e5d4284a82fd0d0800000000000000
+      internalID: -3395950906988208496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_IdleA_22
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 109
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958eda1634794de00800000000000000
+      internalID: 1068645327251040345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_IdleA_23
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 59
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8539fbec3bd050e00800000000000000
+      internalID: 1010228757333513048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_IdleA_24
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 59
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60853af58ea41f6f0800000000000000
+      internalID: -652658109094602746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_IdleA_25
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 59
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7a8efc76b89e260800000000000000
+      internalID: 7127381163276543966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_IdleA_26
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 59
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e565a3e9d1a9a6a0800000000000000
+      internalID: -6437436235150170653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_IdleA_27
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 59
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f391dac36f1734240800000000000000
+      internalID: 4774785332336728383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_IdleA_28
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 59
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32901fcc586868100800000000000000
+      internalID: 109923150144276771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_IdleA_29
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 9
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3048fc325aac520c0800000000000000
+      internalID: -4601048633669876733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_IdleA_30
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 9
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aefe710ce56887d0800000000000000
+      internalID: -2915968694410608992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_IdleA_31
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 9
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be07427f32bad91c0800000000000000
+      internalID: -4495248682087321365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Slim_Normal_Up_IdleA_32
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 9
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f203a2a8b5a4656a0800000000000000
+      internalID: -6460894858395897809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Black_Slim_Normal_Up_IdleA_0: 2081027585763876982
+      Black_Slim_Normal_Up_IdleA_1: -6787326042006316140
+      Black_Slim_Normal_Up_IdleA_10: 3647328394847962920
+      Black_Slim_Normal_Up_IdleA_11: 1252629902445909090
+      Black_Slim_Normal_Up_IdleA_12: 8790455901767118907
+      Black_Slim_Normal_Up_IdleA_13: 665672487677630474
+      Black_Slim_Normal_Up_IdleA_14: 6886400111093956450
+      Black_Slim_Normal_Up_IdleA_15: 7167570919607003339
+      Black_Slim_Normal_Up_IdleA_16: -3354446156317177732
+      Black_Slim_Normal_Up_IdleA_17: 6644096621274563063
+      Black_Slim_Normal_Up_IdleA_18: 2665937971365844159
+      Black_Slim_Normal_Up_IdleA_19: -8661466723706435730
+      Black_Slim_Normal_Up_IdleA_2: -5293042120595028875
+      Black_Slim_Normal_Up_IdleA_20: -8813530860748309891
+      Black_Slim_Normal_Up_IdleA_21: -3395950906988208496
+      Black_Slim_Normal_Up_IdleA_22: 1068645327251040345
+      Black_Slim_Normal_Up_IdleA_23: 1010228757333513048
+      Black_Slim_Normal_Up_IdleA_24: -652658109094602746
+      Black_Slim_Normal_Up_IdleA_25: 7127381163276543966
+      Black_Slim_Normal_Up_IdleA_26: -6437436235150170653
+      Black_Slim_Normal_Up_IdleA_27: 4774785332336728383
+      Black_Slim_Normal_Up_IdleA_28: 109923150144276771
+      Black_Slim_Normal_Up_IdleA_29: -4601048633669876733
+      Black_Slim_Normal_Up_IdleA_3: 6563355862795216132
+      Black_Slim_Normal_Up_IdleA_30: -2915968694410608992
+      Black_Slim_Normal_Up_IdleA_31: -4495248682087321365
+      Black_Slim_Normal_Up_IdleA_32: -6460894858395897809
+      Black_Slim_Normal_Up_IdleA_4: 6574535203549221736
+      Black_Slim_Normal_Up_IdleA_5: 4236717647817810719
+      Black_Slim_Normal_Up_IdleA_6: -2183613558592936136
+      Black_Slim_Normal_Up_IdleA_7: 8529107973425549771
+      Black_Slim_Normal_Up_IdleA_8: -5679186876093155925
+      Black_Slim_Normal_Up_IdleA_9: -3301917049412242053
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
