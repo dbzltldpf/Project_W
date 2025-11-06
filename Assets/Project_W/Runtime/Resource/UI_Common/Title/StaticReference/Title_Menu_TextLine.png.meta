@@ -1,46 +1,85 @@
 fileFormatVersion: 2
-guid: dc6b3a3f9ede0f544b32273a64873ac5
+guid: 08b714fc7bead9242b1f0bb85066b6ef
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7099508268235953075
-    second: Tool_HUD_0
+      213: -13509129362652979
+    second: Title_Menu_TextLine_0
   - first:
-      213: -3963871319153695867
-    second: Tool_HUD_1
+      213: 798974863236155519
+    second: Title_Menu_TextLine_1
   - first:
-      213: 4802225562764846590
-    second: Tool_HUD_2
+      213: 4802148166171611024
+    second: Title_Menu_TextLine_2
   - first:
-      213: 2411139563491234016
-    second: Tool_HUD_3
+      213: 3638727141819993484
+    second: Title_Menu_TextLine_3
   - first:
-      213: 4665613744520608554
-    second: Tool_HUD_4
+      213: -504721051538836806
+    second: Title_Menu_TextLine_4
   - first:
-      213: 3856944431201427873
-    second: Tool_HUD_5
+      213: -60286019820692782
+    second: Title_Menu_TextLine_5
   - first:
-      213: 1224350213735444920
-    second: Tool_HUD_6
+      213: 7862727883404135911
+    second: Title_Menu_TextLine_6
   - first:
-      213: -3204040271296756587
-    second: Tool_HUD_7
+      213: 3807479948810730226
+    second: Title_Menu_TextLine_7
   - first:
-      213: -7299556032586410184
-    second: Tool_HUD_8
+      213: 7653545021039065567
+    second: Title_Menu_TextLine_8
   - first:
-      213: 4967887782779602423
-    second: Tool_HUD_9
+      213: 5719423654050737677
+    second: Title_Menu_TextLine_9
   - first:
-      213: 7646942688104355418
-    second: Tool_HUD_10
+      213: -1010393728581312760
+    second: Title_Menu_TextLine_10
   - first:
-      213: 1986082984113101302
-    second: Tool_HUD_11
+      213: 5086750250583713131
+    second: Title_Menu_TextLine_11
   - first:
-      213: 8576631924205694888
-    second: Tool_HUD_12
+      213: -9211349415307126125
+    second: Title_Menu_TextLine_12
+  - first:
+      213: -7547022400976053706
+    second: Title_Menu_TextLine_13
+  - first:
+      213: -2501314545711765016
+    second: Title_Menu_TextLine_14
+  - first:
+      213: 194257945241783123
+    second: Title_Menu_TextLine_15
+  - first:
+      213: 6168057789682941636
+    second: Title_Menu_TextLine_16
+  - first:
+      213: 7326712190048114027
+    second: Title_Menu_TextLine_17
+  - first:
+      213: 8039502248147992980
+    second: Title_Menu_TextLine_18
+  - first:
+      213: -6760362839940570480
+    second: Title_Menu_TextLine_19
+  - first:
+      213: -757307468420077192
+    second: Title_Menu_TextLine_20
+  - first:
+      213: 8950383288541399283
+    second: Title_Menu_TextLine_21
+  - first:
+      213: -4017439789751956738
+    second: Title_Menu_TextLine_22
+  - first:
+      213: 9098400337778682502
+    second: Title_Menu_TextLine_23
+  - first:
+      213: -6821817604275321744
+    second: Title_Menu_TextLine_24
+  - first:
+      213: 2495866827793416501
+    second: Title_Menu_TextLine_25
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -136,287 +175,287 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Tool_HUD_0
+      name: Title_Menu_TextLine_1
       rect:
         serializedVersion: 2
-        x: 1
-        y: 40
-        width: 17
-        height: 20
+        x: 200
+        y: 66
+        width: 100
+        height: 22
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d4ce8d748da797d90800000000000000
-      internalID: -7099508268235953075
+      spriteID: f7848aba767861b00800000000000000
+      internalID: 798974863236155519
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tool_HUD_1
+      name: Title_Menu_TextLine_2
       rect:
         serializedVersion: 2
-        x: 21
-        y: 40
-        width: 17
-        height: 20
+        x: 300
+        y: 66
+        width: 100
+        height: 22
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5832c7669008df8c0800000000000000
-      internalID: -3963871319153695867
+      spriteID: 09fc3737058a4a240800000000000000
+      internalID: 4802148166171611024
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tool_HUD_2
+      name: Title_Menu_TextLine_3
       rect:
         serializedVersion: 2
-        x: 24
-        y: 60
-        width: 14
-        height: 19
+        x: 0
+        y: 44
+        width: 100
+        height: 22
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ef526efb4bee4a240800000000000000
-      internalID: 4802225562764846590
+      spriteID: c8dc0c28e0b5f7230800000000000000
+      internalID: 3638727141819993484
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tool_HUD_3
+      name: Title_Menu_TextLine_4
       rect:
         serializedVersion: 2
-        x: 43
-        y: 60
-        width: 15
-        height: 20
+        x: 100
+        y: 44
+        width: 100
+        height: 22
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0e019c188a6167120800000000000000
-      internalID: 2411139563491234016
+      spriteID: ab2bd54b0eedef8f0800000000000000
+      internalID: -504721051538836806
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tool_HUD_4
+      name: Title_Menu_TextLine_5
       rect:
         serializedVersion: 2
-        x: 62
-        y: 60
-        width: 16
-        height: 20
+        x: 200
+        y: 44
+        width: 100
+        height: 22
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a2bb45d2bf69fb040800000000000000
-      internalID: 4665613744520608554
+      spriteID: 2da5aa33f22d92ff0800000000000000
+      internalID: -60286019820692782
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tool_HUD_5
+      name: Title_Menu_TextLine_6
       rect:
         serializedVersion: 2
-        x: 43
-        y: 40
-        width: 15
-        height: 19
+        x: 300
+        y: 44
+        width: 100
+        height: 22
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1a1ae24768e968530800000000000000
-      internalID: 3856944431201427873
+      spriteID: 7edccd7f9550e1d60800000000000000
+      internalID: 7862727883404135911
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tool_HUD_6
+      name: Title_Menu_TextLine_7
       rect:
         serializedVersion: 2
-        x: 44
-        y: 20
-        width: 14
-        height: 20
+        x: 0
+        y: 22
+        width: 100
+        height: 22
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8b1ff525804cdf010800000000000000
-      internalID: 1224350213735444920
+      spriteID: 2fa394e27d2e6d430800000000000000
+      internalID: 3807479948810730226
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tool_HUD_7
+      name: Title_Menu_TextLine_8
       rect:
         serializedVersion: 2
-        x: 62
-        y: 40
-        width: 16
-        height: 19
+        x: 100
+        y: 22
+        width: 100
+        height: 22
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5948f475956f883d0800000000000000
-      internalID: -3204040271296756587
+      spriteID: fd93e7b75aad63a60800000000000000
+      internalID: 7653545021039065567
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tool_HUD_8
+      name: Title_Menu_TextLine_9
       rect:
         serializedVersion: 2
-        x: 64
-        y: 20
-        width: 14
-        height: 20
+        x: 200
+        y: 22
+        width: 100
+        height: 22
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 83790ab8674c2ba90800000000000000
-      internalID: -7299556032586410184
+      spriteID: d0e29a3b2897f5f40800000000000000
+      internalID: 5719423654050737677
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tool_HUD_9
+      name: Title_Menu_TextLine_10
       rect:
         serializedVersion: 2
-        x: 2
-        y: 20
-        width: 17
-        height: 19
+        x: 300
+        y: 22
+        width: 100
+        height: 22
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7f5c4901e9b71f440800000000000000
-      internalID: 4967887782779602423
+      spriteID: 80fd0a4d14c5af1f0800000000000000
+      internalID: -1010393728581312760
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tool_HUD_10
+      name: Title_Menu_TextLine_11
       rect:
         serializedVersion: 2
-        x: 4
+        x: 0
         y: 0
-        width: 14
-        height: 20
+        width: 100
+        height: 22
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a561b3e0cd56f1a60800000000000000
-      internalID: 7646942688104355418
+      spriteID: b65eb23f664c79640800000000000000
+      internalID: 5086750250583713131
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tool_HUD_11
+      name: Title_Menu_TextLine_12
       rect:
         serializedVersion: 2
-        x: 21
-        y: 20
-        width: 19
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6f9528a83fbff8b10800000000000000
-      internalID: 1986082984113101302
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tool_HUD_12
-      rect:
-        serializedVersion: 2
-        x: 24
+        x: 100
         y: 0
-        width: 14
-        height: 20
+        width: 100
+        height: 22
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8af2e8b4b41560770800000000000000
-      internalID: 8576631924205694888
+      spriteID: 39add96b286ba2080800000000000000
+      internalID: -9211349415307126125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Menu_TextLine_13
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a18e5bc17934790800000000000000
+      internalID: -7547022400976053706
       vertices: []
       indices: 
       edges: []
@@ -425,7 +464,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 833358ff938ed6241aa4358c0f91328e
     internalID: 0
     vertices: []
     indices: 
@@ -435,19 +474,20 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Tool_HUD_0: -7099508268235953075
-      Tool_HUD_1: -3963871319153695867
-      Tool_HUD_10: 7646942688104355418
-      Tool_HUD_11: 1986082984113101302
-      Tool_HUD_12: 8576631924205694888
-      Tool_HUD_2: 4802225562764846590
-      Tool_HUD_3: 2411139563491234016
-      Tool_HUD_4: 4665613744520608554
-      Tool_HUD_5: 3856944431201427873
-      Tool_HUD_6: 1224350213735444920
-      Tool_HUD_7: -3204040271296756587
-      Tool_HUD_8: -7299556032586410184
-      Tool_HUD_9: 4967887782779602423
+      Title_Menu_TextLine_0: -13509129362652979
+      Title_Menu_TextLine_1: 798974863236155519
+      Title_Menu_TextLine_10: -1010393728581312760
+      Title_Menu_TextLine_11: 5086750250583713131
+      Title_Menu_TextLine_12: -9211349415307126125
+      Title_Menu_TextLine_13: -7547022400976053706
+      Title_Menu_TextLine_2: 4802148166171611024
+      Title_Menu_TextLine_3: 3638727141819993484
+      Title_Menu_TextLine_4: -504721051538836806
+      Title_Menu_TextLine_5: -60286019820692782
+      Title_Menu_TextLine_6: 7862727883404135911
+      Title_Menu_TextLine_7: 3807479948810730226
+      Title_Menu_TextLine_8: 7653545021039065567
+      Title_Menu_TextLine_9: 5719423654050737677
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
