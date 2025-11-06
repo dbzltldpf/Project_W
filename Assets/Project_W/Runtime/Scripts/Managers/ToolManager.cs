@@ -16,7 +16,7 @@
             { new Vector2Int(-1, 0),    ToolType.x1 },
             { new Vector2Int(-1, 1),    ToolType.x2 }
         };
-        private Dictionary<ToolType, ToolBase> tools = new();
+       private Dictionary<ToolType, ToolBase> tools = new();
         private ToolBase currentTool = null;
 
         public ToolBase Tool => currentTool;
@@ -26,18 +26,18 @@
             tools[type] = tool;
         }
 
-        public void EquipTool(Vector2 direction)
+        public ToolBase EquipTool(Vector2 direction)
         {
-            EquipTool(new Vector2Int((int)direction.x, (int)direction.y));
+            return EquipTool(new Vector2Int((int)direction.x, (int)direction.y));
         }
 
-        public void EquipTool(Vector2Int direction)
+        public ToolBase EquipTool(Vector2Int direction)
         {
             if(directions.TryGetValue(direction, out var toolType))
             {
                 if(tools.TryGetValue(toolType, out var tool))
                 {
-                    if (currentTool == tool) return;
+                    if (currentTool == tool) return currentTool;
 
                     currentTool = tool;
 
@@ -52,6 +52,8 @@
             {
                 Debug.LogWarning($"[ToolManager] {direction} key is not defined.");
             }
+
+            return currentTool;
         }
     }
 }

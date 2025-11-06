@@ -68,7 +68,7 @@
 
             foreach (var target in interactables)
             {
-                if (!target.CanInteractType(player.interactType))
+                if (!target.CanInteractType(player.toolType))
                     continue;
 
                 //타겟 방향벡터 구하기

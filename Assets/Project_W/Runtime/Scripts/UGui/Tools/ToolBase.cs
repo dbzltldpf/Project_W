@@ -12,6 +12,8 @@
         [Header("Settings")]
         [SerializeField] private ToolType type;
 
+        public ToolType Type => type;
+
         protected virtual void Awake()
         {
             ToolManager.Instance.Regist(type, this);

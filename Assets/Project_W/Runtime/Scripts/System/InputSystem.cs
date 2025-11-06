@@ -52,11 +52,7 @@
                 dir += Vector2.right;
             }
 
-            if (dir.sqrMagnitude > 1f)
-                dir.Normalize();
-
             return dir;
-
         }
         public bool IsRunPressed()
         {

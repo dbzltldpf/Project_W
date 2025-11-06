@@ -16,6 +16,10 @@
             var input = inputContext.input;
             
             Vector2 moveInput = input.GetMoveInput();
+
+            if (moveInput.sqrMagnitude > 1f)
+                moveInput.Normalize();
+
             bool isRun = input.IsRunPressed();
             bool isWalk = input.IsWalkPressed();
             player.Move(moveInput, isRun, isWalk);

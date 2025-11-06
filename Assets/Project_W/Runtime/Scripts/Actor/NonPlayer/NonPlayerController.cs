@@ -10,7 +10,7 @@
         void HideInteractUI();
         Vector2 GetPosition();
         NonPlayerType GetNonPlayerType();
-        bool CanInteractType(InteractType type);
+        bool CanInteractType(ToolType type);
     }
     public enum NonPlayerType
     {
@@ -27,7 +27,8 @@
         public Vector2 targetPos;
         public Vector2 anchorPos;
 
-        public List<InteractType> availableInteractions = new List<InteractType>();
+        //직접 끌어다 넣음
+        public List<ToolType> availableInteractions = new List<ToolType>();
         public override void Awake()
         {
             base.Awake();
@@ -57,7 +58,7 @@
         {
             return transform.position;
         }
-        public bool CanInteractType(InteractType type)
+        public bool CanInteractType(ToolType type)
         {
             return availableInteractions.Contains(type);
         }

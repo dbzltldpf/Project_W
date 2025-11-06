@@ -4,7 +4,7 @@
 
     public class PlayerStates
     {
-        public ICharacterState Idle {  get; private set; }
+        public ICharacterState Idle { get; private set; }
         public ICharacterState Move { get; private set; }
         public ICharacterState Talk { get; private set; }
         public ICharacterState Gather { get; private set; }

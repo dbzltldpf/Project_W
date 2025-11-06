@@ -1,12 +1,16 @@
 ﻿namespace S
 {
+    using ToolManager = W.ToolManager;
+    using UnityEditor.EditorTools;
     using UnityEngine;
+    using W;
+
     public class ToolSelectorInputSystem : IInputState
     {
         Vector2 currentDir;
         public void Enter()
         {
-            UIManager.Instance.ShowUI(UIManager.Instance.toolSelector);
+            W.UIManager.Instance.Open(UGuiId.Tools);
         }
         public void HandleInput(InputContext inputContext)
         {
@@ -24,48 +28,18 @@
                 //ui 활성화 된 부분 선택
                 Debug.Log("선택&닫기");
                 input.ChangeState(new DefaultInputSystem());
-                inputContext.player.SelectTool(SelectTool(currentDir));
-                //활성화 된 도구 선택
-                UIManager.Instance.HideUI(UIManager.Instance.toolSelector);
+                ToolBase currentTool = ToolManager.Instance.EquipTool(currentDir);
+                inputContext.player.SelectTool(currentTool);
+                W.UIManager.Instance.Close(UGuiId.Tools);
             }
             if (input.CancelPressed())
             {
                 //ui 끄기
                 Debug.Log("닫기");
                 input.ChangeState(new DefaultInputSystem());
-                UIManager.Instance.HideUI(UIManager.Instance.toolSelector);
+                W.UIManager.Instance.Close(UGuiId.Tools);
             }
 
-        }
-
-        //TODO: 테스트용
-
-        public ToolData SelectTool(Vector2 dir)
-        {
-            var toolData = new ToolData(null, default);
-            switch(dir.x,dir.y)
-            {
-                case (0, 1):
-                    toolData = new ToolData("손", InteractType.Gather);
-                    break;
-                case (0.7f, 0.7f):
-                    break;
-                case (1, 0):
-                    break;
-                case (0.7f, -0.7f):
-                    break;
-                case (0, -1):
-                    toolData = new ToolData("깃털", InteractType.Draw);
-                    break;
-                case (-0.7f, -0.7f):
-                    break;
-                case (-1, 0):
-                    break;
-                case (-0.7f, 0.7f):
-                    break;
-            }
-            //손, 포충망, 곡괭이, 삽, 깃털
-            return toolData;
         }
     }
 }

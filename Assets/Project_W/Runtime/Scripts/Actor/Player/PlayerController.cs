@@ -2,6 +2,8 @@
 {
     using UnityEngine;
     using UnityEngine.InputSystem;
+    using W;
+    using static Unity.VisualScripting.Dependencies.Sqlite.SQLite3;
 
     public enum InteractType
     {
@@ -12,8 +14,6 @@
     public class PlayerController : Actor
     {
         public Vector2 moveInput;
-        public InteractType interactType;
-
         public PlayerStates state;
         public bool isRun = false;
         public bool isWalk = false;
@@ -21,15 +21,11 @@
 
         public IInteractable currentTarget;
         public IInteractionStrategy currentStrategy;
-
-        public TestData currentTool;
+        public ToolType toolType;
         public override void Awake()
         {
             base.Awake();            
             state = new PlayerStates(this);
-            //테스트용
-            interactType = InteractType.Draw;
-
             currentStrategy = new DrawInteraction();
 
             foreach(var state in state.GetAll())
@@ -66,25 +62,24 @@
         {
             currentStrategy = strategy;
         }
-        public void SelectTool(ToolData tool)
+        public void SelectTool(ToolBase tool)
         {
-            if (tool.toolName == null)
+            if (tool == null)
                 return;
 
-            interactType = tool.interactType;
-            switch(tool.interactType)
+            toolType = tool.Type;
+            switch(toolType)
             {
-                case InteractType.Talk:
+                case ToolType.Hand:
                     SetInteractionStrategy(new TalkInteraction());
                     break;
-                case InteractType.Gather:
+                case ToolType.Nest:
                     SetInteractionStrategy(new GatherInteraction());
                     break;
-                case InteractType.Draw:
+                case ToolType.Pen:
                     SetInteractionStrategy(new DrawInteraction());
                     break;
             }
-            Debug.Log(tool.toolName);
         }
         public void Check()
         {
