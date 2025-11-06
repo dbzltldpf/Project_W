@@ -1,10 +1,15 @@
 ﻿namespace S
 {
     using UnityEngine;
-    using UnityEngine.InputSystem;
 
     public class DefaultInputSystem : IInputState
     {
+        public bool ShouldStopOnEnter => false;
+
+        public void Enter()
+        {
+        }
+
         public void HandleInput(InputContext inputContext)
         {
             var player = inputContext.player;
@@ -17,7 +22,7 @@
 
             if(input.ToolSelectorPressed())
             {
-                input.ChangeState(new TooSelectorInputSystem());
+                input.ChangeState(new ToolSelectorInputSystem());
             }
 
             if (input.InteractPressed())
@@ -25,7 +30,11 @@
                 player.TryInterect();
             }
 
-        }
+            if(input.PotionSelectorPressed())
+            {
+                input.ChangeState(new PotionSelectorInputSystem());
+            }
 
+        }
     }
 }

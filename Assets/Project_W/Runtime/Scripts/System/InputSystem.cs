@@ -6,7 +6,7 @@
     {
         public InputBinding _binding;
         private InputStateMachine stateMachine;
-        private PlayerController player;
+        public PlayerController player { get; private set; }
 
         public void Awake()
         {
@@ -19,12 +19,13 @@
         }
         public void Initialize(PlayerController player)
         {
+
             this.player = player;
             ChangeState(new DefaultInputSystem());
         }
         public void ChangeState(IInputState newState)
         {
-            stateMachine.ChangeState(newState.GetType());
+            stateMachine.ChangeState(newState.GetType(),this);
         }
         public void Update()
         {
@@ -69,11 +70,23 @@
                 return Input.GetKey(key);
             return false;
         }
-
+        //Z 키
         public bool InteractPressed()
         {
             if (TryGetKey(UserAction.Interact, out var key))
                 return Input.GetKeyDown(key);
+            return false;
+        }
+        public bool IsInteractPressed()
+        {
+            if (TryGetKey(UserAction.Interact, out var key))
+                return Input.GetKey(key);
+            return false;
+        }
+        public bool InteractReleased()
+        {
+            if (TryGetKey(UserAction.Interact, out var key))
+                return Input.GetKeyUp(key);
             return false;
         }
         public bool CancelPressed()
@@ -85,6 +98,12 @@
         public bool ToolSelectorPressed()
         {
             if (TryGetKey(UserAction.ToolSelector, out var key))
+                return Input.GetKeyDown(key);
+            return false;
+        }
+        public bool PotionSelectorPressed()
+        {
+            if (TryGetKey(UserAction.PotionSelector, out var key))
                 return Input.GetKeyDown(key);
             return false;
         }

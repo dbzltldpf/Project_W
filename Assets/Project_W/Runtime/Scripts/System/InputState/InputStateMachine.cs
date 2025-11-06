@@ -16,9 +16,11 @@
     }
     public interface IInputState
     {
+        bool ShouldStopOnEnter => true;
+        void Enter();
         void HandleInput(InputContext inputContext);
     }
-    public class InputStateMachine : MonoBehaviour
+    public class InputStateMachine
     {
         IInputState currentState;
         Dictionary<Type, IInputState> states = new Dictionary<Type, IInputState>();
@@ -28,18 +30,28 @@
             if (!states.ContainsKey(type))
                 states[type] = state;
         }
-        public void ChangeState(Type stateType)
+        public void ChangeState(Type stateType,InputSystem input)
         {
             if (currentState != null && currentState.GetType() == stateType)
                 return;
 
             if (!states.ContainsKey(stateType))
                 return;
-            //전 상태 exit함수 실행
+
             currentState = states[stateType];
+            if (currentState.ShouldStopOnEnter)
+            {
+                input.player.Move(Vector2.zero, false, false);
+            }
+            currentState?.Enter();
         }
         public void HandleInput(InputContext inputContext)
         {
+            if(currentState == null)
+            {
+                Debug.Log("currentState null");
+                return;
+            }
             currentState.HandleInput(inputContext);
         }
     }

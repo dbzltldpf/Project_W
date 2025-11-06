@@ -647,6 +647,218 @@ MonoBehaviour:
       m_SpriteOverride: {fileID: 6128154621489493235, guid: 1c2f40280e3e8f04e985efc36f23dfae, type: 3}
     m_FromMain: 0
     m_EntryOverrideCount: 12
+  - m_Name: Drink
+    m_Hash: 209678293
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Ellie_Basic_Drink_2
+      m_Hash: 363216400
+      m_Sprite: {fileID: 7600631101262183044, guid: 15750640b2a2cda4ab3b66798a5fe62f, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 7600631101262183044, guid: 15750640b2a2cda4ab3b66798a5fe62f, type: 3}
+    - m_Name: Ellie_Basic_Drink_3
+      m_Hash: 580980358
+      m_Sprite: {fileID: 7750107423660511964, guid: 15750640b2a2cda4ab3b66798a5fe62f, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 7750107423660511964, guid: 15750640b2a2cda4ab3b66798a5fe62f, type: 3}
+    - m_Name: Ellie_Basic_Drink_4
+      m_Hash: 1019583269
+      m_Sprite: {fileID: 5164613076680253757, guid: 15750640b2a2cda4ab3b66798a5fe62f, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 5164613076680253757, guid: 15750640b2a2cda4ab3b66798a5fe62f, type: 3}
+    - m_Name: Ellie_Basic_Drink_5
+      m_Hash: 197307315
+      m_Sprite: {fileID: -4416586733129538562, guid: 15750640b2a2cda4ab3b66798a5fe62f, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -4416586733129538562, guid: 15750640b2a2cda4ab3b66798a5fe62f, type: 3}
+    - m_Name: Ellie_Basic_Drink_6
+      m_Hash: 315357705
+      m_Sprite: {fileID: -6691881452863464156, guid: 15750640b2a2cda4ab3b66798a5fe62f, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -6691881452863464156, guid: 15750640b2a2cda4ab3b66798a5fe62f, type: 3}
+    - m_Name: Ellie_Basic_Drink_7
+      m_Hash: 634178207
+      m_Sprite: {fileID: -320723637382407019, guid: 15750640b2a2cda4ab3b66798a5fe62f, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -320723637382407019, guid: 15750640b2a2cda4ab3b66798a5fe62f, type: 3}
+    - m_Name: Ellie_Basic_Drink_8
+      m_Hash: 896784142
+      m_Sprite: {fileID: 3605024154906988385, guid: 15750640b2a2cda4ab3b66798a5fe62f, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 3605024154906988385, guid: 15750640b2a2cda4ab3b66798a5fe62f, type: 3}
+    - m_Name: Ellie_Basic_Drink_9
+      m_Hash: 41215896
+      m_Sprite: {fileID: -7250313410218403276, guid: 15750640b2a2cda4ab3b66798a5fe62f, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -7250313410218403276, guid: 15750640b2a2cda4ab3b66798a5fe62f, type: 3}
+    - m_Name: Ellie_Basic_Drink_10
+      m_Hash: 47463096
+      m_Sprite: {fileID: -5833742428062846030, guid: 15750640b2a2cda4ab3b66798a5fe62f, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -5833742428062846030, guid: 15750640b2a2cda4ab3b66798a5fe62f, type: 3}
+    - m_Name: Ellie_Basic_Drink_11
+      m_Hash: 903023150
+      m_Sprite: {fileID: 9052736112037483496, guid: 15750640b2a2cda4ab3b66798a5fe62f, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 9052736112037483496, guid: 15750640b2a2cda4ab3b66798a5fe62f, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 10
+  - m_Name: Throw
+    m_Hash: 240283187
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Ellie_Basic_Throw_3
+      m_Hash: 495069271
+      m_Sprite: {fileID: 7714777767367868397, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 7714777767367868397, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+    - m_Name: Ellie_Basic_Throw_4
+      m_Hash: 65453556
+      m_Sprite: {fileID: -5464180288710692579, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -5464180288710692579, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+    - m_Name: Ellie_Basic_Throw_5
+      m_Hash: 887197026
+      m_Sprite: {fileID: -4420674201619305767, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -4420674201619305767, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+    - m_Name: Ellie_Basic_Throw_6
+      m_Hash: 770235608
+      m_Sprite: {fileID: -3224953866829688165, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -3224953866829688165, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+    - m_Name: Ellie_Basic_Throw_7
+      m_Hash: 451931214
+      m_Sprite: {fileID: 193389767098536811, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 193389767098536811, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+    - m_Name: Ellie_Basic_Throw_8
+      m_Hash: 173076959
+      m_Sprite: {fileID: 7671129648976108106, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 7671129648976108106, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+    - m_Name: Ellie_Basic_Throw_9
+      m_Hash: 1029161289
+      m_Sprite: {fileID: -3668008004155559223, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -3668008004155559223, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+    - m_Name: Ellie_Basic_Throw_10
+      m_Hash: 864025564
+      m_Sprite: {fileID: 6382206459205953131, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 6382206459205953131, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+    - m_Name: Ellie_Basic_Throw_11
+      m_Hash: 75025226
+      m_Sprite: {fileID: -8246484191292905427, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -8246484191292905427, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+    - m_Name: Ellie_Basic_Throw_12
+      m_Hash: 493984496
+      m_Sprite: {fileID: -9088101795278354503, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -9088101795278354503, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+    - m_Name: Ellie_Basic_Throw_13
+      m_Hash: 712419942
+      m_Sprite: {fileID: -33478418038408095, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -33478418038408095, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+    - m_Name: Ellie_Basic_Throw_14
+      m_Hash: 873611205
+      m_Sprite: {fileID: 8023884573134439709, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 8023884573134439709, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+    - m_Name: Ellie_Basic_Throw_15
+      m_Hash: 51711827
+      m_Sprite: {fileID: 6961449168064020292, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 6961449168064020292, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+    - m_Name: Ellie_Basic_Throw_16
+      m_Hash: 438066921
+      m_Sprite: {fileID: 3347029981254742275, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 3347029981254742275, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+    - m_Name: Ellie_Basic_Throw_17
+      m_Hash: 756772479
+      m_Sprite: {fileID: 602564131630937304, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 602564131630937304, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+    - m_Name: Ellie_Basic_Throw_18
+      m_Hash: 1034187758
+      m_Sprite: {fileID: 2982093341814087259, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2982093341814087259, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+    - m_Name: Ellie_Basic_Throw_19
+      m_Hash: 178471800
+      m_Sprite: {fileID: -6183299865933804012, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -6183299865933804012, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+    - m_Name: Ellie_Basic_Throw_20
+      m_Hash: 408070175
+      m_Sprite: {fileID: 5655349279165809906, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 5655349279165809906, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+    - m_Name: Ellie_Basic_Throw_21
+      m_Hash: 794138761
+      m_Sprite: {fileID: 7154893013598641823, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 7154893013598641823, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+    - m_Name: Ellie_Basic_Throw_22
+      m_Hash: 912050483
+      m_Sprite: {fileID: -4298920584930056714, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -4298920584930056714, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+    - m_Name: Ellie_Basic_Throw_23
+      m_Hash: 22804901
+      m_Sprite: {fileID: 7284425476402614846, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 7284425476402614846, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+    - m_Name: Ellie_Basic_Throw_24
+      m_Hash: 524250118
+      m_Sprite: {fileID: -8908629599860210591, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -8908629599860210591, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+    - m_Name: Ellie_Basic_Throw_25
+      m_Hash: 674782352
+      m_Sprite: {fileID: -358481437182920134, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -358481437182920134, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+    - m_Name: Ellie_Basic_Throw_26
+      m_Hash: 825298218
+      m_Sprite: {fileID: 6620878032165213877, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 6620878032165213877, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+    - m_Name: Ellie_Basic_Throw_27
+      m_Hash: 104218044
+      m_Sprite: {fileID: 8914915037994889055, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 8914915037994889055, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+    - m_Name: Ellie_Basic_Throw_28
+      m_Hash: 378085421
+      m_Sprite: {fileID: -7216567877754799552, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -7216567877754799552, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+    - m_Name: Ellie_Basic_Throw_29
+      m_Hash: 562958523
+      m_Sprite: {fileID: -562706188607023080, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -562706188607023080, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+    - m_Name: Ellie_Basic_Throw_30
+      m_Hash: 21600606
+      m_Sprite: {fileID: -7268836914104533107, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -7268836914104533107, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+    - m_Name: Ellie_Basic_Throw_31
+      m_Hash: 911124936
+      m_Sprite: {fileID: 461353939635589690, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 461353939635589690, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+    - m_Name: Ellie_Basic_Throw_32
+      m_Hash: 793245810
+      m_Sprite: {fileID: 5838533103739186719, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 5838533103739186719, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 30
   m_PrimaryLibraryGUID: 
-  m_ModificationHash: 638971774942615184
+  m_ModificationHash: 638980310287963607
   m_Version: 1

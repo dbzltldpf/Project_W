@@ -30,6 +30,7 @@
         public List<InteractType> availableInteractions = new List<InteractType>();
         public override void Awake()
         {
+            base.Awake();
             state = new NonPlayerStates(this);
             isMovable = true;
             anchorPos = transform.position;
@@ -37,7 +38,6 @@
             foreach (var state in state.GetAll())
                 stateMachine.AddState(state);
 
-            base.Awake();
         }
         public override void Start()
         {

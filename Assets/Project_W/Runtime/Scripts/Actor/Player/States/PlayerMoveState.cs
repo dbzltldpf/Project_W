@@ -26,9 +26,9 @@ namespace S
             player.animator.SetFloat("MoveY", player.moveInput.y);
 
             if(!player.isWalk)
-                player.animator.speed = player.currentSpeed;
+                player.animator.speed = 0.5f;
             else
-                player.animator.speed = player.moveSpeed;
+                player.animator.speed = 1f;
 
             player.animator.SetBool("isWalk", player.isWalk);
 

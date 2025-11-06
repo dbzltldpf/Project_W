@@ -21,12 +21,11 @@
 
         public IInteractable currentTarget;
         public IInteractionStrategy currentStrategy;
-        private InputSystem inputSystem;
+
+        public TestData currentTool;
         public override void Awake()
         {
-            inputSystem = InputSystem.Instance;
-            inputSystem.Initialize(this);
-            
+            base.Awake();            
             state = new PlayerStates(this);
             //테스트용
             interactType = InteractType.Draw;
@@ -35,8 +34,6 @@
 
             foreach(var state in state.GetAll())
                 stateMachine.AddState(state);
-
-            base.Awake();
         }
         public override void Start()
         {
@@ -55,7 +52,7 @@
         {
             this.moveInput = moveInput;
             isMoving = moveInput != Vector2.zero;
-            currentSpeed = isWalk ? walkSpeed : isRun ? runSpeed : walkSpeed;
+            currentSpeed = isWalk ? walkSpeed : isRun ? runSpeed : moveSpeed;
             ChangeState(isMoving ? state.Move : state.Idle);
         }
         public void TryInterect()
@@ -69,7 +66,26 @@
         {
             currentStrategy = strategy;
         }
+        public void SelectTool(ToolData tool)
+        {
+            if (tool.toolName == null)
+                return;
 
+            interactType = tool.interactType;
+            switch(tool.interactType)
+            {
+                case InteractType.Talk:
+                    SetInteractionStrategy(new TalkInteraction());
+                    break;
+                case InteractType.Gather:
+                    SetInteractionStrategy(new GatherInteraction());
+                    break;
+                case InteractType.Draw:
+                    SetInteractionStrategy(new DrawInteraction());
+                    break;
+            }
+            Debug.Log(tool.toolName);
+        }
         public void Check()
         {
             

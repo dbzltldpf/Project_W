@@ -10,11 +10,11 @@
         public Animator animator { get; private set; }
 
         
-        public readonly float moveSpeed = 1f;
+        public readonly float moveSpeed = 2f;
 
-        public readonly float runSpeed = 2f;
+        public readonly float runSpeed = 4f;
 
-        public readonly float walkSpeed = 0.5f;
+        public readonly float walkSpeed = 1f;
 
         public float currentSpeed;
         public bool isMoving;

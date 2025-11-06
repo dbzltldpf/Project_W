@@ -14,7 +14,7 @@
             player.animator.SetBool("isMove", player.isMoving);
 
             player.isRun = false;
-            player.animator.speed = player.currentSpeed;
+            player.animator.speed = 1f;
             player.isWalk = false;
             player.animator.SetBool("isWalk", player.isWalk);
 
