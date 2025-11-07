@@ -1,7 +1,7 @@
 ﻿namespace S
 {
     using UnityEngine;
-    public abstract class Actor : MonoBehaviour
+    public abstract class Actor : MonoBehaviour, IAnimationReceiver
     {
         protected CharacterStateMachine stateMachine;
         [SerializeField]
@@ -42,6 +42,11 @@
         public void ChangeState(ICharacterState newState)
         {
             stateMachine.ChangeState(newState.GetType());
+        }
+
+        public virtual void OnAnimationEnd(AnimationTag animationTag)
+        {
+
         }
     }
 }

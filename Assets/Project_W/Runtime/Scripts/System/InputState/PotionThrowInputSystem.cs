@@ -3,11 +3,16 @@
     using UnityEngine;
     public class PotionThrowInputSystem : IInputState
     {
+        public bool ShouldStopOnEnter => false;
         bool isInputLocked;
+        private Vector2 aimDir = Vector2.zero;
+        private float throwDistance = 2f;
+        bool isAiming;
         public void Enter()
         {
             UIManager.Instance.ShowUI(UIManager.Instance.potionThrow);
             isInputLocked = true;
+            isAiming = false;
         }
 
         public void HandleInput(InputContext inputContext)
@@ -24,6 +29,7 @@
 
                 //위치조절
                 Debug.Log("조준");
+                //조준 작동 해야함
             }
             if (input.InteractReleased())
             {
@@ -31,7 +37,6 @@
                 {
                     Debug.Log("던지기");
                     //포션이 날라가는 애니
-                    input.ChangeState(new DefaultInputSystem());
                     player.ChangeState(player.state.Throw);
                     UIManager.Instance.HideUI(UIManager.Instance.potionThrow);
                 }
@@ -47,5 +52,6 @@
                 UIManager.Instance.HideUI(UIManager.Instance.potionThrow);
             }
         }
+
     }
 }

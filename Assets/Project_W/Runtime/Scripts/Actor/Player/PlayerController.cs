@@ -81,6 +81,18 @@
                     break;
             }
         }
+        public override void OnAnimationEnd(AnimationTag animationTag)
+        {
+            switch (animationTag)
+            {
+                case AnimationTag.Throw:
+                    ChangeState(state.Idle);
+                    InputSystem.Instance.ChangeState(new DefaultInputSystem());
+                    break;
+                case AnimationTag.Drink:
+                    break;
+            }
+        }
         public void Check()
         {
             

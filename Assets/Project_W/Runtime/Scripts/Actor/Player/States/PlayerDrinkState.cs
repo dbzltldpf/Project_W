@@ -16,7 +16,7 @@
 
         public void Exit()
         {
-            
+            player.animator.SetBool("isDrink", false);
         }
 
         public void FixedUpdate()
@@ -26,10 +26,7 @@
 
         public void Update()
         {
-            if(AniStateCheck.IsPlaying(player.animator, "Drink"))
-            {
-                player.ChangeState(player.state.Idle);
-            }
+
         }
     }
 }

@@ -14,12 +14,11 @@
         {
             //던지는 애니
             player.animator.SetBool("isThrow", true);
-            Debug.Log(player.animator.GetCurrentAnimatorClipInfo(0)[0].clip.name);
         }
 
         public void Exit()
         {
-            
+            player.animator.SetBool("isThrow", false);
         }
 
         public void FixedUpdate()
@@ -29,14 +28,7 @@
 
         public void Update()
         {
-            Debug.Log(player.animator.GetCurrentAnimatorClipInfo(0)[0].clip.name);
 
-            if (AniStateCheck.IsPlaying(player.animator, "ThrowBlendTree"))
-            {
-                Debug.Log("ddd");
-                player.animator.SetBool("isThrow", false);
-                player.ChangeState(player.state.Idle);
-            }
         }
     }
 }
