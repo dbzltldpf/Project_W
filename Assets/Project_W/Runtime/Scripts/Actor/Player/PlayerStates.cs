@@ -9,6 +9,7 @@
         public ICharacterState Talk { get; private set; }
         public ICharacterState Gather { get; private set; }
         public ICharacterState Draw { get; private set; }
+        public ICharacterState ThrowReady { get; private set; }
         public ICharacterState Throw { get; private set; }
         public ICharacterState Drink { get; private set; }
         public PlayerStates(PlayerController player)
@@ -18,12 +19,13 @@
             Talk = new PlayerTalkState(player);
             Gather = new PlayerGatherState(player);
             Draw = new PlayerDrawState(player);
+            ThrowReady = new PlayerThrowReadyState(player);
             Throw = new PlayerThrowState(player);
             Drink = new PlayerDrinkState(player);
         }
         public IEnumerable<ICharacterState> GetAll()
         {
-            return new ICharacterState[] { Idle, Move, Talk, Gather, Draw, Throw, Drink };
+            return new ICharacterState[] { Idle, Move, Talk, Gather, Draw, ThrowReady ,Throw, Drink };
         }
     }
 }

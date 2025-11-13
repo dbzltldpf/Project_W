@@ -1,9 +1,7 @@
 ﻿namespace S
 {
     using UnityEngine;
-    using UnityEngine.InputSystem;
     using W;
-    using static Unity.VisualScripting.Dependencies.Sqlite.SQLite3;
 
     public enum InteractType
     {
@@ -18,10 +16,13 @@
         public bool isRun = false;
         public bool isWalk = false;
         public bool canInterect = false;
+        public bool lockDirection = false;
 
         public IInteractable currentTarget;
         public IInteractionStrategy currentStrategy;
         public ToolType toolType;
+
+        public PotionThrowIndicator potionIndicator;
         public override void Awake()
         {
             base.Awake();            
@@ -49,7 +50,8 @@
             this.moveInput = moveInput;
             isMoving = moveInput != Vector2.zero;
             currentSpeed = isWalk ? walkSpeed : isRun ? runSpeed : moveSpeed;
-            ChangeState(isMoving ? state.Move : state.Idle);
+            if (!lockDirection)
+                ChangeState(isMoving ? state.Move : state.Idle);
         }
         public void TryInterect()
         {
@@ -93,9 +95,9 @@
                     break;
             }
         }
-        public void Check()
+        public void UpdateAim(Vector2 aimDir)
         {
-            
+            potionIndicator.UpdateAimIndicator(transform.position, aimDir);
         }
     }
 

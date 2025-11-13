@@ -5,35 +5,41 @@
     {
         public bool ShouldStopOnEnter => false;
         bool isInputLocked;
-        private Vector2 aimDir = Vector2.zero;
-        private float throwDistance = 2f;
-        bool isAiming;
+        bool isAiming = false;
         public void Enter()
         {
             UIManager.Instance.ShowUI(UIManager.Instance.potionThrow);
             isInputLocked = true;
             isAiming = false;
         }
-
         public void HandleInput(InputContext inputContext)
         {
             var input = inputContext.input;
             var player = inputContext.player;
-            Vector2 dir = input.GetMoveInput();
+            Vector2 moveInput = input.GetMoveInput();
 
-            //z누르는 상태에서 화살표로 위치 조절, z up 발사
-            if (input.IsInteractPressed())
+            if(input.InteractPressed())
             {
                 if (isInputLocked)
                     return;
+                isAiming = true;
+                Debug.Log("조준 시작");
+                player.ChangeState(player.state.ThrowReady);
+            }
+            //z누르는 상태에서 화살표로 위치 조절, z up 발사
+            if (input.IsInteractPressed())
+            {
+                if (!isAiming)
+                    return;
 
-                //위치조절
-                Debug.Log("조준");
+                player.Move(moveInput, false, false);
+
                 //조준 작동 해야함
+                player.UpdateAim(player.dir);
             }
             if (input.InteractReleased())
             {
-                if (!isInputLocked)
+                if (isAiming)
                 {
                     Debug.Log("던지기");
                     //포션이 날라가는 애니
@@ -47,7 +53,7 @@
             }
             if (input.CancelPressed())
             {
-                Debug.Log("닫기");
+                Debug.Log("닫기&조준취소");
                 input.ChangeState(new DefaultInputSystem());
                 UIManager.Instance.HideUI(UIManager.Instance.potionThrow);
             }

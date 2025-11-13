@@ -13,6 +13,7 @@
         public void Enter()
         {
             //던지는 애니
+            player.potionIndicator.Hide();
             player.animator.SetBool("isThrow", true);
         }
 
@@ -23,7 +24,7 @@
 
         public void FixedUpdate()
         {
-            
+            player.rb.linearVelocity = Vector2.zero;
         }
 
         public void Update()
