@@ -1,7 +1,6 @@
 ﻿namespace S
 {
     using ToolManager = W.ToolManager;
-    using UnityEditor.EditorTools;
     using UnityEngine;
     using W;
 

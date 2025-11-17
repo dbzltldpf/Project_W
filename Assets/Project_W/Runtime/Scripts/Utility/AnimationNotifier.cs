@@ -9,7 +9,6 @@
     {
         Throw,
         Drink,
-
     }
     public class AnimationNotifier : StateMachineBehaviour
     {

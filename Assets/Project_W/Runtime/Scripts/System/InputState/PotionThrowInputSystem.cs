@@ -1,5 +1,6 @@
 ﻿namespace S
 {
+    using Unity.Burst.Intrinsics;
     using UnityEngine;
     public class PotionThrowInputSystem : IInputState
     {
@@ -9,7 +10,7 @@
         public void Enter()
         {
             UIManager.Instance.ShowUI(UIManager.Instance.potionThrow);
-            isInputLocked = true;
+            isInputLocked = false;
             isAiming = false;
         }
         public void HandleInput(InputContext inputContext)
@@ -35,20 +36,18 @@
                 player.Move(moveInput, false, false);
 
                 //조준 작동 해야함
-                player.UpdateAim(player.dir);
+                player.UpdateAim();
             }
             if (input.InteractReleased())
             {
                 if (isAiming)
                 {
+                    isInputLocked = true;
+                    isAiming = false;
                     Debug.Log("던지기");
                     //포션이 날라가는 애니
                     player.ChangeState(player.state.Throw);
                     UIManager.Instance.HideUI(UIManager.Instance.potionThrow);
-                }
-                else
-                {
-                    isInputLocked = false;
                 }
             }
             if (input.CancelPressed())

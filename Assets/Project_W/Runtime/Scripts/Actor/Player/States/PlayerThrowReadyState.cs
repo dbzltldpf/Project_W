@@ -36,7 +36,7 @@
 
         public void Update()
         {
-
+            player.GetPotionStartPos();
         }
     }
 }

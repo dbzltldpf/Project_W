@@ -23,6 +23,11 @@
         public ToolType toolType;
 
         public PotionThrowIndicator potionIndicator;
+
+        public GameObject throwPotionPrefab;
+        public GameObject throwPotion;
+        public bool throwAniEnd = false;
+
         public override void Awake()
         {
             base.Awake();            
@@ -88,16 +93,31 @@
             switch (animationTag)
             {
                 case AnimationTag.Throw:
-                    ChangeState(state.Idle);
-                    InputSystem.Instance.ChangeState(new DefaultInputSystem());
+                    throwAniEnd = true;
+                    animator.SetBool("isThrow", false);
                     break;
                 case AnimationTag.Drink:
                     break;
             }
         }
-        public void UpdateAim(Vector2 aimDir)
+        public void UpdateAim()
         {
-            potionIndicator.UpdateAimIndicator(transform.position, aimDir);
+            potionIndicator.UpdateAimIndicator(transform.position, dir);
+        }
+        public void SelectPotion()
+        {
+            //포션 선택하면 정보 넘기기
+            if (throwPotion == null)
+                throwPotion = Instantiate(throwPotionPrefab, transform.position, Quaternion.identity, transform);
+            else
+                throwPotion.SetActive(true);
+
+            GetPotionStartPos();
+        }
+        public void GetPotionStartPos()
+        {
+            var startPos = (Vector2)transform.position + dir.normalized * potionIndicator.startOffset;
+            throwPotion.transform.position = startPos;
         }
     }
 

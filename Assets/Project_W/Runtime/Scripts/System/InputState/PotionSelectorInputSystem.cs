@@ -30,9 +30,11 @@
                 {
                     case PotionType.Throw:
                         input.ChangeState(new PotionThrowInputSystem());
+                        //던지는 물약, 어떤 물약 골랐는지 넘기기
+                        player.SelectPotion();
                         break;
                     case PotionType.Drink:
-                        //물약마시는
+                        //마시는 물약
                         player.ChangeState(player.state.Drink);
                         break;
                 }
