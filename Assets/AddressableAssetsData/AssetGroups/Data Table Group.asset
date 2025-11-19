@@ -10,18 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
-  m_Name: UI Common Group
+  m_Name: Data Table Group
   m_EditorClassIdentifier: 
-  m_GroupName: UI Common Group
-  m_GUID: 8814fdd63f5f65c4caa158876f30100f
+  m_GroupName: Data Table Group
+  m_GUID: 96e9327a0f60d744699cd7a6ca92c231
   m_SerializeEntries:
-  - m_GUID: 566b609224539044eba83eea2cfdf959
-    m_Address: Assets/Project_W/Runtime/Resource/UI_Common/Default
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 5f4fd08070e30474f9bd3e684d5d5d2e
-    m_Address: Assets/Project_W/Runtime/Resource/UI_Common/Inventory
+  - m_GUID: 534e06160c016e34b9d28710566fa932
+    m_Address: Assets/Project_W/Runtime/Resource/Tables
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -29,5 +24,5 @@ MonoBehaviour:
   m_Settings: {fileID: 11400000, guid: ff017ef807c3b46498d97366f4dc4be1, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: b50c63b4fb567c94384f15e1419c0692, type: 2}
-    - {fileID: 11400000, guid: 3513d7ce6cb8bd340ab7670c8c2dd725, type: 2}
+    - {fileID: 11400000, guid: 8f9c153619ae347408f29f2632112f85, type: 2}
+    - {fileID: 11400000, guid: 226e43e248143874cbe4f89b12bcfecc, type: 2}

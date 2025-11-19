@@ -11,9 +11,9 @@ public class TableGenerator : EditorWindow
     private Object droppedFolder; // 드래그된 폴더
     private string folderPath;    // 폴더의 실제 경로
 
-    private const string OUTPUT_PATH = "Assets/Project_W/Runtime/Scripts/Data/ItemInfo.cs";
+    private const string OUTPUT_PATH = "Assets/Project_W/Runtime/Scripts/Data/ItemID.cs";
 
-    Dictionary<string, List<KeyValuePair<string, string>>> containers = new();
+    List<KeyValuePair<string, int>> containers = new();
 
 
     [MenuItem("Tools/Table Generator")]
@@ -118,10 +118,6 @@ public class TableGenerator : EditorWindow
                     continue;
                 }
 
-                // 컨테이너 추가
-                var baseKey = path.Replace(".json", "").Split('/', '\\')[^1];
-                containers[baseKey] = new List<KeyValuePair<string, string>>();
-
                 var matches = Regex.Matches(json, @"\{[^{}]*\}");
                 List<string> items = new List<string>();
                 foreach (Match match in matches)
@@ -134,11 +130,11 @@ public class TableGenerator : EditorWindow
                 for (int i = 0; i < items.Count; ++i)
                 {
                     var splits = items[i].Split(',');
-                    var index = splits[0].Split(':')[1];
+                    var index = int.Parse(splits[0].Split(':')[1]);
                     var name = splits[1].Split(':')[1];
                     name = name.Replace(" ", "_");
 
-                    containers[baseKey].Add(new KeyValuePair<string, string>(name, index));
+                    containers.Add(new KeyValuePair<string, int>(name, index));
                 }
             }
             catch (System.Exception ex)
@@ -150,21 +146,18 @@ public class TableGenerator : EditorWindow
 
     private void CreateCode()
     {
+        var orderedContainers = containers.OrderBy(item => item.Value);
+
         StringBuilder sb = new StringBuilder();
+        sb.AppendLine("public enum ItemID");
+        sb.AppendLine("{");
 
-        foreach(var container in containers)
+        foreach(var item in orderedContainers)
         {
-            sb.AppendLine($"public enum {container.Key}");
-            sb.AppendLine("{");
-
-            foreach(var item in container.Value)
-            {
-                sb.AppendLine($"    {item.Key} = {item.Value},");
-            }
-
-            sb.AppendLine("}");
-            sb.AppendLine();
+            sb.AppendLine($"    {item.Key} = {item.Value},");
         }
+
+        sb.AppendLine("}");
 
         Write(sb);
     }

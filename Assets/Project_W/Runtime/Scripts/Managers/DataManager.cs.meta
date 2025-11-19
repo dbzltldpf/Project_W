@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: e89c7869ab7386c489f2edc43bc46db8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - potionJson: {fileID: 4900000, guid: 81438f4d5a79647498626cd7cb7e1ef7, type: 3}
+  - materialJson: {fileID: 4900000, guid: 7b6f6021cf144334bb785c1c18752a1e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
