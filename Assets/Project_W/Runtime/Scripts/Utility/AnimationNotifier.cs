@@ -12,6 +12,7 @@
     }
     public class AnimationNotifier : StateMachineBehaviour
     {
+        [SerializeField]
         private AnimationTag animationTag;
         public override void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
         {

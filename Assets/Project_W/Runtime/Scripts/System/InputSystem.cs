@@ -19,7 +19,6 @@
         }
         public void Initialize(PlayerController player)
         {
-
             this.player = player;
             ChangeState(new DefaultInputSystem());
         }
@@ -35,19 +34,19 @@
         public Vector2 GetMoveInput()
         {
             Vector2 dir = Vector2.zero;
-            if(Input.GetKey(_binding._bindingDict[UserAction.MoveForward]))
+            if(Input.GetKey(_binding.bindingDict[UserAction.MoveForward]))
             {
                 dir += Vector2.up;
             }
-            if (Input.GetKey(_binding._bindingDict[UserAction.MoveBackward]))
+            if (Input.GetKey(_binding.bindingDict[UserAction.MoveBackward]))
             {
                 dir += Vector2.down;
             }
-            if (Input.GetKey(_binding._bindingDict[UserAction.MoveLeft]))
+            if (Input.GetKey(_binding.bindingDict[UserAction.MoveLeft]))
             {
                 dir += Vector2.left;
             }
-            if (Input.GetKey(_binding._bindingDict[UserAction.MoveRight]))
+            if (Input.GetKey(_binding.bindingDict[UserAction.MoveRight]))
             {
                 dir += Vector2.right;
             }
@@ -106,12 +105,12 @@
         //키 바인딩이 none일때 방지
         private bool TryGetKey(UserAction action, out KeyCode key)
         {
-            if(!_binding._bindingDict.ContainsKey(action))
+            if(!_binding.bindingDict.ContainsKey(action))
             {
                 key = KeyCode.None;
                 return false;
             }
-            key = _binding._bindingDict[action];
+            key = _binding.bindingDict[action];
             return key != KeyCode.None;
         }
     }

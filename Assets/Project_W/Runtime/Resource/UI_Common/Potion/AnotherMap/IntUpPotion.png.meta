@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 9c7279cd6976a1444b93bf93bba7fad2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5517034403596044409
+    second: IntUpPotion_0
+  - first:
+      213: 2307057673395529729
+    second: IntUpPotion_1
+  - first:
+      213: 2152350798032307854
+    second: IntUpPotion_2
+  - first:
+      213: 1350751179072444440
+    second: IntUpPotion_3
+  - first:
+      213: -2086668780684480722
+    second: IntUpPotion_4
+  - first:
+      213: -520102093485078811
+    second: IntUpPotion_5
+  - first:
+      213: -2840125442499098713
+    second: IntUpPotion_6
+  - first:
+      213: 9065495369669989384
+    second: IntUpPotion_7
+  - first:
+      213: -2876763183362426006
+    second: IntUpPotion_8
+  - first:
+      213: 1484752793600873136
+    second: IntUpPotion_9
+  - first:
+      213: 1009510011441730284
+    second: IntUpPotion_10
+  - first:
+      213: 5289783111152674079
+    second: IntUpPotion_11
+  - first:
+      213: 1162598009518356280
+    second: IntUpPotion_12
+  - first:
+      213: -1395948947253218433
+    second: IntUpPotion_13
+  - first:
+      213: -1120677766430383995
+    second: IntUpPotion_14
+  - first:
+      213: -7977405087543477402
+    second: IntUpPotion_15
+  - first:
+      213: 918474751326717429
+    second: IntUpPotion_16
+  - first:
+      213: -6914743038882158623
+    second: IntUpPotion_17
+  - first:
+      213: 3170322119505819436
+    second: IntUpPotion_18
+  - first:
+      213: -1208778552951017947
+    second: IntUpPotion_19
+  - first:
+      213: 3251143303541977337
+    second: IntUpPotion_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IntUpPotion_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 230
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7877c00c07e8f63b0800000000000000
+      internalID: -5517034403596044409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IntUpPotion_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 215
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108641b0bb0540020800000000000000
+      internalID: 2307057673395529729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IntUpPotion_2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 210
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e868ebca5afaedd10800000000000000
+      internalID: 2152350798032307854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IntUpPotion_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 211
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8189d807a05deb210800000000000000
+      internalID: 1350751179072444440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IntUpPotion_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 173
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f6763bcc9aa03e0800000000000000
+      internalID: -2086668780684480722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IntUpPotion_5
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 173
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e682eec6e938c8f0800000000000000
+      internalID: -520102093485078811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IntUpPotion_6
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 172
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7ca4a25f8d598d0800000000000000
+      internalID: -2840125442499098713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IntUpPotion_7
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 173
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804d026f10c1fcd70800000000000000
+      internalID: 9065495369669989384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IntUpPotion_8
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 173
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6bb2c0602fa318d0800000000000000
+      internalID: -2876763183362426006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IntUpPotion_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 122
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b259d99cc6ea9410800000000000000
+      internalID: 1484752793600873136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IntUpPotion_10
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 123
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce25f2db100820e00800000000000000
+      internalID: 1009510011441730284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IntUpPotion_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 123
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15ad1f86b5196940800000000000000
+      internalID: 5289783111152674079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IntUpPotion_12
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 122
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837faeddab0622010800000000000000
+      internalID: 1162598009518356280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IntUpPotion_13
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 123
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73346a14d790ace0800000000000000
+      internalID: -1395948947253218433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IntUpPotion_14
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 73
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5802d30528d8270f0800000000000000
+      internalID: -1120677766430383995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IntUpPotion_15
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 72
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66bb397c6509a4190800000000000000
+      internalID: -7977405087543477402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IntUpPotion_16
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 73
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f58ef78be31fbc00800000000000000
+      internalID: 918474751326717429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IntUpPotion_17
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 73
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7e25e87d5e900a0800000000000000
+      internalID: -6914743038882158623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IntUpPotion_18
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 72
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2735bcab2f3ffb20800000000000000
+      internalID: 3170322119505819436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IntUpPotion_19
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 23
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e6e3b7f4e893fe0800000000000000
+      internalID: -1208778552951017947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IntUpPotion_20
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 21
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f07289fb916e1d20800000000000000
+      internalID: 3251143303541977337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      IntUpPotion_0: -5517034403596044409
+      IntUpPotion_1: 2307057673395529729
+      IntUpPotion_10: 1009510011441730284
+      IntUpPotion_11: 5289783111152674079
+      IntUpPotion_12: 1162598009518356280
+      IntUpPotion_13: -1395948947253218433
+      IntUpPotion_14: -1120677766430383995
+      IntUpPotion_15: -7977405087543477402
+      IntUpPotion_16: 918474751326717429
+      IntUpPotion_17: -6914743038882158623
+      IntUpPotion_18: 3170322119505819436
+      IntUpPotion_19: -1208778552951017947
+      IntUpPotion_2: 2152350798032307854
+      IntUpPotion_20: 3251143303541977337
+      IntUpPotion_3: 1350751179072444440
+      IntUpPotion_4: -2086668780684480722
+      IntUpPotion_5: -520102093485078811
+      IntUpPotion_6: -2840125442499098713
+      IntUpPotion_7: 9065495369669989384
+      IntUpPotion_8: -2876763183362426006
+      IntUpPotion_9: 1484752793600873136
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

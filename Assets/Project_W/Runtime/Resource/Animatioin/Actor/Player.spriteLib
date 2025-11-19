@@ -859,6 +859,52 @@ MonoBehaviour:
       m_SpriteOverride: {fileID: 5838533103739186719, guid: 8c9216661dad39343835a61bb97cad03, type: 3}
     m_FromMain: 0
     m_EntryOverrideCount: 30
+  - m_Name: Juicer
+    m_Hash: 68003092
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Juicer_0_11
+      m_Hash: 80424906
+      m_Sprite: {fileID: -2221319435895984343, guid: 0ef000f53f18a2b4b879705b9726dcef, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -2221319435895984343, guid: 0ef000f53f18a2b4b879705b9726dcef, type: 3}
+    - m_Name: Juicer_0_12
+      m_Hash: 499285616
+      m_Sprite: {fileID: 6610783208974650108, guid: 0ef000f53f18a2b4b879705b9726dcef, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 6610783208974650108, guid: 0ef000f53f18a2b4b879705b9726dcef, type: 3}
+    - m_Name: Juicer_0_13
+      m_Hash: 717573862
+      m_Sprite: {fileID: 654987494232279316, guid: 0ef000f53f18a2b4b879705b9726dcef, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 654987494232279316, guid: 0ef000f53f18a2b4b879705b9726dcef, type: 3}
+    - m_Name: Juicer_0_14
+      m_Hash: 883022661
+      m_Sprite: {fileID: -6821597579432399966, guid: 0ef000f53f18a2b4b879705b9726dcef, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -6821597579432399966, guid: 0ef000f53f18a2b4b879705b9726dcef, type: 3}
+    - m_Name: Juicer_0_15
+      m_Hash: 61270995
+      m_Sprite: {fileID: 5160180382865957511, guid: 0ef000f53f18a2b4b879705b9726dcef, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 5160180382865957511, guid: 0ef000f53f18a2b4b879705b9726dcef, type: 3}
+    - m_Name: Juicer_0_16
+      m_Hash: 447724137
+      m_Sprite: {fileID: -5371114903050253335, guid: 0ef000f53f18a2b4b879705b9726dcef, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -5371114903050253335, guid: 0ef000f53f18a2b4b879705b9726dcef, type: 3}
+    - m_Name: Juicer_0_17
+      m_Hash: 766020351
+      m_Sprite: {fileID: 35892853642922323, guid: 0ef000f53f18a2b4b879705b9726dcef, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 35892853642922323, guid: 0ef000f53f18a2b4b879705b9726dcef, type: 3}
+    - m_Name: Juicer_0_18
+      m_Hash: 1024956270
+      m_Sprite: {fileID: 433084299547126105, guid: 0ef000f53f18a2b4b879705b9726dcef, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 433084299547126105, guid: 0ef000f53f18a2b4b879705b9726dcef, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
   m_PrimaryLibraryGUID: 
-  m_ModificationHash: 638980310287963607
+  m_ModificationHash: 638990755586474265
   m_Version: 1

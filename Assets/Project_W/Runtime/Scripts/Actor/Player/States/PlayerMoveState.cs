@@ -13,7 +13,8 @@ namespace S
 
         public void Enter()
         {
-            player.animator.SetBool("isMove", player.isMoving);
+            Debug.Log("sss");
+            player.SetRun(true);
         }
 
         public void Exit()
@@ -21,20 +22,15 @@ namespace S
         }
         public void FixedUpdate()
         {
-            player.rb.linearVelocity = player.moveInput * player.currentSpeed;
-            player.animator.SetFloat("MoveX", player.moveInput.x);
-            player.animator.SetFloat("MoveY", player.moveInput.y);
+            player.rb.linearVelocity = player.MoveInput * player.currentSpeed;
+            player.animator.SetFloat("MoveX", player.MoveInput.x);
+            player.animator.SetFloat("MoveY", player.MoveInput.y);
 
-            if(!player.isWalk)
-                player.animator.speed = 0.5f;
-            else
-                player.animator.speed = 1f;
+            player.animator.speed = player.IsWalk ? 0.5f : player.IsRun ? 2f : 1f;
 
-            player.animator.SetBool("isWalk", player.isWalk);
-
-            if(player.moveInput != Vector2.zero)
+            if(player.MoveInput != Vector2.zero)
             {
-                player.dir = player.moveInput;
+                player.dir = player.MoveInput;
             }
         }
 

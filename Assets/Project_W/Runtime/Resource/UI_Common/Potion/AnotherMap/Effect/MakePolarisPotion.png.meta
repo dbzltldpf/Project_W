@@ -1,0 +1,2821 @@
+fileFormatVersion: 2
+guid: edbdc8e0e9306734191f134c60a7fc2c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6192674932389361290
+    second: MakePolarisPotion_0
+  - first:
+      213: -8685486603066244063
+    second: MakePolarisPotion_1
+  - first:
+      213: -3486521355777551219
+    second: MakePolarisPotion_2
+  - first:
+      213: 8697211810987028031
+    second: MakePolarisPotion_3
+  - first:
+      213: 4114270408246425937
+    second: MakePolarisPotion_4
+  - first:
+      213: -3896303053323149742
+    second: MakePolarisPotion_5
+  - first:
+      213: -8030929482400288859
+    second: MakePolarisPotion_6
+  - first:
+      213: -842245732952844952
+    second: MakePolarisPotion_7
+  - first:
+      213: 2411803513915370064
+    second: MakePolarisPotion_8
+  - first:
+      213: 8502559931658727050
+    second: MakePolarisPotion_9
+  - first:
+      213: 6793986784549158070
+    second: MakePolarisPotion_10
+  - first:
+      213: 6887172443057874049
+    second: MakePolarisPotion_11
+  - first:
+      213: 1931331186165893700
+    second: MakePolarisPotion_12
+  - first:
+      213: 1642994370402922219
+    second: MakePolarisPotion_13
+  - first:
+      213: -8486255264811696824
+    second: MakePolarisPotion_14
+  - first:
+      213: 8525250525759573609
+    second: MakePolarisPotion_15
+  - first:
+      213: -3979650210613495881
+    second: MakePolarisPotion_16
+  - first:
+      213: -3476390354783477993
+    second: MakePolarisPotion_17
+  - first:
+      213: -8577730279123772123
+    second: MakePolarisPotion_18
+  - first:
+      213: -2596646301178722758
+    second: MakePolarisPotion_19
+  - first:
+      213: 2445089524859442008
+    second: MakePolarisPotion_20
+  - first:
+      213: 2421948816817922776
+    second: MakePolarisPotion_21
+  - first:
+      213: 2374865534944018258
+    second: MakePolarisPotion_22
+  - first:
+      213: -3177705144792504672
+    second: MakePolarisPotion_23
+  - first:
+      213: -9205657872177959392
+    second: MakePolarisPotion_24
+  - first:
+      213: 2601034944155914013
+    second: MakePolarisPotion_25
+  - first:
+      213: 7738435504857390538
+    second: MakePolarisPotion_26
+  - first:
+      213: 4464877943740563975
+    second: MakePolarisPotion_27
+  - first:
+      213: -3379004597779414671
+    second: MakePolarisPotion_28
+  - first:
+      213: 918537170919056584
+    second: MakePolarisPotion_29
+  - first:
+      213: 7833186400637548860
+    second: MakePolarisPotion_30
+  - first:
+      213: 1879222209478261832
+    second: MakePolarisPotion_31
+  - first:
+      213: 3630732209201344272
+    second: MakePolarisPotion_32
+  - first:
+      213: 1470044866766203409
+    second: MakePolarisPotion_33
+  - first:
+      213: -3000770176422440339
+    second: MakePolarisPotion_34
+  - first:
+      213: 108265741974592651
+    second: MakePolarisPotion_35
+  - first:
+      213: 3391890863674093599
+    second: MakePolarisPotion_36
+  - first:
+      213: 6758141343734681603
+    second: MakePolarisPotion_37
+  - first:
+      213: -886952195778081052
+    second: MakePolarisPotion_38
+  - first:
+      213: -1480391112739383492
+    second: MakePolarisPotion_39
+  - first:
+      213: -7651859141401040399
+    second: MakePolarisPotion_40
+  - first:
+      213: 4422426485415119245
+    second: MakePolarisPotion_41
+  - first:
+      213: -4356149199502988651
+    second: MakePolarisPotion_42
+  - first:
+      213: 337926140603860668
+    second: MakePolarisPotion_43
+  - first:
+      213: 6537489954890917715
+    second: MakePolarisPotion_44
+  - first:
+      213: 5422855476030745625
+    second: MakePolarisPotion_45
+  - first:
+      213: 7801551429243822919
+    second: MakePolarisPotion_46
+  - first:
+      213: -5376759654658448793
+    second: MakePolarisPotion_47
+  - first:
+      213: -1342485825313222781
+    second: MakePolarisPotion_48
+  - first:
+      213: -6151590709017711548
+    second: MakePolarisPotion_49
+  - first:
+      213: -2928246341747862009
+    second: MakePolarisPotion_50
+  - first:
+      213: -4664770978033613927
+    second: MakePolarisPotion_51
+  - first:
+      213: 4163355310569045132
+    second: MakePolarisPotion_52
+  - first:
+      213: 8988433798433000480
+    second: MakePolarisPotion_53
+  - first:
+      213: 3049785775702603289
+    second: MakePolarisPotion_54
+  - first:
+      213: 7671281221320428977
+    second: MakePolarisPotion_55
+  - first:
+      213: 7383346463280602703
+    second: MakePolarisPotion_56
+  - first:
+      213: 3297899791767892617
+    second: MakePolarisPotion_57
+  - first:
+      213: 3386242459622460517
+    second: MakePolarisPotion_58
+  - first:
+      213: 2765338788262783476
+    second: MakePolarisPotion_59
+  - first:
+      213: -2827838823776465009
+    second: MakePolarisPotion_60
+  - first:
+      213: 5232016118680839377
+    second: MakePolarisPotion_61
+  - first:
+      213: -3024245726518422267
+    second: MakePolarisPotion_62
+  - first:
+      213: 3692450083473634556
+    second: MakePolarisPotion_63
+  - first:
+      213: 8299371259461629707
+    second: MakePolarisPotion_64
+  - first:
+      213: 1521343983975599195
+    second: MakePolarisPotion_65
+  - first:
+      213: 8648564289587018009
+    second: MakePolarisPotion_66
+  - first:
+      213: 6915511881399429727
+    second: MakePolarisPotion_67
+  - first:
+      213: -2866336725296325431
+    second: MakePolarisPotion_68
+  - first:
+      213: -5758513556158735070
+    second: MakePolarisPotion_69
+  - first:
+      213: 8778853805258395716
+    second: MakePolarisPotion_70
+  - first:
+      213: 5617221561353165964
+    second: MakePolarisPotion_71
+  - first:
+      213: -6272355305980857402
+    second: MakePolarisPotion_72
+  - first:
+      213: 3700026059304208164
+    second: MakePolarisPotion_73
+  - first:
+      213: -3911627421225430946
+    second: MakePolarisPotion_74
+  - first:
+      213: 7269913274119576080
+    second: MakePolarisPotion_75
+  - first:
+      213: -5113198801136741059
+    second: MakePolarisPotion_76
+  - first:
+      213: -3194634906498654433
+    second: MakePolarisPotion_77
+  - first:
+      213: 2296005396285928654
+    second: MakePolarisPotion_78
+  - first:
+      213: -3516048195456947368
+    second: MakePolarisPotion_79
+  - first:
+      213: 3762381943456605938
+    second: MakePolarisPotion_80
+  - first:
+      213: -987822236793074464
+    second: MakePolarisPotion_81
+  - first:
+      213: -5022226529211239117
+    second: MakePolarisPotion_82
+  - first:
+      213: 2696307398817700914
+    second: MakePolarisPotion_83
+  - first:
+      213: 5456190046676170105
+    second: MakePolarisPotion_84
+  - first:
+      213: 5412165913643069619
+    second: MakePolarisPotion_85
+  - first:
+      213: 3396964221434591462
+    second: MakePolarisPotion_86
+  - first:
+      213: -8341084482487169971
+    second: MakePolarisPotion_87
+  - first:
+      213: -1911718135073364066
+    second: MakePolarisPotion_88
+  - first:
+      213: -8399225049713881203
+    second: MakePolarisPotion_89
+  - first:
+      213: 6043060160264880089
+    second: MakePolarisPotion_90
+  - first:
+      213: 4971696720964038927
+    second: MakePolarisPotion_91
+  - first:
+      213: 6137473163360217834
+    second: MakePolarisPotion_92
+  - first:
+      213: 6010351861011351322
+    second: MakePolarisPotion_93
+  - first:
+      213: -8079396077446677411
+    second: MakePolarisPotion_94
+  - first:
+      213: -5168808223646636671
+    second: MakePolarisPotion_95
+  - first:
+      213: -5607726115404438507
+    second: MakePolarisPotion_96
+  - first:
+      213: 5729637466700131893
+    second: MakePolarisPotion_97
+  - first:
+      213: 7548701091039860298
+    second: MakePolarisPotion_98
+  - first:
+      213: -7658119243287825971
+    second: MakePolarisPotion_99
+  - first:
+      213: -1946410486989028406
+    second: MakePolarisPotion_100
+  - first:
+      213: -6997216407606162156
+    second: MakePolarisPotion_101
+  - first:
+      213: 368337245013842601
+    second: MakePolarisPotion_102
+  - first:
+      213: 2196864914827540474
+    second: MakePolarisPotion_103
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MakePolarisPotion_0
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 724
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679477d85f23f0aa0800000000000000
+      internalID: -6192674932389361290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_1
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 726
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12482d2c3f3f67780800000000000000
+      internalID: -8685486603066244063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_2
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 728
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84d01f9c436d9fc0800000000000000
+      internalID: -3486521355777551219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_3
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 729
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ea632ff04b2b870800000000000000
+      internalID: 8697211810987028031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_4
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 711
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159fd615323d81930800000000000000
+      internalID: 4114270408246425937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_5
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 732
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e5769340d8de9c0800000000000000
+      internalID: -3896303053323149742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_6
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 720
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afa1597f286c8090800000000000000
+      internalID: -8030929482400288859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_7
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 714
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865d1c1e7fdbf44f0800000000000000
+      internalID: -842245732952844952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_8
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 714
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ae6f28482787120800000000000000
+      internalID: 2411803513915370064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_9
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 720
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8eecf795392ff570800000000000000
+      internalID: 8502559931658727050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_10
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 714
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc30c50cf6194e50800000000000000
+      internalID: 6793986784549158070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_11
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 714
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184e25fd8d6249f50800000000000000
+      internalID: 6887172443057874049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_12
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 714
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a4d0f2b777dca10800000000000000
+      internalID: 1931331186165893700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_13
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 711
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee25d7cca61dc610800000000000000
+      internalID: 1642994370402922219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_14
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 714
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d3c9b7cc3ca3a80800000000000000
+      internalID: -8486255264811696824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_15
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 714
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e8c193f26cf4670800000000000000
+      internalID: 8525250525759573609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 714
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7f212f73175c8c0800000000000000
+      internalID: -3979650210613495881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_17
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 720
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f598a146161cfc0800000000000000
+      internalID: -3476390354783477993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_18
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 714
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d17b502c7c5f880800000000000000
+      internalID: -8577730279123772123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_19
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 714
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3609ea52fbd6fbd0800000000000000
+      internalID: -2596646301178722758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_20
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 720
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853964dd7f3bee120800000000000000
+      internalID: 2445089524859442008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_21
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 714
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d22c9aed9d7c9120800000000000000
+      internalID: 2421948816817922776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_22
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 721
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ff7a71f9735f020800000000000000
+      internalID: 2374865534944018258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_23
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 714
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a626bbc10686e3d0800000000000000
+      internalID: -3177705144792504672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_24
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 713
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02eed0d50feee3080800000000000000
+      internalID: -9205657872177959392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_25
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 717
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f8ac6308bb81420800000000000000
+      internalID: 2601034944155914013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_26
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 711
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd9b487712746b60800000000000000
+      internalID: 7738435504857390538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_27
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 711
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702022a75de66fd30800000000000000
+      internalID: 4464877943740563975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_28
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 711
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17142f6983d5b11d0800000000000000
+      internalID: -3379004597779414671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_29
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 711
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c46f99b0bc4fbc00800000000000000
+      internalID: 918537170919056584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_30
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 711
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39fb65878115bc60800000000000000
+      internalID: 7833186400637548860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 632
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84cf9f994a6541a10800000000000000
+      internalID: 1879222209478261832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_32
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 632
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01fe30435b3f26230800000000000000
+      internalID: 3630732209201344272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 632
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a6c778406a66410800000000000000
+      internalID: 1470044866766203409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_34
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 632
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6211cd5c6f1b56d0800000000000000
+      internalID: -3000770176422440339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_35
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 632
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c5db36e13a08100800000000000000
+      internalID: 108265741974592651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_36
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 632
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10ff2ef4ca621f20800000000000000
+      internalID: 3391890863674093599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_37
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 632
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300df27febdb9cd50800000000000000
+      internalID: 6758141343734681603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_38
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 632
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee05ed5da9e0b3f0800000000000000
+      internalID: -886952195778081052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_39
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 632
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37168c5028947be0800000000000000
+      internalID: -1480391112739383492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_40
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 532
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f92775f6a22fc590800000000000000
+      internalID: -7651859141401040399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_41
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 532
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89827c157d9f5d30800000000000000
+      internalID: 4422426485415119245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_42
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 532
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59aa5070269db83c0800000000000000
+      internalID: -4356149199502988651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_43
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 532
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb60303d80e80b400800000000000000
+      internalID: 337926140603860668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_44
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 532
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35725f31a74d9ba50800000000000000
+      internalID: 6537489954890917715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_45
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 532
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c281de25ad14b40800000000000000
+      internalID: 5422855476030745625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_46
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 532
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743e405c0bda44c60800000000000000
+      internalID: 7801551429243822919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_47
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 532
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7626e65d499e165b0800000000000000
+      internalID: -5376759654658448793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_48
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 532
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f453231488e5de0800000000000000
+      internalID: -1342485825313222781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 432
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ce769b7d821aaa0800000000000000
+      internalID: -6151590709017711548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_50
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 432
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70618497777cc57d0800000000000000
+      internalID: -2928246341747862009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_51
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 432
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99341cfa287634fb0800000000000000
+      internalID: -4664770978033613927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_52
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 432
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c3438b89537c930800000000000000
+      internalID: 4163355310569045132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_53
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 432
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02cc6babae45dbc70800000000000000
+      internalID: 8988433798433000480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_54
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 432
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916fac92104035a20800000000000000
+      internalID: 3049785775702603289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_55
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 367
+        width: 44
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdcde860add57a60800000000000000
+      internalID: 7671281221320428977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_56
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 368
+        width: 45
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e1a7d5d7ae67660800000000000000
+      internalID: 7383346463280602703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_57
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 434
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982f829336e74cd20800000000000000
+      internalID: 3297899791767892617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_58
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 330
+        width: 62
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c442173995efe20800000000000000
+      internalID: 3386242459622460517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_59
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 327
+        width: 67
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9230ef9f4706620800000000000000
+      internalID: 2765338788262783476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_60
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 357
+        width: 68
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fceb2829f71c8d0800000000000000
+      internalID: -2827838823776465009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_61
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 361
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4e61580fadb9840800000000000000
+      internalID: 5232016118680839377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_62
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 370
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505506de888b706d0800000000000000
+      internalID: -3024245726518422267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_63
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 371
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4be4899c73e3330800000000000000
+      internalID: 3692450083473634556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_64
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 365
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07fb43403a4d2370800000000000000
+      internalID: 8299371259461629707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_65
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 352
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c0b020b46ec1510800000000000000
+      internalID: 1521343983975599195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_66
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 142
+        width: 119
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91976f9366fd50870800000000000000
+      internalID: 8648564289587018009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_67
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 364
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a6eca8a65d8ff50800000000000000
+      internalID: 6915511881399429727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_68
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 325
+        width: 68
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc5e025fe9b838d0800000000000000
+      internalID: -2866336725296325431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_69
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 338
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d13ea3e66a510b0800000000000000
+      internalID: -5758513556158735070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_70
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 328
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44053850601c4d970800000000000000
+      internalID: 8778853805258395716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_71
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 342
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8cde1daf3164fd40800000000000000
+      internalID: 5617221561353165964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_72
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 242
+        width: 62
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c379f1e41e14f8a0800000000000000
+      internalID: -6272355305980857402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_73
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 327
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427048ce812295330800000000000000
+      internalID: 3700026059304208164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_74
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 264
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e505e28c59b17b9c0800000000000000
+      internalID: -3911627421225430946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_75
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 267
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a5bcbea9be3e460800000000000000
+      internalID: 7269913274119576080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_76
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 242
+        width: 60
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d359a4008c44a09b0800000000000000
+      internalID: -5113198801136741059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_77
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 264
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f951b7a706aa3d0800000000000000
+      internalID: -3194634906498654433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_78
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 267
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4b0004ebc0ddf10800000000000000
+      internalID: 2296005396285928654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_79
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 254
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ba2a88bcc743fc0800000000000000
+      internalID: -3516048195456947368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_80
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 253
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f62311917aa63430800000000000000
+      internalID: 3762381943456605938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_81
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 253
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec87bac8ec8a42f0800000000000000
+      internalID: -987822236793074464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_82
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 253
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33532d0a4977d4ab0800000000000000
+      internalID: -5022226529211239117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_83
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 242
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c59c72b453b6520800000000000000
+      internalID: 2696307398817700914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_84
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 241
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975b72770f748bb40800000000000000
+      internalID: 5456190046676170105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_85
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 243
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b03c2c3930eb1b40800000000000000
+      internalID: 5412165913643069619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_86
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 243
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8f15526f0742f20800000000000000
+      internalID: 3396964221434591462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_87
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 152
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c44db2bd38e3c80800000000000000
+      internalID: -8341084482487169971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_88
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 154
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97a7402c763875e0800000000000000
+      internalID: -1911718135073364066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_89
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 153
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8fcd3b7155ff6b80800000000000000
+      internalID: -8399225049713881203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_90
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 43
+        width: 18
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df37e0c2334dd350800000000000000
+      internalID: 6043060160264880089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_91
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 153
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01390893d30ff440800000000000000
+      internalID: 4971696720964038927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_92
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 43
+        width: 115
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea2498035fac2550800000000000000
+      internalID: 6137473163360217834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_93
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 153
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1780b26c2f096350800000000000000
+      internalID: 6010351861011351322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_94
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 154
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c3b14f21830ef80800000000000000
+      internalID: -8079396077446677411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_95
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 154
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185ac6d5e44b448b0800000000000000
+      internalID: -5168808223646636671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_96
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 142
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51423ad1fca5d22b0800000000000000
+      internalID: -5607726115404438507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_97
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 142
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e2e664be2c38f40800000000000000
+      internalID: 5729637466700131893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_98
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 142
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46d807c5af52c860800000000000000
+      internalID: 7548701091039860298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_99
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 141
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1fe386f15e8b590800000000000000
+      internalID: -7658119243287825971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_100
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 143
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac38cef79f5fcf4e0800000000000000
+      internalID: -1946410486989028406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_101
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 143
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d891800c4e4ee90800000000000000
+      internalID: -6997216407606162156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_102
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 142
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa9896d5c89c1500800000000000000
+      internalID: 368337245013842601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakePolarisPotion_103
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 43
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af770d32005dc7e10800000000000000
+      internalID: 2196864914827540474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MakePolarisPotion_0: -6192674932389361290
+      MakePolarisPotion_1: -8685486603066244063
+      MakePolarisPotion_10: 6793986784549158070
+      MakePolarisPotion_100: -1946410486989028406
+      MakePolarisPotion_101: -6997216407606162156
+      MakePolarisPotion_102: 368337245013842601
+      MakePolarisPotion_103: 2196864914827540474
+      MakePolarisPotion_11: 6887172443057874049
+      MakePolarisPotion_12: 1931331186165893700
+      MakePolarisPotion_13: 1642994370402922219
+      MakePolarisPotion_14: -8486255264811696824
+      MakePolarisPotion_15: 8525250525759573609
+      MakePolarisPotion_16: -3979650210613495881
+      MakePolarisPotion_17: -3476390354783477993
+      MakePolarisPotion_18: -8577730279123772123
+      MakePolarisPotion_19: -2596646301178722758
+      MakePolarisPotion_2: -3486521355777551219
+      MakePolarisPotion_20: 2445089524859442008
+      MakePolarisPotion_21: 2421948816817922776
+      MakePolarisPotion_22: 2374865534944018258
+      MakePolarisPotion_23: -3177705144792504672
+      MakePolarisPotion_24: -9205657872177959392
+      MakePolarisPotion_25: 2601034944155914013
+      MakePolarisPotion_26: 7738435504857390538
+      MakePolarisPotion_27: 4464877943740563975
+      MakePolarisPotion_28: -3379004597779414671
+      MakePolarisPotion_29: 918537170919056584
+      MakePolarisPotion_3: 8697211810987028031
+      MakePolarisPotion_30: 7833186400637548860
+      MakePolarisPotion_31: 1879222209478261832
+      MakePolarisPotion_32: 3630732209201344272
+      MakePolarisPotion_33: 1470044866766203409
+      MakePolarisPotion_34: -3000770176422440339
+      MakePolarisPotion_35: 108265741974592651
+      MakePolarisPotion_36: 3391890863674093599
+      MakePolarisPotion_37: 6758141343734681603
+      MakePolarisPotion_38: -886952195778081052
+      MakePolarisPotion_39: -1480391112739383492
+      MakePolarisPotion_4: 4114270408246425937
+      MakePolarisPotion_40: -7651859141401040399
+      MakePolarisPotion_41: 4422426485415119245
+      MakePolarisPotion_42: -4356149199502988651
+      MakePolarisPotion_43: 337926140603860668
+      MakePolarisPotion_44: 6537489954890917715
+      MakePolarisPotion_45: 5422855476030745625
+      MakePolarisPotion_46: 7801551429243822919
+      MakePolarisPotion_47: -5376759654658448793
+      MakePolarisPotion_48: -1342485825313222781
+      MakePolarisPotion_49: -6151590709017711548
+      MakePolarisPotion_5: -3896303053323149742
+      MakePolarisPotion_50: -2928246341747862009
+      MakePolarisPotion_51: -4664770978033613927
+      MakePolarisPotion_52: 4163355310569045132
+      MakePolarisPotion_53: 8988433798433000480
+      MakePolarisPotion_54: 3049785775702603289
+      MakePolarisPotion_55: 7671281221320428977
+      MakePolarisPotion_56: 7383346463280602703
+      MakePolarisPotion_57: 3297899791767892617
+      MakePolarisPotion_58: 3386242459622460517
+      MakePolarisPotion_59: 2765338788262783476
+      MakePolarisPotion_6: -8030929482400288859
+      MakePolarisPotion_60: -2827838823776465009
+      MakePolarisPotion_61: 5232016118680839377
+      MakePolarisPotion_62: -3024245726518422267
+      MakePolarisPotion_63: 3692450083473634556
+      MakePolarisPotion_64: 8299371259461629707
+      MakePolarisPotion_65: 1521343983975599195
+      MakePolarisPotion_66: 8648564289587018009
+      MakePolarisPotion_67: 6915511881399429727
+      MakePolarisPotion_68: -2866336725296325431
+      MakePolarisPotion_69: -5758513556158735070
+      MakePolarisPotion_7: -842245732952844952
+      MakePolarisPotion_70: 8778853805258395716
+      MakePolarisPotion_71: 5617221561353165964
+      MakePolarisPotion_72: -6272355305980857402
+      MakePolarisPotion_73: 3700026059304208164
+      MakePolarisPotion_74: -3911627421225430946
+      MakePolarisPotion_75: 7269913274119576080
+      MakePolarisPotion_76: -5113198801136741059
+      MakePolarisPotion_77: -3194634906498654433
+      MakePolarisPotion_78: 2296005396285928654
+      MakePolarisPotion_79: -3516048195456947368
+      MakePolarisPotion_8: 2411803513915370064
+      MakePolarisPotion_80: 3762381943456605938
+      MakePolarisPotion_81: -987822236793074464
+      MakePolarisPotion_82: -5022226529211239117
+      MakePolarisPotion_83: 2696307398817700914
+      MakePolarisPotion_84: 5456190046676170105
+      MakePolarisPotion_85: 5412165913643069619
+      MakePolarisPotion_86: 3396964221434591462
+      MakePolarisPotion_87: -8341084482487169971
+      MakePolarisPotion_88: -1911718135073364066
+      MakePolarisPotion_89: -8399225049713881203
+      MakePolarisPotion_9: 8502559931658727050
+      MakePolarisPotion_90: 6043060160264880089
+      MakePolarisPotion_91: 4971696720964038927
+      MakePolarisPotion_92: 6137473163360217834
+      MakePolarisPotion_93: 6010351861011351322
+      MakePolarisPotion_94: -8079396077446677411
+      MakePolarisPotion_95: -5168808223646636671
+      MakePolarisPotion_96: -5607726115404438507
+      MakePolarisPotion_97: 5729637466700131893
+      MakePolarisPotion_98: 7548701091039860298
+      MakePolarisPotion_99: -7658119243287825971
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -30,29 +30,29 @@
     public class InputBinding : MonoBehaviour
     {
         //private Dictionary<UserAction, KeyCode> _bindingDict;
-        public SerializedDictionary<UserAction, KeyCode> _bindingDict;
+        public SerializedDictionary<UserAction, KeyCode> bindingDict;
         public void Awake()
         {
             ResetAll();
         }
         public void ApplyNewBindings(InputBinding newBinding)
         {
-            _bindingDict = new SerializedDictionary<UserAction, KeyCode>(newBinding._bindingDict);
+            bindingDict = new SerializedDictionary<UserAction, KeyCode>(newBinding.bindingDict);
         }
         public void Bind(in UserAction action, in KeyCode code, bool allowOverlap = false)
         {
-            if (!allowOverlap && _bindingDict.ContainsValue(code))
+            if (!allowOverlap && bindingDict.ContainsValue(code))
             {
-                var copy = new Dictionary<UserAction, KeyCode>(_bindingDict);
+                var copy = new Dictionary<UserAction, KeyCode>(bindingDict);
                 foreach (var pair in copy)
                 {
                     if (pair.Value.Equals(code))
                     {
-                        _bindingDict[pair.Key] = KeyCode.None;
+                        bindingDict[pair.Key] = KeyCode.None;
                     }
                 }
             }
-            _bindingDict[action] = code;
+            bindingDict[action] = code;
         }
         public void ResetAll()
         {

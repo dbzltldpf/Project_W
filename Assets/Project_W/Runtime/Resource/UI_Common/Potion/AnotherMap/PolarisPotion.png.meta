@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 82a9ae0df855102449e0bcf071fff6ba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5991628497637289096
+    second: PolarisPotion_0
+  - first:
+      213: 2512681382079082290
+    second: PolarisPotion_1
+  - first:
+      213: 8877797386615457391
+    second: PolarisPotion_2
+  - first:
+      213: -677870336570916951
+    second: PolarisPotion_3
+  - first:
+      213: 8292054411517722627
+    second: PolarisPotion_4
+  - first:
+      213: -893842361364722628
+    second: PolarisPotion_5
+  - first:
+      213: -2216437582918105650
+    second: PolarisPotion_6
+  - first:
+      213: -6109154223831229214
+    second: PolarisPotion_7
+  - first:
+      213: 4045047002973078469
+    second: PolarisPotion_8
+  - first:
+      213: 3203878757122641105
+    second: PolarisPotion_9
+  - first:
+      213: 1765958135182699059
+    second: PolarisPotion_10
+  - first:
+      213: -8970264736607758384
+    second: PolarisPotion_11
+  - first:
+      213: 4364356825742845538
+    second: PolarisPotion_12
+  - first:
+      213: -7382744314861194768
+    second: PolarisPotion_13
+  - first:
+      213: -9055375062788104205
+    second: PolarisPotion_14
+  - first:
+      213: 2144403836122903105
+    second: PolarisPotion_15
+  - first:
+      213: -902972810744070206
+    second: PolarisPotion_16
+  - first:
+      213: -8205733855030421790
+    second: PolarisPotion_17
+  - first:
+      213: -9190916950468544911
+    second: PolarisPotion_18
+  - first:
+      213: 496217442445527503
+    second: PolarisPotion_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PolarisPotion_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 212
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873d83c50a579dca0800000000000000
+      internalID: -5991628497637289096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolarisPotion_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 213
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23faf8c7766ded220800000000000000
+      internalID: 2512681382079082290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolarisPotion_2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f660b11cfa5443b70800000000000000
+      internalID: 8877797386615457391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolarisPotion_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af7ae83588b796f0800000000000000
+      internalID: -677870336570916951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolarisPotion_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 174
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30089b8dd8b431370800000000000000
+      internalID: 8292054411517722627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolarisPotion_5
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 175
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3cc8adab1f6893f0800000000000000
+      internalID: -893842361364722628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolarisPotion_6
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 175
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec54753f2c1ad31e0800000000000000
+      internalID: -2216437582918105650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolarisPotion_7
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 174
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec5672e99ce73ba0800000000000000
+      internalID: -6109154223831229214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolarisPotion_8
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 175
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c308ff41d4e22830800000000000000
+      internalID: 4045047002973078469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolarisPotion_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 125
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc07b531c6767c20800000000000000
+      internalID: 3203878757122641105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolarisPotion_10
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33aa6c74191f18810800000000000000
+      internalID: 1765958135182699059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolarisPotion_11
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 125
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d71841afb7338380800000000000000
+      internalID: -8970264736607758384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolarisPotion_12
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 125
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266247fd86f419c30800000000000000
+      internalID: 4364356825742845538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolarisPotion_13
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1f92d39293b8990800000000000000
+      internalID: -7382744314861194768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolarisPotion_14
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff959a9b58d45280800000000000000
+      internalID: -9055375062788104205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolarisPotion_15
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142371b6de372cd10800000000000000
+      internalID: 2144403836122903105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolarisPotion_16
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 74
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf73c5430ff773f0800000000000000
+      internalID: -902972810744070206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolarisPotion_17
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6d381e8806f1e80800000000000000
+      internalID: -8205733855030421790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolarisPotion_18
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176b437aabd437080800000000000000
+      internalID: -9190916950468544911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolarisPotion_19
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc98154822be2e600800000000000000
+      internalID: 496217442445527503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PolarisPotion_0: -5991628497637289096
+      PolarisPotion_1: 2512681382079082290
+      PolarisPotion_10: 1765958135182699059
+      PolarisPotion_11: -8970264736607758384
+      PolarisPotion_12: 4364356825742845538
+      PolarisPotion_13: -7382744314861194768
+      PolarisPotion_14: -9055375062788104205
+      PolarisPotion_15: 2144403836122903105
+      PolarisPotion_16: -902972810744070206
+      PolarisPotion_17: -8205733855030421790
+      PolarisPotion_18: -9190916950468544911
+      PolarisPotion_19: 496217442445527503
+      PolarisPotion_2: 8877797386615457391
+      PolarisPotion_3: -677870336570916951
+      PolarisPotion_4: 8292054411517722627
+      PolarisPotion_5: -893842361364722628
+      PolarisPotion_6: -2216437582918105650
+      PolarisPotion_7: -6109154223831229214
+      PolarisPotion_8: 4045047002973078469
+      PolarisPotion_9: 3203878757122641105
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

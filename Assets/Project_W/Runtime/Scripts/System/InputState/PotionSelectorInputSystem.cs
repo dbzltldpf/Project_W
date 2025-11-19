@@ -17,7 +17,9 @@
 
             if(input.InteractPressed())
             {
-                PotionData selectedPotion = new PotionData("x", PotionType.Throw);
+                //PotionData selectedPotion = new PotionData("x", PotionType.Throw, player.drinkSpriteLibrary[0]);
+                //TODO : 물약 데이터
+                PotionData selectedPotion = new PotionData("x", PotionType.Drink, player.drinkSpriteLibrary[0]);
                 //선택
                 //어떤 포션 인지 확인
                 if (selectedPotion.name == null)
@@ -31,14 +33,15 @@
                     case PotionType.Throw:
                         input.ChangeState(new PotionThrowInputSystem());
                         //던지는 물약, 어떤 물약 골랐는지 넘기기
-                        player.SelectPotion();
                         break;
                     case PotionType.Drink:
                         //마시는 물약
-                        player.ChangeState(player.state.Drink);
+                        player.ChangeState(player.State.Drink);
                         break;
                 }
-                
+                player.SelectPotion(selectedPotion.pointerType);
+
+
                 UIManager.Instance.HideUI(UIManager.Instance.potionSelector);
             }
             if (input.CancelPressed())

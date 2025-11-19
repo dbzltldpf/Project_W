@@ -46,7 +46,7 @@
 
             if ((Vector2)potion.transform.position == finalPos)
             {
-                player.ChangeState(player.state.Idle);
+                player.ChangeState(player.State.Idle);
                 InputSystem.Instance.ChangeState(new DefaultInputSystem());
                 potion.gameObject.SetActive(false);
             }

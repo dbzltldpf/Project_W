@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 96aefe5c65b5d3843a01ef75277bd10d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 551455567425981031
+    second: BoomPotion_0
+  - first:
+      213: 5103711758148367982
+    second: BoomPotion_1
+  - first:
+      213: -154283079473647611
+    second: BoomPotion_2
+  - first:
+      213: -8298957343846863155
+    second: BoomPotion_3
+  - first:
+      213: 8953887990945551480
+    second: BoomPotion_4
+  - first:
+      213: -106806470187825718
+    second: BoomPotion_5
+  - first:
+      213: -6207357267594774956
+    second: BoomPotion_6
+  - first:
+      213: 5140413014682068099
+    second: BoomPotion_7
+  - first:
+      213: 4709491742988086999
+    second: BoomPotion_8
+  - first:
+      213: 3729714060209094079
+    second: BoomPotion_9
+  - first:
+      213: 2829399404452685722
+    second: BoomPotion_10
+  - first:
+      213: -6568805586538896147
+    second: BoomPotion_11
+  - first:
+      213: -8535166248374769203
+    second: BoomPotion_12
+  - first:
+      213: -2607122678053722639
+    second: BoomPotion_13
+  - first:
+      213: -7865778724967539981
+    second: BoomPotion_14
+  - first:
+      213: 9042323840071755508
+    second: BoomPotion_15
+  - first:
+      213: 7026816565885582345
+    second: BoomPotion_16
+  - first:
+      213: -1812043643389759231
+    second: BoomPotion_17
+  - first:
+      213: -3148136043914893498
+    second: BoomPotion_18
+  - first:
+      213: 6772208856266105815
+    second: BoomPotion_19
+  - first:
+      213: -3645737701479047689
+    second: BoomPotion_20
+  - first:
+      213: -6918046767907449307
+    second: BoomPotion_21
+  - first:
+      213: -4948017263930796338
+    second: BoomPotion_22
+  - first:
+      213: -7205432206417361027
+    second: BoomPotion_23
+  - first:
+      213: -4950616867223605163
+    second: BoomPotion_24
+  - first:
+      213: -3741996320791495143
+    second: BoomPotion_25
+  - first:
+      213: -976297366238222442
+    second: BoomPotion_26
+  - first:
+      213: -2304431871830433073
+    second: BoomPotion_27
+  - first:
+      213: 6644038455491041633
+    second: BoomPotion_28
+  - first:
+      213: -8520326101515183817
+    second: BoomPotion_29
+  - first:
+      213: -8540347676374905324
+    second: BoomPotion_30
+  - first:
+      213: -653633127734725424
+    second: BoomPotion_31
+  - first:
+      213: -3312129492476136578
+    second: BoomPotion_32
+  - first:
+      213: 6084469330011853766
+    second: BoomPotion_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BoomPotion_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 228
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a46d5bae927a700800000000000000
+      internalID: 551455567425981031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoomPotion_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 223
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66fa6cadc604d640800000000000000
+      internalID: 5103711758148367982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoomPotion_2
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 225
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500be1d4b50ebddf0800000000000000
+      internalID: -154283079473647611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoomPotion_3
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 226
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce63e9f34e24dc80800000000000000
+      internalID: -8298957343846863155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoomPotion_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 115
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87412f220b9924c70800000000000000
+      internalID: 8953887990945551480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoomPotion_5
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 115
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5cdbcc41c848ef0800000000000000
+      internalID: -106806470187825718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoomPotion_6
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 169
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456f21ff3790bd9a0800000000000000
+      internalID: -6207357267594774956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoomPotion_7
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 116
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3846bead66a665740800000000000000
+      internalID: 5140413014682068099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoomPotion_8
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 169
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dea07dc9c97b5140800000000000000
+      internalID: 4709491742988086999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoomPotion_9
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 118
+        width: 62
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbdfa884d2b92c330800000000000000
+      internalID: 3729714060209094079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoomPotion_10
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 169
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97aa1e74cb044720800000000000000
+      internalID: 2829399404452685722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoomPotion_11
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 157
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de46fbf3f1ae6d4a0800000000000000
+      internalID: -6568805586538896147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoomPotion_12
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 142
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9e7b2b48ffc8980800000000000000
+      internalID: -8535166248374769203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoomPotion_13
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 131
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f52eb8ccb3a1dbd0800000000000000
+      internalID: -2607122678053722639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoomPotion_14
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 111
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa1c70ace327d290800000000000000
+      internalID: -7865778724967539981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoomPotion_15
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 111
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6e58fcf99cc7d70800000000000000
+      internalID: 9042323840071755508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoomPotion_16
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 22
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90cb07fdf64448160800000000000000
+      internalID: 7026816565885582345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoomPotion_17
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 60
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101bf3e28e35ad6e0800000000000000
+      internalID: -1812043643389759231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoomPotion_18
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 63
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64769d592f29f44d0800000000000000
+      internalID: -3148136043914893498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoomPotion_19
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 49
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3ee76f218bbfd50800000000000000
+      internalID: 6772208856266105815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoomPotion_20
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 66
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd971f50ecb76dc0800000000000000
+      internalID: -3645737701479047689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoomPotion_21
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 54
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52656533e192eff90800000000000000
+      internalID: -6918046767907449307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoomPotion_22
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 46
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec697e0a38c155bb0800000000000000
+      internalID: -4948017263930796338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoomPotion_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 24
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7785539599210c90800000000000000
+      internalID: -7205432206417361027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoomPotion_24
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 22
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55074125030eb4bb0800000000000000
+      internalID: -4950616867223605163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoomPotion_25
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 42
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e77641c22c11cc0800000000000000
+      internalID: -3741996320791495143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoomPotion_26
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 44
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697a832d7be7372f0800000000000000
+      internalID: -976297366238222442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoomPotion_27
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 27
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc265760c630500e0800000000000000
+      internalID: -2304431871830433073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoomPotion_28
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 31
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169149d06cd543c50800000000000000
+      internalID: 6644038455491041633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoomPotion_29
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 25
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739d2b4ad88b1c980800000000000000
+      internalID: -8520326101515183817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoomPotion_30
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 25
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e475b79079a7980800000000000000
+      internalID: -8540347676374905324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoomPotion_31
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 32
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4b1f72224dde6f0800000000000000
+      internalID: -653633127734725424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoomPotion_32
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 16
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e737dd666c3f802d0800000000000000
+      internalID: -3312129492476136578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoomPotion_33
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 20
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c39d166e90607450800000000000000
+      internalID: 6084469330011853766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BoomPotion_0: 551455567425981031
+      BoomPotion_1: 5103711758148367982
+      BoomPotion_10: 2829399404452685722
+      BoomPotion_11: -6568805586538896147
+      BoomPotion_12: -8535166248374769203
+      BoomPotion_13: -2607122678053722639
+      BoomPotion_14: -7865778724967539981
+      BoomPotion_15: 9042323840071755508
+      BoomPotion_16: 7026816565885582345
+      BoomPotion_17: -1812043643389759231
+      BoomPotion_18: -3148136043914893498
+      BoomPotion_19: 6772208856266105815
+      BoomPotion_2: -154283079473647611
+      BoomPotion_20: -3645737701479047689
+      BoomPotion_21: -6918046767907449307
+      BoomPotion_22: -4948017263930796338
+      BoomPotion_23: -7205432206417361027
+      BoomPotion_24: -4950616867223605163
+      BoomPotion_25: -3741996320791495143
+      BoomPotion_26: -976297366238222442
+      BoomPotion_27: -2304431871830433073
+      BoomPotion_28: 6644038455491041633
+      BoomPotion_29: -8520326101515183817
+      BoomPotion_3: -8298957343846863155
+      BoomPotion_30: -8540347676374905324
+      BoomPotion_31: -653633127734725424
+      BoomPotion_32: -3312129492476136578
+      BoomPotion_33: 6084469330011853766
+      BoomPotion_4: 8953887990945551480
+      BoomPotion_5: -106806470187825718
+      BoomPotion_6: -6207357267594774956
+      BoomPotion_7: 5140413014682068099
+      BoomPotion_8: 4709491742988086999
+      BoomPotion_9: 3729714060209094079
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -23,8 +23,8 @@
 
         public void FixedUpdate()
         {
-            Vector2 dir = (nonPlayer.targetPos - nonPlayer.rb.position).normalized;
-            float distance = Vector2.Distance(nonPlayer.rb.position, nonPlayer.targetPos);
+            Vector2 dir = (nonPlayer.TargetPos - nonPlayer.rb.position).normalized;
+            float distance = Vector2.Distance(nonPlayer.rb.position, nonPlayer.TargetPos);
             if (distance > 0.1f)
             {
                 nonPlayer.rb.MovePosition(nonPlayer.rb.position + dir * nonPlayer.currentSpeed * Time.fixedDeltaTime);

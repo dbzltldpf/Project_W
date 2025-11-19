@@ -2,6 +2,8 @@
 namespace S
 {
     using UnityEngine;
+    using UnityEngine.U2D.Animation;
+
     public class TestData
     { }
     public class ToolData
@@ -24,10 +26,12 @@ namespace S
     {
         public string name;
         public PotionType pointerType;
-        public PotionData(string name, PotionType type)
+        public SpriteLibraryAsset spriteAsset;
+        public PotionData(string name, PotionType type, SpriteLibraryAsset spriteAsset)
         {
             this.name = name;
             this.pointerType = type;
+            this.spriteAsset = spriteAsset;
         }
     }
 

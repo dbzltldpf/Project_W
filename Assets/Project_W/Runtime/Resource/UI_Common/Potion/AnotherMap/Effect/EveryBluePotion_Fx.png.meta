@@ -1,0 +1,2301 @@
+fileFormatVersion: 2
+guid: a1fca1a4b510eed4795688e7ec586320
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3567039121539361578
+    second: EveryBluePotion_Fx_0
+  - first:
+      213: -5656969758155768347
+    second: EveryBluePotion_Fx_1
+  - first:
+      213: 8056187948535194917
+    second: EveryBluePotion_Fx_2
+  - first:
+      213: 6269340752748018808
+    second: EveryBluePotion_Fx_3
+  - first:
+      213: 2633139725586768531
+    second: EveryBluePotion_Fx_4
+  - first:
+      213: 8938092345275905387
+    second: EveryBluePotion_Fx_5
+  - first:
+      213: -3247101900756659586
+    second: EveryBluePotion_Fx_6
+  - first:
+      213: 5249569547256437940
+    second: EveryBluePotion_Fx_7
+  - first:
+      213: -4471677702816452759
+    second: EveryBluePotion_Fx_8
+  - first:
+      213: 4473762337073422072
+    second: EveryBluePotion_Fx_9
+  - first:
+      213: 8723056777050276278
+    second: EveryBluePotion_Fx_10
+  - first:
+      213: -3910820195344432279
+    second: EveryBluePotion_Fx_11
+  - first:
+      213: 6557434255689080517
+    second: EveryBluePotion_Fx_12
+  - first:
+      213: 8821413117596832351
+    second: EveryBluePotion_Fx_13
+  - first:
+      213: 5050294062521176905
+    second: EveryBluePotion_Fx_14
+  - first:
+      213: -95942778970846157
+    second: EveryBluePotion_Fx_15
+  - first:
+      213: -69534099338988309
+    second: EveryBluePotion_Fx_16
+  - first:
+      213: 5069237949780297599
+    second: EveryBluePotion_Fx_17
+  - first:
+      213: -4653798462720236860
+    second: EveryBluePotion_Fx_18
+  - first:
+      213: -5534139542571233604
+    second: EveryBluePotion_Fx_19
+  - first:
+      213: 1737329604338406521
+    second: EveryBluePotion_Fx_20
+  - first:
+      213: -2838134065414524411
+    second: EveryBluePotion_Fx_21
+  - first:
+      213: 3658682403070281404
+    second: EveryBluePotion_Fx_22
+  - first:
+      213: -2762714436009187085
+    second: EveryBluePotion_Fx_23
+  - first:
+      213: 738649596151711420
+    second: EveryBluePotion_Fx_24
+  - first:
+      213: -2086224488108084624
+    second: EveryBluePotion_Fx_25
+  - first:
+      213: 7497577677977599264
+    second: EveryBluePotion_Fx_26
+  - first:
+      213: -1377888210628755402
+    second: EveryBluePotion_Fx_27
+  - first:
+      213: 2334529622609508928
+    second: EveryBluePotion_Fx_28
+  - first:
+      213: -1565751534497934686
+    second: EveryBluePotion_Fx_29
+  - first:
+      213: 547026150137417533
+    second: EveryBluePotion_Fx_30
+  - first:
+      213: 3262975169790078188
+    second: EveryBluePotion_Fx_31
+  - first:
+      213: 3883673304274452497
+    second: EveryBluePotion_Fx_32
+  - first:
+      213: -6533177641589984320
+    second: EveryBluePotion_Fx_33
+  - first:
+      213: -5647219157123730823
+    second: EveryBluePotion_Fx_34
+  - first:
+      213: -2746704070596630761
+    second: EveryBluePotion_Fx_35
+  - first:
+      213: -9055663831226907732
+    second: EveryBluePotion_Fx_36
+  - first:
+      213: 2389089664791305798
+    second: EveryBluePotion_Fx_37
+  - first:
+      213: -3060271123134605555
+    second: EveryBluePotion_Fx_38
+  - first:
+      213: 2828497386592874450
+    second: EveryBluePotion_Fx_39
+  - first:
+      213: 9105528244539822286
+    second: EveryBluePotion_Fx_40
+  - first:
+      213: 633189842634755085
+    second: EveryBluePotion_Fx_41
+  - first:
+      213: -766150904423880856
+    second: EveryBluePotion_Fx_42
+  - first:
+      213: 6447896188064908219
+    second: EveryBluePotion_Fx_43
+  - first:
+      213: -8952367617918815223
+    second: EveryBluePotion_Fx_44
+  - first:
+      213: -1200455632880079062
+    second: EveryBluePotion_Fx_45
+  - first:
+      213: 4152203630552142751
+    second: EveryBluePotion_Fx_46
+  - first:
+      213: -4114108869448257367
+    second: EveryBluePotion_Fx_47
+  - first:
+      213: -8114822615473729446
+    second: EveryBluePotion_Fx_48
+  - first:
+      213: 3463815269981484439
+    second: EveryBluePotion_Fx_49
+  - first:
+      213: 9197373680586856529
+    second: EveryBluePotion_Fx_50
+  - first:
+      213: -7221380590431685298
+    second: EveryBluePotion_Fx_51
+  - first:
+      213: 4898624989338441884
+    second: EveryBluePotion_Fx_52
+  - first:
+      213: 1358270680888563742
+    second: EveryBluePotion_Fx_53
+  - first:
+      213: 3195229782039793491
+    second: EveryBluePotion_Fx_54
+  - first:
+      213: 7364739015419134002
+    second: EveryBluePotion_Fx_55
+  - first:
+      213: -5152057843882934223
+    second: EveryBluePotion_Fx_56
+  - first:
+      213: 8855025757100043894
+    second: EveryBluePotion_Fx_57
+  - first:
+      213: 8528770711649772669
+    second: EveryBluePotion_Fx_58
+  - first:
+      213: -6582740545235477822
+    second: EveryBluePotion_Fx_59
+  - first:
+      213: -5228131659508473332
+    second: EveryBluePotion_Fx_60
+  - first:
+      213: -7932355403062180516
+    second: EveryBluePotion_Fx_61
+  - first:
+      213: -5364608228437942941
+    second: EveryBluePotion_Fx_62
+  - first:
+      213: -681953468970622566
+    second: EveryBluePotion_Fx_63
+  - first:
+      213: -1710158815844969604
+    second: EveryBluePotion_Fx_64
+  - first:
+      213: 76853809197732182
+    second: EveryBluePotion_Fx_65
+  - first:
+      213: -2617471251477226937
+    second: EveryBluePotion_Fx_66
+  - first:
+      213: -4978984127639467280
+    second: EveryBluePotion_Fx_67
+  - first:
+      213: 7335748022778877468
+    second: EveryBluePotion_Fx_68
+  - first:
+      213: -7609998877173770450
+    second: EveryBluePotion_Fx_69
+  - first:
+      213: 2044531783463251699
+    second: EveryBluePotion_Fx_70
+  - first:
+      213: -4821962168602135624
+    second: EveryBluePotion_Fx_71
+  - first:
+      213: 545671670970126344
+    second: EveryBluePotion_Fx_72
+  - first:
+      213: 6235563628718433248
+    second: EveryBluePotion_Fx_73
+  - first:
+      213: -1599786998962014516
+    second: EveryBluePotion_Fx_74
+  - first:
+      213: -5373319131068241243
+    second: EveryBluePotion_Fx_75
+  - first:
+      213: -7280044624266081868
+    second: EveryBluePotion_Fx_76
+  - first:
+      213: -4950179702301963677
+    second: EveryBluePotion_Fx_77
+  - first:
+      213: -877804509160978419
+    second: EveryBluePotion_Fx_78
+  - first:
+      213: -7197416982049259669
+    second: EveryBluePotion_Fx_79
+  - first:
+      213: 3799870386784044363
+    second: EveryBluePotion_Fx_80
+  - first:
+      213: -1835949020263347958
+    second: EveryBluePotion_Fx_81
+  - first:
+      213: 3503225239329397110
+    second: EveryBluePotion_Fx_82
+  - first:
+      213: 5232777812857255576
+    second: EveryBluePotion_Fx_83
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_0
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 241
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b664b9e2ba08130800000000000000
+      internalID: 3567039121539361578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_1
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 243
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed7ff31af76e71b0800000000000000
+      internalID: -5656969758155768347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_2
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 238
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525293471445dcf60800000000000000
+      internalID: 8056187948535194917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 216
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87cfc6fb23c210750800000000000000
+      internalID: 6269340752748018808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_4
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 217
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392a19321aaca8420800000000000000
+      internalID: 2633139725586768531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_5
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 221
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65fec9c1ab7a0c70800000000000000
+      internalID: 8938092345275905387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_6
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 223
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7257ef660affe2d0800000000000000
+      internalID: -3247101900756659586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_7
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 210
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc9de790b73ad840800000000000000
+      internalID: 5249569547256437940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_8
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 200
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f279d32d861f1c0800000000000000
+      internalID: -4471677702816452759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_9
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 200
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe58ce742ff51e30800000000000000
+      internalID: 4473762337073422072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_10
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 196
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b145a70ce58e0970800000000000000
+      internalID: 8723056777050276278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_11
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 171
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9634214b0c9f9b9c0800000000000000
+      internalID: -3910820195344432279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_12
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 179
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce535876bfa00b50800000000000000
+      internalID: 6557434255689080517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 171
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52945b1e74fb6a70800000000000000
+      internalID: 8821413117596832351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_14
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 133
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943d6d731bf361640800000000000000
+      internalID: 5050294062521176905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_15
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 178
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ccda40d842baef0800000000000000
+      internalID: -95942778970846157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_16
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 175
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be47f15ea17f80ff0800000000000000
+      internalID: -69534099338988309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_17
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 130
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77859eae0d895640800000000000000
+      internalID: 5069237949780297599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_18
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 149
+        width: 57
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c22d4d74f26a6fb0800000000000000
+      internalID: -4653798462720236860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_19
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 165
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe499b3869c233b0800000000000000
+      internalID: -5534139542571233604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_20
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 164
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9745c54021c3c1810800000000000000
+      internalID: 1737329604338406521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_21
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 132
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5023806ca1cec98d0800000000000000
+      internalID: -2838134065414524411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_22
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 132
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb60af4d24046c230800000000000000
+      internalID: 3658682403070281404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_23
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 130
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f824d1abddd8a9d0800000000000000
+      internalID: -2762714436009187085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 137
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6cb18e4e5304a00800000000000000
+      internalID: 738649596151711420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_25
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 143
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072b890a1ed3c03e0800000000000000
+      internalID: -2086224488108084624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_26
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 134
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02db0cb9c2fbc0860800000000000000
+      internalID: 7497577677977599264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_27
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 130
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630464909f1c0ece0800000000000000
+      internalID: -1377888210628755402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_28
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 134
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a3449a25ae56020800000000000000
+      internalID: 2334529622609508928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_29
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 131
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a25abb6645554ae0800000000000000
+      internalID: -1565751534497934686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 77
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f4ac1a26d679700800000000000000
+      internalID: 547026150137417533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_31
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 118
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cece14201aa684d20800000000000000
+      internalID: 3262975169790078188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_32
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 104
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11042fc2b4495e530800000000000000
+      internalID: 3883673304274452497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_33
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 84
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3318a9c8d7555a0800000000000000
+      internalID: -6533177641589984320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_34
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 116
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972fbdac81c01a1b0800000000000000
+      internalID: -5647219157123730823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_35
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 99
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717e7f0533fb1e9d0800000000000000
+      internalID: -2746704070596630761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_36
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 83
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca30e5679b1d35280800000000000000
+      internalID: -9055663831226907732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_37
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 118
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e51766460c72120800000000000000
+      internalID: 2389089664791305798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_38
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 96
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d071d25a0abb785d0800000000000000
+      internalID: -3060271123134605555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_39
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 113
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df2df71367d04720800000000000000
+      internalID: 2828497386592874450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_40
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 118
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0151cf1b55d5e70800000000000000
+      internalID: 9105528244539822286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_41
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 116
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c41ad9eca89c800800000000000000
+      internalID: 633189842634755085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_42
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 94
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8676879cfc51e55f0800000000000000
+      internalID: -766150904423880856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_43
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 100
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3443eab678b7950800000000000000
+      internalID: 6447896188064908219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_44
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 65
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9043d3b451dc2c380800000000000000
+      internalID: -8952367617918815223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_45
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 69
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2fe09156ff175fe0800000000000000
+      internalID: -1200455632880079062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_46
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 74
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93d522e3379f9930800000000000000
+      internalID: 4152203630552142751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_47
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 87
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0b04dd7cfb7e6c0800000000000000
+      internalID: -4114108869448257367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_48
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 80
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50d16d43db526f80800000000000000
+      internalID: -8114822615473729446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_49
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 73
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795f1dec2a1f11030800000000000000
+      internalID: 3463815269981484439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_50
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 66
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15818e9f1a2a3af70800000000000000
+      internalID: 9197373680586856529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_51
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 68
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e453b6f0d9088cb90800000000000000
+      internalID: -7221380590431685298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_52
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 66
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c989e5949796bf340800000000000000
+      internalID: 4898624989338441884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_53
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 67
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18d033ecfb89d210800000000000000
+      internalID: 1358270680888563742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_54
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 67
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f0b36ce8cb75c20800000000000000
+      internalID: 3195229782039793491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_55
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 68
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230848d4d1fc43660800000000000000
+      internalID: 7364739015419134002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_56
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 68
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130c71110b63088b0800000000000000
+      internalID: -5152057843882934223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_57
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 66
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ee1e8920f53ea70800000000000000
+      internalID: 8855025757100043894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_58
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 48
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74e3ae56c74c5670800000000000000
+      internalID: 8528770711649772669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_59
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 26
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca9da8d95865a4a0800000000000000
+      internalID: -6582740545235477822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_60
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 49
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02260c94f1f177b0800000000000000
+      internalID: -5228131659508473332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_61
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 52
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c550450d9cc9ae190800000000000000
+      internalID: -7932355403062180516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_62
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 47
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d91d83d351d85b0800000000000000
+      internalID: -5364608228437942941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_63
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 50
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9129a0eee63986f0800000000000000
+      internalID: -681953468970622566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_64
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 54
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73de082e9b4448e0800000000000000
+      internalID: -1710158815844969604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_65
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 45
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651dddcd12a011100800000000000000
+      internalID: 76853809197732182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_66
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 44
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a17e5c3cfdcabd0800000000000000
+      internalID: -2617471251477226937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_67
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 35
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0facdb1d05817eab0800000000000000
+      internalID: -4978984127639467280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_68
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 46
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c165283d5ffcdc560800000000000000
+      internalID: 7335748022778877468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_69
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 39
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e279fe8375ad36690800000000000000
+      internalID: -7609998877173770450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_70
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 35
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fea25d13d2af5c10800000000000000
+      internalID: 2044531783463251699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_71
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 29
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3f81c94f2f41db0800000000000000
+      internalID: -4821962168602135624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_72
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 35
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8001b206e7d929700800000000000000
+      internalID: 545671670970126344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_73
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 31
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3ab18351c298650800000000000000
+      internalID: 6235563628718433248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_74
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 15
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6b492533a6cc9e0800000000000000
+      internalID: -1599786998962014516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_75
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aaedd728b22e65b0800000000000000
+      internalID: -5373319131068241243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_76
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 27
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9c0ad4cf518fa90800000000000000
+      internalID: -7280044624266081868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_77
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 18
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a41f5b9cd6d4bb0800000000000000
+      internalID: -4950179702301963677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_78
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 23
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d084931237961d3f0800000000000000
+      internalID: -877804509160978419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_79
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 5
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ff69c6363ad1c90800000000000000
+      internalID: -7197416982049259669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_80
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 4
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b450ac4fbf9dbb430800000000000000
+      internalID: 3799870386784044363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_81
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 6
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a090a75e7166586e0800000000000000
+      internalID: -1835949020263347958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_82
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 3
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67959665bc4fd9030800000000000000
+      internalID: 3503225239329397110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryBluePotion_Fx_83
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 2
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896f6e342bf8e9840800000000000000
+      internalID: 5232777812857255576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      EveryBluePotion_Fx_0: 3567039121539361578
+      EveryBluePotion_Fx_1: -5656969758155768347
+      EveryBluePotion_Fx_10: 8723056777050276278
+      EveryBluePotion_Fx_11: -3910820195344432279
+      EveryBluePotion_Fx_12: 6557434255689080517
+      EveryBluePotion_Fx_13: 8821413117596832351
+      EveryBluePotion_Fx_14: 5050294062521176905
+      EveryBluePotion_Fx_15: -95942778970846157
+      EveryBluePotion_Fx_16: -69534099338988309
+      EveryBluePotion_Fx_17: 5069237949780297599
+      EveryBluePotion_Fx_18: -4653798462720236860
+      EveryBluePotion_Fx_19: -5534139542571233604
+      EveryBluePotion_Fx_2: 8056187948535194917
+      EveryBluePotion_Fx_20: 1737329604338406521
+      EveryBluePotion_Fx_21: -2838134065414524411
+      EveryBluePotion_Fx_22: 3658682403070281404
+      EveryBluePotion_Fx_23: -2762714436009187085
+      EveryBluePotion_Fx_24: 738649596151711420
+      EveryBluePotion_Fx_25: -2086224488108084624
+      EveryBluePotion_Fx_26: 7497577677977599264
+      EveryBluePotion_Fx_27: -1377888210628755402
+      EveryBluePotion_Fx_28: 2334529622609508928
+      EveryBluePotion_Fx_29: -1565751534497934686
+      EveryBluePotion_Fx_3: 6269340752748018808
+      EveryBluePotion_Fx_30: 547026150137417533
+      EveryBluePotion_Fx_31: 3262975169790078188
+      EveryBluePotion_Fx_32: 3883673304274452497
+      EveryBluePotion_Fx_33: -6533177641589984320
+      EveryBluePotion_Fx_34: -5647219157123730823
+      EveryBluePotion_Fx_35: -2746704070596630761
+      EveryBluePotion_Fx_36: -9055663831226907732
+      EveryBluePotion_Fx_37: 2389089664791305798
+      EveryBluePotion_Fx_38: -3060271123134605555
+      EveryBluePotion_Fx_39: 2828497386592874450
+      EveryBluePotion_Fx_4: 2633139725586768531
+      EveryBluePotion_Fx_40: 9105528244539822286
+      EveryBluePotion_Fx_41: 633189842634755085
+      EveryBluePotion_Fx_42: -766150904423880856
+      EveryBluePotion_Fx_43: 6447896188064908219
+      EveryBluePotion_Fx_44: -8952367617918815223
+      EveryBluePotion_Fx_45: -1200455632880079062
+      EveryBluePotion_Fx_46: 4152203630552142751
+      EveryBluePotion_Fx_47: -4114108869448257367
+      EveryBluePotion_Fx_48: -8114822615473729446
+      EveryBluePotion_Fx_49: 3463815269981484439
+      EveryBluePotion_Fx_5: 8938092345275905387
+      EveryBluePotion_Fx_50: 9197373680586856529
+      EveryBluePotion_Fx_51: -7221380590431685298
+      EveryBluePotion_Fx_52: 4898624989338441884
+      EveryBluePotion_Fx_53: 1358270680888563742
+      EveryBluePotion_Fx_54: 3195229782039793491
+      EveryBluePotion_Fx_55: 7364739015419134002
+      EveryBluePotion_Fx_56: -5152057843882934223
+      EveryBluePotion_Fx_57: 8855025757100043894
+      EveryBluePotion_Fx_58: 8528770711649772669
+      EveryBluePotion_Fx_59: -6582740545235477822
+      EveryBluePotion_Fx_6: -3247101900756659586
+      EveryBluePotion_Fx_60: -5228131659508473332
+      EveryBluePotion_Fx_61: -7932355403062180516
+      EveryBluePotion_Fx_62: -5364608228437942941
+      EveryBluePotion_Fx_63: -681953468970622566
+      EveryBluePotion_Fx_64: -1710158815844969604
+      EveryBluePotion_Fx_65: 76853809197732182
+      EveryBluePotion_Fx_66: -2617471251477226937
+      EveryBluePotion_Fx_67: -4978984127639467280
+      EveryBluePotion_Fx_68: 7335748022778877468
+      EveryBluePotion_Fx_69: -7609998877173770450
+      EveryBluePotion_Fx_7: 5249569547256437940
+      EveryBluePotion_Fx_70: 2044531783463251699
+      EveryBluePotion_Fx_71: -4821962168602135624
+      EveryBluePotion_Fx_72: 545671670970126344
+      EveryBluePotion_Fx_73: 6235563628718433248
+      EveryBluePotion_Fx_74: -1599786998962014516
+      EveryBluePotion_Fx_75: -5373319131068241243
+      EveryBluePotion_Fx_76: -7280044624266081868
+      EveryBluePotion_Fx_77: -4950179702301963677
+      EveryBluePotion_Fx_78: -877804509160978419
+      EveryBluePotion_Fx_79: -7197416982049259669
+      EveryBluePotion_Fx_8: -4471677702816452759
+      EveryBluePotion_Fx_80: 3799870386784044363
+      EveryBluePotion_Fx_81: -1835949020263347958
+      EveryBluePotion_Fx_82: 3503225239329397110
+      EveryBluePotion_Fx_83: 5232777812857255576
+      EveryBluePotion_Fx_9: 4473762337073422072
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 0f03e9eac36032649acb2862f452b3b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7974836830465919517
+    second: StarJuice_Silver_0
+  - first:
+      213: 4709939802189471892
+    second: StarJuice_Silver_1
+  - first:
+      213: 3102543370964675353
+    second: StarJuice_Silver_2
+  - first:
+      213: 1490515246689259417
+    second: StarJuice_Silver_3
+  - first:
+      213: 6265258841958558729
+    second: StarJuice_Silver_4
+  - first:
+      213: -3900076460908364748
+    second: StarJuice_Silver_5
+  - first:
+      213: 7748325686846071212
+    second: StarJuice_Silver_6
+  - first:
+      213: 6238959775665626721
+    second: StarJuice_Silver_7
+  - first:
+      213: -5778648249800850368
+    second: StarJuice_Silver_8
+  - first:
+      213: 8290065166168174278
+    second: StarJuice_Silver_9
+  - first:
+      213: 1171979183350692950
+    second: StarJuice_Silver_10
+  - first:
+      213: -5310802208806018965
+    second: StarJuice_Silver_11
+  - first:
+      213: -7495482246189626923
+    second: StarJuice_Silver_12
+  - first:
+      213: -7126813687420224616
+    second: StarJuice_Silver_13
+  - first:
+      213: 3961184110674563730
+    second: StarJuice_Silver_14
+  - first:
+      213: 5625400497950975234
+    second: StarJuice_Silver_15
+  - first:
+      213: -3876723315191100126
+    second: StarJuice_Silver_16
+  - first:
+      213: 2553174640107468547
+    second: StarJuice_Silver_17
+  - first:
+      213: -6274777958839524116
+    second: StarJuice_Silver_18
+  - first:
+      213: 303258428924196151
+    second: StarJuice_Silver_19
+  - first:
+      213: -2332211403703670112
+    second: StarJuice_Silver_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StarJuice_Silver_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 231
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a8f9548df4cae60800000000000000
+      internalID: 7974836830465919517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarJuice_Silver_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 224
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4902af6bb411d5140800000000000000
+      internalID: 4709939802189471892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarJuice_Silver_2
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 213
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ba79602c27e0b20800000000000000
+      internalID: 3102543370964675353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarJuice_Silver_3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 212
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f873348bf5fa410800000000000000
+      internalID: 1490515246689259417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarJuice_Silver_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 174
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ca0d4d8bba2f650800000000000000
+      internalID: 6265258841958558729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarJuice_Silver_5
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 173
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43cb1be4f1520e9c0800000000000000
+      internalID: -3900076460908364748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarJuice_Silver_6
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 174
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1ae78e825978b60800000000000000
+      internalID: 7748325686846071212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarJuice_Silver_7
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 174
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e108c4cdc359650800000000000000
+      internalID: 6238959775665626721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarJuice_Silver_8
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 173
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04400bc880e1ecfa0800000000000000
+      internalID: -5778648249800850368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarJuice_Silver_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 124
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce2b42985a3c0370800000000000000
+      internalID: 8290065166168174278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarJuice_Silver_10
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 124
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c35cb9bd4b34010800000000000000
+      internalID: 1171979183350692950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarJuice_Silver_11
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 123
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60e1c7678d3c46b0800000000000000
+      internalID: -5310802208806018965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarJuice_Silver_12
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 124
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9ce9f1c92baf790800000000000000
+      internalID: -7495482246189626923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarJuice_Silver_13
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 124
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89bfce4f5b8781d90800000000000000
+      internalID: -7126813687420224616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarJuice_Silver_14
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 73
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292ddae16f3f8f630800000000000000
+      internalID: 3961184110674563730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarJuice_Silver_15
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 74
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2056cafb2ff611e40800000000000000
+      internalID: 5625400497950975234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarJuice_Silver_16
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 74
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d4f814fac133ac0800000000000000
+      internalID: -3876723315191100126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarJuice_Silver_17
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 73
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3073421dec2be6320800000000000000
+      internalID: 2553174640107468547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarJuice_Silver_18
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 74
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce46bee01b28be8a0800000000000000
+      internalID: -6274777958839524116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarJuice_Silver_19
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 24
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7357b233fe3653400800000000000000
+      internalID: 303258428924196151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarJuice_Silver_20
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 22
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aaa02db51252afd0800000000000000
+      internalID: -2332211403703670112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      StarJuice_Silver_0: 7974836830465919517
+      StarJuice_Silver_1: 4709939802189471892
+      StarJuice_Silver_10: 1171979183350692950
+      StarJuice_Silver_11: -5310802208806018965
+      StarJuice_Silver_12: -7495482246189626923
+      StarJuice_Silver_13: -7126813687420224616
+      StarJuice_Silver_14: 3961184110674563730
+      StarJuice_Silver_15: 5625400497950975234
+      StarJuice_Silver_16: -3876723315191100126
+      StarJuice_Silver_17: 2553174640107468547
+      StarJuice_Silver_18: -6274777958839524116
+      StarJuice_Silver_19: 303258428924196151
+      StarJuice_Silver_2: 3102543370964675353
+      StarJuice_Silver_20: -2332211403703670112
+      StarJuice_Silver_3: 1490515246689259417
+      StarJuice_Silver_4: 6265258841958558729
+      StarJuice_Silver_5: -3900076460908364748
+      StarJuice_Silver_6: 7748325686846071212
+      StarJuice_Silver_7: 6238959775665626721
+      StarJuice_Silver_8: -5778648249800850368
+      StarJuice_Silver_9: 8290065166168174278
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

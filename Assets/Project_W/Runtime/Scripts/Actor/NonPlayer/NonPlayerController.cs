@@ -23,9 +23,9 @@
         public bool isMovable;
 
         public NonPlayerStates state;
-        float radius = 1f;
-        public Vector2 targetPos;
-        public Vector2 anchorPos;
+        private float radius = 1f;
+        public Vector2 TargetPos { get; private set; }
+        private Vector2 anchorPos;
 
         //직접 끌어다 넣음
         public List<ToolType> availableInteractions = new List<ToolType>();
@@ -90,7 +90,7 @@
             else
             {
                 //Random.insideUnitCircle(0.0중심으로 반지름 안에 랜덤한 점 반환)
-                targetPos = anchorPos + Random.insideUnitCircle * radius;
+                TargetPos = anchorPos + Random.insideUnitCircle * radius;
             }
         }
 

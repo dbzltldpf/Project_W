@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: acc29f57f06f28d4187a8b515d800cf7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -362875927508204054
+    second: NutritionPotion_0
+  - first:
+      213: 8303564196727919451
+    second: NutritionPotion_1
+  - first:
+      213: -6190075774279797726
+    second: NutritionPotion_2
+  - first:
+      213: 3320923991868912073
+    second: NutritionPotion_3
+  - first:
+      213: 2321005266105924690
+    second: NutritionPotion_4
+  - first:
+      213: -3723911692350488439
+    second: NutritionPotion_5
+  - first:
+      213: -9184855148216872940
+    second: NutritionPotion_6
+  - first:
+      213: -6660587476338597283
+    second: NutritionPotion_7
+  - first:
+      213: 8578692952862355096
+    second: NutritionPotion_8
+  - first:
+      213: 1406231054204992106
+    second: NutritionPotion_9
+  - first:
+      213: -1363562511098901730
+    second: NutritionPotion_10
+  - first:
+      213: 4950493824470570325
+    second: NutritionPotion_11
+  - first:
+      213: 8393449464136432513
+    second: NutritionPotion_12
+  - first:
+      213: -3015194139616159603
+    second: NutritionPotion_13
+  - first:
+      213: 6038860823236263390
+    second: NutritionPotion_14
+  - first:
+      213: -4110537621461269983
+    second: NutritionPotion_15
+  - first:
+      213: -6833768282695136943
+    second: NutritionPotion_16
+  - first:
+      213: -4273023865847502572
+    second: NutritionPotion_17
+  - first:
+      213: 4169051548375037334
+    second: NutritionPotion_18
+  - first:
+      213: 7184205652755504787
+    second: NutritionPotion_19
+  - first:
+      213: 6874160918574113144
+    second: NutritionPotion_20
+  - first:
+      213: -7936778361315747162
+    second: NutritionPotion_21
+  - first:
+      213: -2090825537885339077
+    second: NutritionPotion_22
+  - first:
+      213: -7009185134048725863
+    second: NutritionPotion_23
+  - first:
+      213: 3927623477584913665
+    second: NutritionPotion_24
+  - first:
+      213: 5152611137388732521
+    second: NutritionPotion_25
+  - first:
+      213: -6608893885512186824
+    second: NutritionPotion_26
+  - first:
+      213: -3697517184595739447
+    second: NutritionPotion_27
+  - first:
+      213: -3934288856282052424
+    second: NutritionPotion_28
+  - first:
+      213: 527667545459039840
+    second: NutritionPotion_29
+  - first:
+      213: -6947842025763400711
+    second: NutritionPotion_30
+  - first:
+      213: -1597592207949029520
+    second: NutritionPotion_31
+  - first:
+      213: -6731820609347344258
+    second: NutritionPotion_32
+  - first:
+      213: -8263003236963549074
+    second: NutritionPotion_33
+  - first:
+      213: 5357032132348936051
+    second: NutritionPotion_34
+  - first:
+      213: -1395483998698499212
+    second: NutritionPotion_35
+  - first:
+      213: -3437070731103682151
+    second: NutritionPotion_36
+  - first:
+      213: -2109548648310692548
+    second: NutritionPotion_37
+  - first:
+      213: -6950437704169471269
+    second: NutritionPotion_38
+  - first:
+      213: -6031153572865521887
+    second: NutritionPotion_39
+  - first:
+      213: -3486541465727900697
+    second: NutritionPotion_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NutritionPotion_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 152
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5455b344ec6faf0800000000000000
+      internalID: -362875927508204054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NutritionPotion_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 154
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b539e9b84af2c3370800000000000000
+      internalID: 8303564196727919451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NutritionPotion_2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 157
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2243d4531ee681aa0800000000000000
+      internalID: -6190075774279797726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NutritionPotion_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 155
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c13b6d86ca461e20800000000000000
+      internalID: 3320923991868912073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NutritionPotion_4
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 120
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25cfd080efdd53020800000000000000
+      internalID: 2321005266105924690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NutritionPotion_5
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 120
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9808682cb02025cc0800000000000000
+      internalID: -3723911692350488439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NutritionPotion_6
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 106
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4109d19f7e6d88080800000000000000
+      internalID: -9184855148216872940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NutritionPotion_7
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 67
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d522c65caf6d093a0800000000000000
+      internalID: -6660587476338597283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NutritionPotion_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 111
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ee18ce9c3ad0770800000000000000
+      internalID: 8578692952862355096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NutritionPotion_9
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 67
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6af20a71bfe38310800000000000000
+      internalID: 1406231054204992106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NutritionPotion_10
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 111
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b09e0ee17a31de0800000000000000
+      internalID: -1363562511098901730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NutritionPotion_11
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 108
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555555e87efa3b440800000000000000
+      internalID: 4950493824470570325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NutritionPotion_12
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 78
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b7b0631d58b7470800000000000000
+      internalID: 8393449464136432513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NutritionPotion_13
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 113
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88d65bb7e0e726d0800000000000000
+      internalID: -3015194139616159603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NutritionPotion_14
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 109
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd35096ce75ec350800000000000000
+      internalID: 6038860823236263390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NutritionPotion_15
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 84
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1220ce4dfcf64f6c0800000000000000
+      internalID: -4110537621461269983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NutritionPotion_16
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 84
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15900a824f39921a0800000000000000
+      internalID: -6833768282695136943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NutritionPotion_17
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 84
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419a467fe6b23b4c0800000000000000
+      internalID: -4273023865847502572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NutritionPotion_18
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 99
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695bf2f6b427bd930800000000000000
+      internalID: 4169051548375037334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NutritionPotion_19
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 83
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e58d54afc63b360800000000000000
+      internalID: 7184205652755504787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NutritionPotion_20
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 88
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871ab704fece56f50800000000000000
+      internalID: 6874160918574113144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NutritionPotion_21
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 77
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa94c89126ead190800000000000000
+      internalID: -7936778361315747162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NutritionPotion_22
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 73
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32870f3045ebf2e0800000000000000
+      internalID: -2090825537885339077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NutritionPotion_23
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 76
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994b310c14f5abe90800000000000000
+      internalID: -7009185134048725863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NutritionPotion_24
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 70
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105eee05eb8b18630800000000000000
+      internalID: 3927623477584913665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NutritionPotion_25
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 68
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960e6cd9780c18740800000000000000
+      internalID: 5152611137388732521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NutritionPotion_26
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 56
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8348bcbc60e7844a0800000000000000
+      internalID: -6608893885512186824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NutritionPotion_27
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 63
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ccb44df5b7cfacc0800000000000000
+      internalID: -3697517184595739447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NutritionPotion_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 8
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8c78541299669c0800000000000000
+      internalID: -3934288856282052424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NutritionPotion_29
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 42
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e969e36d6a25700800000000000000
+      internalID: 527667545459039840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NutritionPotion_30
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 50
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f397d22d7e449f90800000000000000
+      internalID: -6947842025763400711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NutritionPotion_31
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 44
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f144de95634d9e0800000000000000
+      internalID: -1597592207949029520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NutritionPotion_32
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 25
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78a23092d4c392a0800000000000000
+      internalID: -6731820609347344258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NutritionPotion_33
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 6
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6082e2d55ae35d80800000000000000
+      internalID: -8263003236963549074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NutritionPotion_34
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 27
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ff2037750085a40800000000000000
+      internalID: 5357032132348936051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NutritionPotion_35
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 23
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47395df52be32ace0800000000000000
+      internalID: -1395483998698499212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NutritionPotion_36
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 26
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9914ca461621d40d0800000000000000
+      internalID: -3437070731103682151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NutritionPotion_37
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 5
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3529056ea069b2e0800000000000000
+      internalID: -2109548648310692548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NutritionPotion_38
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd24f79abb51b8f90800000000000000
+      internalID: -6950437704169471269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NutritionPotion_39
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 7
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127c587a7c90d4ca0800000000000000
+      internalID: -6031153572865521887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NutritionPotion_40
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 0
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e36e9862015d9fc0800000000000000
+      internalID: -3486541465727900697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NutritionPotion_0: -362875927508204054
+      NutritionPotion_1: 8303564196727919451
+      NutritionPotion_10: -1363562511098901730
+      NutritionPotion_11: 4950493824470570325
+      NutritionPotion_12: 8393449464136432513
+      NutritionPotion_13: -3015194139616159603
+      NutritionPotion_14: 6038860823236263390
+      NutritionPotion_15: -4110537621461269983
+      NutritionPotion_16: -6833768282695136943
+      NutritionPotion_17: -4273023865847502572
+      NutritionPotion_18: 4169051548375037334
+      NutritionPotion_19: 7184205652755504787
+      NutritionPotion_2: -6190075774279797726
+      NutritionPotion_20: 6874160918574113144
+      NutritionPotion_21: -7936778361315747162
+      NutritionPotion_22: -2090825537885339077
+      NutritionPotion_23: -7009185134048725863
+      NutritionPotion_24: 3927623477584913665
+      NutritionPotion_25: 5152611137388732521
+      NutritionPotion_26: -6608893885512186824
+      NutritionPotion_27: -3697517184595739447
+      NutritionPotion_28: -3934288856282052424
+      NutritionPotion_29: 527667545459039840
+      NutritionPotion_3: 3320923991868912073
+      NutritionPotion_30: -6947842025763400711
+      NutritionPotion_31: -1597592207949029520
+      NutritionPotion_32: -6731820609347344258
+      NutritionPotion_33: -8263003236963549074
+      NutritionPotion_34: 5357032132348936051
+      NutritionPotion_35: -1395483998698499212
+      NutritionPotion_36: -3437070731103682151
+      NutritionPotion_37: -2109548648310692548
+      NutritionPotion_38: -6950437704169471269
+      NutritionPotion_39: -6031153572865521887
+      NutritionPotion_4: 2321005266105924690
+      NutritionPotion_40: -3486541465727900697
+      NutritionPotion_5: -3723911692350488439
+      NutritionPotion_6: -9184855148216872940
+      NutritionPotion_7: -6660587476338597283
+      NutritionPotion_8: 8578692952862355096
+      NutritionPotion_9: 1406231054204992106
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 020189d3ecdf689439fd4af65187a827
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8790157454713439178
+    second: MoonTear_0
+  - first:
+      213: 7533768858578128735
+    second: MoonTear_1
+  - first:
+      213: 6400884817635423927
+    second: MoonTear_2
+  - first:
+      213: 7904181603054248642
+    second: MoonTear_3
+  - first:
+      213: -6952315322251944947
+    second: MoonTear_4
+  - first:
+      213: -8280589379911595245
+    second: MoonTear_5
+  - first:
+      213: 8873675020400843396
+    second: MoonTear_6
+  - first:
+      213: -1186265588609985473
+    second: MoonTear_7
+  - first:
+      213: -3893329425094775936
+    second: MoonTear_8
+  - first:
+      213: -2298962376172324412
+    second: MoonTear_9
+  - first:
+      213: -9045218712114873884
+    second: MoonTear_10
+  - first:
+      213: 1746261004757777392
+    second: MoonTear_11
+  - first:
+      213: 9137571394740240461
+    second: MoonTear_12
+  - first:
+      213: 619698408792376505
+    second: MoonTear_13
+  - first:
+      213: -3382771774940431415
+    second: MoonTear_14
+  - first:
+      213: 7017774318814567933
+    second: MoonTear_15
+  - first:
+      213: -810216410071400506
+    second: MoonTear_16
+  - first:
+      213: 3821674267539632726
+    second: MoonTear_17
+  - first:
+      213: 9129468538229002182
+    second: MoonTear_18
+  - first:
+      213: 2667579372878265361
+    second: MoonTear_19
+  - first:
+      213: -2301401939687182354
+    second: MoonTear_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MoonTear_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 167
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63cbd000e56130680800000000000000
+      internalID: -8790157454713439178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonTear_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 173
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f037b7cd25d8860800000000000000
+      internalID: 7533768858578128735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonTear_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 166
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6b95b04d284d850800000000000000
+      internalID: 6400884817635423927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonTear_3
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 163
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2e9323a4b41bd60800000000000000
+      internalID: 7904181603054248642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonTear_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0cdaa2ac0a648f90800000000000000
+      internalID: -6952315322251944947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonTear_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 174
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b4f77d4df651d80800000000000000
+      internalID: -8280589379911595245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonTear_6
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 160
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48adf339a60a52b70800000000000000
+      internalID: 8873675020400843396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonTear_7
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 178
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34d1a57bb9898fe0800000000000000
+      internalID: -1186265588609985473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonTear_8
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 163
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b66aff38d18f9c0800000000000000
+      internalID: -3893329425094775936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonTear_9
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 178
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9b24836e17810e0800000000000000
+      internalID: -2298962376172324412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonTear_10
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 160
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e93da4418de87280800000000000000
+      internalID: -9045218712114873884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonTear_11
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 160
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb34b9b127fb3810800000000000000
+      internalID: 1746261004757777392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonTear_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 111
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40434545cc2fce70800000000000000
+      internalID: 9137571394740240461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonTear_13
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 117
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4c1f36b6c999800800000000000000
+      internalID: 619698408792376505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonTear_14
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 115
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb357e4efafd01d0800000000000000
+      internalID: -3382771774940431415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonTear_15
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 114
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd1dcaaf84246160800000000000000
+      internalID: 7017774318814567933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonTear_16
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 11
+        width: 24
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf708eb77881c4f0800000000000000
+      internalID: -810216410071400506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonTear_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 61
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65273fb8f70590530800000000000000
+      internalID: 3821674267539632726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonTear_18
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 56
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf8e39f34362be70800000000000000
+      internalID: 9129468538229002182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonTear_19
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 55
+        width: 65
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c71926e45250520800000000000000
+      internalID: 2667579372878265361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonTear_20
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 55
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefec831127cf00e0800000000000000
+      internalID: -2301401939687182354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MoonTear_0: -8790157454713439178
+      MoonTear_1: 7533768858578128735
+      MoonTear_10: -9045218712114873884
+      MoonTear_11: 1746261004757777392
+      MoonTear_12: 9137571394740240461
+      MoonTear_13: 619698408792376505
+      MoonTear_14: -3382771774940431415
+      MoonTear_15: 7017774318814567933
+      MoonTear_16: -810216410071400506
+      MoonTear_17: 3821674267539632726
+      MoonTear_18: 9129468538229002182
+      MoonTear_19: 2667579372878265361
+      MoonTear_2: 6400884817635423927
+      MoonTear_20: -2301401939687182354
+      MoonTear_3: 7904181603054248642
+      MoonTear_4: -6952315322251944947
+      MoonTear_5: -8280589379911595245
+      MoonTear_6: 8873675020400843396
+      MoonTear_7: -1186265588609985473
+      MoonTear_8: -3893329425094775936
+      MoonTear_9: -2298962376172324412
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 17aa622c6e9cf704a99184487fac56bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8384460342138662721
+    second: PD_BulkUpPotion_0
+  - first:
+      213: 6140790411018944240
+    second: PD_BulkUpPotion_1
+  - first:
+      213: 7172253413301750458
+    second: PD_BulkUpPotion_2
+  - first:
+      213: -955174440251120534
+    second: PD_BulkUpPotion_3
+  - first:
+      213: -1824621827066836670
+    second: PD_BulkUpPotion_4
+  - first:
+      213: -7053265822321503256
+    second: PD_BulkUpPotion_5
+  - first:
+      213: -7223336845596561465
+    second: PD_BulkUpPotion_6
+  - first:
+      213: 6094644410195415328
+    second: PD_BulkUpPotion_7
+  - first:
+      213: -6025906173231259693
+    second: PD_BulkUpPotion_8
+  - first:
+      213: -3421776321686134893
+    second: PD_BulkUpPotion_9
+  - first:
+      213: 8392371677662424993
+    second: PD_BulkUpPotion_10
+  - first:
+      213: 7386196693111744475
+    second: PD_BulkUpPotion_11
+  - first:
+      213: 1399841378535392554
+    second: PD_BulkUpPotion_12
+  - first:
+      213: -4899579726512177119
+    second: PD_BulkUpPotion_13
+  - first:
+      213: 7281045807307060893
+    second: PD_BulkUpPotion_14
+  - first:
+      213: 8582648275581905198
+    second: PD_BulkUpPotion_15
+  - first:
+      213: 6018065989222104861
+    second: PD_BulkUpPotion_16
+  - first:
+      213: 5072628034624697718
+    second: PD_BulkUpPotion_17
+  - first:
+      213: -6808802309345127382
+    second: PD_BulkUpPotion_18
+  - first:
+      213: 2775113422260219424
+    second: PD_BulkUpPotion_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PD_BulkUpPotion_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 210
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f668622469b5470800000000000000
+      internalID: 8384460342138662721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_BulkUpPotion_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 211
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0feb8e0f758783550800000000000000
+      internalID: 6140790411018944240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_BulkUpPotion_2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 222
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba0feaaa76f88360800000000000000
+      internalID: 7172253413301750458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_BulkUpPotion_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 222
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64ac4648e98eb2f0800000000000000
+      internalID: -955174440251120534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_BulkUpPotion_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 171
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249c1449d14ada6e0800000000000000
+      internalID: -1824621827066836670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_BulkUpPotion_5
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 172
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e39f1aba14cd1e90800000000000000
+      internalID: -7053265822321503256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_BulkUpPotion_6
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 172
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cfe939e86d81cb90800000000000000
+      internalID: -7223336845596561465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_BulkUpPotion_7
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 171
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021940edcc6849450800000000000000
+      internalID: 6094644410195415328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_BulkUpPotion_8
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 172
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df97b6134eaf5ca0800000000000000
+      internalID: -6025906173231259693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_BulkUpPotion_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 122
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f1e0590986380d0800000000000000
+      internalID: -3421776321686134893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_BulkUpPotion_10
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 121
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af2e1e7391b77470800000000000000
+      internalID: 8392371677662424993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_BulkUpPotion_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 122
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7271632ca018660800000000000000
+      internalID: 7386196693111744475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_BulkUpPotion_12
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 122
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25ce7d215c3d6310800000000000000
+      internalID: 1399841378535392554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_BulkUpPotion_13
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 121
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1204984a232310cb0800000000000000
+      internalID: -4899579726512177119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_BulkUpPotion_14
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 72
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9672e9c5987b0560800000000000000
+      internalID: 7281045807307060893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_BulkUpPotion_15
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 72
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29ad224221bb1770800000000000000
+      internalID: 8582648275581905198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_BulkUpPotion_16
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 71
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f7172d127748350800000000000000
+      internalID: 6018065989222104861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_BulkUpPotion_17
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 72
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6753e715258956640800000000000000
+      internalID: 5072628034624697718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_BulkUpPotion_18
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 72
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24df9dcf564281a0800000000000000
+      internalID: -6808802309345127382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_BulkUpPotion_19
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 20
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e2d3154fe238620800000000000000
+      internalID: 2775113422260219424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PD_BulkUpPotion_0: 8384460342138662721
+      PD_BulkUpPotion_1: 6140790411018944240
+      PD_BulkUpPotion_10: 8392371677662424993
+      PD_BulkUpPotion_11: 7386196693111744475
+      PD_BulkUpPotion_12: 1399841378535392554
+      PD_BulkUpPotion_13: -4899579726512177119
+      PD_BulkUpPotion_14: 7281045807307060893
+      PD_BulkUpPotion_15: 8582648275581905198
+      PD_BulkUpPotion_16: 6018065989222104861
+      PD_BulkUpPotion_17: 5072628034624697718
+      PD_BulkUpPotion_18: -6808802309345127382
+      PD_BulkUpPotion_19: 2775113422260219424
+      PD_BulkUpPotion_2: 7172253413301750458
+      PD_BulkUpPotion_3: -955174440251120534
+      PD_BulkUpPotion_4: -1824621827066836670
+      PD_BulkUpPotion_5: -7053265822321503256
+      PD_BulkUpPotion_6: -7223336845596561465
+      PD_BulkUpPotion_7: 6094644410195415328
+      PD_BulkUpPotion_8: -6025906173231259693
+      PD_BulkUpPotion_9: -3421776321686134893
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -11,13 +11,9 @@
         }
         public void Enter()
         {
-            player.animator.SetBool("isMove", player.isMoving);
-
-            player.isRun = false;
+            player.SetRun(false);
+            player.SetWalk(false);
             player.animator.speed = 1f;
-            player.isWalk = false;
-            player.animator.SetBool("isWalk", player.isWalk);
-
             player.animator.SetFloat("LastMoveX", player.dir.x);
             player.animator.SetFloat("LastMoveY", player.dir.y);
         }

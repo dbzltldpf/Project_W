@@ -31,7 +31,14 @@
         }
         private void OnTriggerStay2D(Collider2D collision)
         {
-            InteractCheck();
+            if (collision.TryGetComponent<IInteractable>(out var interactable))
+            {
+                if (interactable.GetNonPlayerType() == NonPlayerType.Npc)
+                    return;
+
+                InteractCheck();
+            }
+
         }
         private void OnTriggerExit2D(Collider2D collision)
         {
@@ -49,7 +56,7 @@
         }
         private void InteractCheck()
         {
-            player.canInterect = false;
+            player.SetCanInterect(false);
 
             if (interactables.Count == 0)
             {
@@ -82,7 +89,7 @@
 
                 if(dot >= dotAngle)
                 {
-                    player.canInterect = true;
+                    player.SetCanInterect(true);
 
                     float score = 1f / targetDistance;
                     if(score > bestScore)

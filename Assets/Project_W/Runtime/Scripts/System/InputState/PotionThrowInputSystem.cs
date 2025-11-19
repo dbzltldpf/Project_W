@@ -25,7 +25,7 @@
                     return;
                 isAiming = true;
                 Debug.Log("조준 시작");
-                player.ChangeState(player.state.ThrowReady);
+                player.ChangeState(player.State.ThrowReady);
             }
             //z누르는 상태에서 화살표로 위치 조절, z up 발사
             if (input.IsInteractPressed())
@@ -46,7 +46,7 @@
                     isAiming = false;
                     Debug.Log("던지기");
                     //포션이 날라가는 애니
-                    player.ChangeState(player.state.Throw);
+                    player.ChangeState(player.State.Throw);
                     UIManager.Instance.HideUI(UIManager.Instance.potionThrow);
                 }
             }

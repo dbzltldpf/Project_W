@@ -1,0 +1,1115 @@
+fileFormatVersion: 2
+guid: d92b9ffa728300546b2928cd0c73fcbb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 439999949052473754
+    second: Roaster_0_Top_0
+  - first:
+      213: 7757610867141854102
+    second: Roaster_0_Top_1
+  - first:
+      213: 3884633989396233157
+    second: Roaster_0_Top_2
+  - first:
+      213: 3358581684270070674
+    second: Roaster_0_Top_3
+  - first:
+      213: 1643215976661358146
+    second: Roaster_0_Top_4
+  - first:
+      213: -108961153044453584
+    second: Roaster_0_Top_5
+  - first:
+      213: 6675414616191683572
+    second: Roaster_0_Top_6
+  - first:
+      213: 7774187710790693806
+    second: Roaster_0_Top_7
+  - first:
+      213: -65111461333314493
+    second: Roaster_0_Top_8
+  - first:
+      213: -4745554165745780655
+    second: Roaster_0_Top_9
+  - first:
+      213: -7475423879446894576
+    second: Roaster_0_Top_10
+  - first:
+      213: 8390171788161427005
+    second: Roaster_0_Top_11
+  - first:
+      213: -417848884115805532
+    second: Roaster_0_Top_12
+  - first:
+      213: -500896087856647491
+    second: Roaster_0_Top_13
+  - first:
+      213: 8770959762954675005
+    second: Roaster_0_Top_14
+  - first:
+      213: 834216936559352457
+    second: Roaster_0_Top_15
+  - first:
+      213: -226983489172890076
+    second: Roaster_0_Top_16
+  - first:
+      213: 7146646595980886285
+    second: Roaster_0_Top_17
+  - first:
+      213: -8884211290341747423
+    second: Roaster_0_Top_18
+  - first:
+      213: -8580366034326204316
+    second: Roaster_0_Top_19
+  - first:
+      213: 7688474362375726758
+    second: Roaster_0_Top_20
+  - first:
+      213: 927880035976950709
+    second: Roaster_0_Top_21
+  - first:
+      213: -6478837288558502780
+    second: Roaster_0_Top_22
+  - first:
+      213: -6033675834732129660
+    second: Roaster_0_Top_23
+  - first:
+      213: 6345376305365017822
+    second: Roaster_0_Top_24
+  - first:
+      213: -7783413918013649911
+    second: Roaster_0_Top_25
+  - first:
+      213: 2867015863101752056
+    second: Roaster_0_Top_26
+  - first:
+      213: -3501190277556714468
+    second: Roaster_0_Top_27
+  - first:
+      213: -6342109004662308809
+    second: Roaster_0_Top_28
+  - first:
+      213: -5925743528399177833
+    second: Roaster_0_Top_29
+  - first:
+      213: -233949634426660079
+    second: Roaster_0_Top_30
+  - first:
+      213: 6214691750623863658
+    second: Roaster_0_Top_31
+  - first:
+      213: 3227508833805310541
+    second: Roaster_0_Top_32
+  - first:
+      213: -5916918000071530712
+    second: Roaster_0_Top_33
+  - first:
+      213: 4865238650062898209
+    second: Roaster_0_Top_34
+  - first:
+      213: 2075537019085009381
+    second: Roaster_0_Top_35
+  - first:
+      213: -2438443004457804954
+    second: Roaster_0_Top_36
+  - first:
+      213: -2127254390460435477
+    second: Roaster_0_Top_37
+  - first:
+      213: -5429422584876453774
+    second: Roaster_0_Top_38
+  - first:
+      213: -6794140200473386774
+    second: Roaster_0_Top_39
+  - first:
+      213: 6891776299141024578
+    second: Roaster_0_Top_40
+  - first:
+      213: -1258205199141082552
+    second: Roaster_0_Top_41
+  - first:
+      213: 946407879759798867
+    second: Roaster_0_Top_42
+  - first:
+      213: -2929784761256845082
+    second: Roaster_0_Top_43
+  - first:
+      213: -4974194111648530509
+    second: Roaster_0_Top_44
+  - first:
+      213: 5350208586789098580
+    second: Roaster_0_Top_45
+  - first:
+      213: 5468615816598609653
+    second: Roaster_0_Top_46
+  - first:
+      213: -1867470888931782694
+    second: Roaster_0_Top_47
+  - first:
+      213: 7693328732408967949
+    second: Roaster_0_Top_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Roaster_0_Top_0
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9176785f913b1600800000000000000
+      internalID: 439999949052473754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roaster_0_Top_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69343b96bf198ab60800000000000000
+      internalID: 7757610867141854102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roaster_0_Top_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cbfe5c180ef8e530800000000000000
+      internalID: 3884633989396233157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roaster_0_Top_3
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29bfc005f341c9e20800000000000000
+      internalID: 3358581684270070674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roaster_0_Top_4
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24695228930edc610800000000000000
+      internalID: 1643215976661358146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roaster_0_Top_5
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037e77a9864ec7ef0800000000000000
+      internalID: -108961153044453584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roaster_0_Top_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb4e8eb936d3ac50800000000000000
+      internalID: 6675414616191683572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roaster_0_Top_7
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3f2e6988673eb60800000000000000
+      internalID: 7774187710790693806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roaster_0_Top_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344db6c887da81ff0800000000000000
+      internalID: -65111461333314493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roaster_0_Top_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158f85811a7642eb0800000000000000
+      internalID: -4745554165745780655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roaster_0_Top_10
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01868109695f14890800000000000000
+      internalID: -7475423879446894576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roaster_0_Top_11
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36adddc9c0ef6470800000000000000
+      internalID: 8390171788161427005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roaster_0_Top_12
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aaeb7c57a0833af0800000000000000
+      internalID: -417848884115805532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roaster_0_Top_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2fbe579a57c09f0800000000000000
+      internalID: -500896087856647491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roaster_0_Top_14
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3368221f65b8b970800000000000000
+      internalID: 8770959762954675005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roaster_0_Top_15
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a1c3942ebb39b00800000000000000
+      internalID: 834216936559352457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roaster_0_Top_16
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e98fd18b799dcf0800000000000000
+      internalID: -226983489172890076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roaster_0_Top_17
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0102b8e63dfd2360800000000000000
+      internalID: 7146646595980886285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roaster_0_Top_18
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1255aa9e6e0f4b480800000000000000
+      internalID: -8884211290341747423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roaster_0_Top_19
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460d8217d8a6ce880800000000000000
+      internalID: -8580366034326204316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roaster_0_Top_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a66a1282b2f2ba60800000000000000
+      internalID: 7688474362375726758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roaster_0_Top_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b335920afd70ec00800000000000000
+      internalID: 927880035976950709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roaster_0_Top_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c5ae9ffcb8616a0800000000000000
+      internalID: -6478837288558502780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roaster_0_Top_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482deeccbc3144ca0800000000000000
+      internalID: -6033675834732129660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roaster_0_Top_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed46677612e4f0850800000000000000
+      internalID: 6345376305365017822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roaster_0_Top_25
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c07f4a742cbf390800000000000000
+      internalID: -7783413918013649911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roaster_0_Top_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f20795ccbfa9c720800000000000000
+      internalID: 2867015863101752056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roaster_0_Top_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c144e2f1ef5496fc0800000000000000
+      internalID: -3501190277556714468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roaster_0_Top_28
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7300c42567d4cf7a0800000000000000
+      internalID: -6342109004662308809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roaster_0_Top_29
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79772b728a783cda0800000000000000
+      internalID: -5925743528399177833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roaster_0_Top_30
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b9aa80c08d0ccf0800000000000000
+      internalID: -233949634426660079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roaster_0_Top_31
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a636c7868350f3650800000000000000
+      internalID: 6214691750623863658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roaster_0_Top_32
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a966c2f2a6acc20800000000000000
+      internalID: 3227508833805310541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roaster_0_Top_33
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8272f989d62e2eda0800000000000000
+      internalID: -5916918000071530712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roaster_0_Top_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124008c66ccc48340800000000000000
+      internalID: 4865238650062898209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roaster_0_Top_35
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e13cb41ce9cdcc10800000000000000
+      internalID: 2075537019085009381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roaster_0_Top_36
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b9142c109e82ed0800000000000000
+      internalID: -2438443004457804954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0baec69a6c568314f9f06cfc999534ce
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Roaster_0_Top_0: 439999949052473754
+      Roaster_0_Top_1: 7757610867141854102
+      Roaster_0_Top_10: -7475423879446894576
+      Roaster_0_Top_11: 8390171788161427005
+      Roaster_0_Top_12: -417848884115805532
+      Roaster_0_Top_13: -500896087856647491
+      Roaster_0_Top_14: 8770959762954675005
+      Roaster_0_Top_15: 834216936559352457
+      Roaster_0_Top_16: -226983489172890076
+      Roaster_0_Top_17: 7146646595980886285
+      Roaster_0_Top_18: -8884211290341747423
+      Roaster_0_Top_19: -8580366034326204316
+      Roaster_0_Top_2: 3884633989396233157
+      Roaster_0_Top_20: 7688474362375726758
+      Roaster_0_Top_21: 927880035976950709
+      Roaster_0_Top_22: -6478837288558502780
+      Roaster_0_Top_23: -6033675834732129660
+      Roaster_0_Top_24: 6345376305365017822
+      Roaster_0_Top_25: -7783413918013649911
+      Roaster_0_Top_26: 2867015863101752056
+      Roaster_0_Top_27: -3501190277556714468
+      Roaster_0_Top_28: -6342109004662308809
+      Roaster_0_Top_29: -5925743528399177833
+      Roaster_0_Top_3: 3358581684270070674
+      Roaster_0_Top_30: -233949634426660079
+      Roaster_0_Top_31: 6214691750623863658
+      Roaster_0_Top_32: 3227508833805310541
+      Roaster_0_Top_33: -5916918000071530712
+      Roaster_0_Top_34: 4865238650062898209
+      Roaster_0_Top_35: 2075537019085009381
+      Roaster_0_Top_36: -2438443004457804954
+      Roaster_0_Top_4: 1643215976661358146
+      Roaster_0_Top_5: -108961153044453584
+      Roaster_0_Top_6: 6675414616191683572
+      Roaster_0_Top_7: 7774187710790693806
+      Roaster_0_Top_8: -65111461333314493
+      Roaster_0_Top_9: -4745554165745780655
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

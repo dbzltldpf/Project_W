@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: a7236498d49bd4c479519ed0e751d0aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8638921348263174629
+    second: FastWalkPotion_0
+  - first:
+      213: 3402922069104385804
+    second: FastWalkPotion_1
+  - first:
+      213: -930666171781102329
+    second: FastWalkPotion_2
+  - first:
+      213: 6949274823236368991
+    second: FastWalkPotion_3
+  - first:
+      213: 4212715051962696780
+    second: FastWalkPotion_4
+  - first:
+      213: 4001284196283069675
+    second: FastWalkPotion_5
+  - first:
+      213: 7573570825150207188
+    second: FastWalkPotion_6
+  - first:
+      213: -4489624928613696099
+    second: FastWalkPotion_7
+  - first:
+      213: -4540085686547441802
+    second: FastWalkPotion_8
+  - first:
+      213: 1350628506471292804
+    second: FastWalkPotion_9
+  - first:
+      213: -546085840407825469
+    second: FastWalkPotion_10
+  - first:
+      213: -8410753150055517971
+    second: FastWalkPotion_11
+  - first:
+      213: 5254718512028358046
+    second: FastWalkPotion_12
+  - first:
+      213: 4240712606504276286
+    second: FastWalkPotion_13
+  - first:
+      213: -4527915494860468545
+    second: FastWalkPotion_14
+  - first:
+      213: 1414253145316812367
+    second: FastWalkPotion_15
+  - first:
+      213: -1190665238999676066
+    second: FastWalkPotion_16
+  - first:
+      213: -5096188223928995194
+    second: FastWalkPotion_17
+  - first:
+      213: 7503383446614382898
+    second: FastWalkPotion_18
+  - first:
+      213: 5648405359448648302
+    second: FastWalkPotion_19
+  - first:
+      213: -8978467290776379380
+    second: FastWalkPotion_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FastWalkPotion_0
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 209
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1e3cdf13d93e770800000000000000
+      internalID: 8638921348263174629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FastWalkPotion_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 212
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0fdd47a79b993f20800000000000000
+      internalID: 3402922069104385804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FastWalkPotion_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 213
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705c3823c0c9513f0800000000000000
+      internalID: -930666171781102329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FastWalkPotion_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 225
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ab19502a8c07060800000000000000
+      internalID: 6949274823236368991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FastWalkPotion_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 175
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c448d241502967a30800000000000000
+      internalID: 4212715051962696780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FastWalkPotion_5
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 174
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be436dcd6ca678730800000000000000
+      internalID: 4001284196283069675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FastWalkPotion_6
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 175
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4175af98aba1960800000000000000
+      internalID: 7573570825150207188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FastWalkPotion_7
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 175
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9dfd3b1ae5a1b1c0800000000000000
+      internalID: -4489624928613696099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FastWalkPotion_8
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 174
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677118b5f106ef0c0800000000000000
+      internalID: -4540085686547441802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FastWalkPotion_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 125
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fdcbf78756eb210800000000000000
+      internalID: 1350628506471292804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FastWalkPotion_10
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 125
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3fe9942d9eb68f0800000000000000
+      internalID: -546085840407825469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FastWalkPotion_11
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 124
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de071757290074b80800000000000000
+      internalID: -8410753150055517971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FastWalkPotion_12
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 125
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e959e1065a28ce840800000000000000
+      internalID: 5254718512028358046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FastWalkPotion_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 125
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e315539b5a90ada30800000000000000
+      internalID: 4240712606504276286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FastWalkPotion_14
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 74
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbecadbe8dc9921c0800000000000000
+      internalID: -4527915494860468545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FastWalkPotion_15
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 75
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46661d1ebf60a310800000000000000
+      internalID: 1414253145316812367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FastWalkPotion_16
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 75
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5bc4070648e97fe0800000000000000
+      internalID: -1190665238999676066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FastWalkPotion_17
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 74
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682fe24afc3b649b0800000000000000
+      internalID: -5096188223928995194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FastWalkPotion_18
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 75
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2391ff47d7f512860800000000000000
+      internalID: 7503383446614382898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FastWalkPotion_19
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 25
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a69557fba236e40800000000000000
+      internalID: 5648405359448648302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FastWalkPotion_20
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 22
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c006fc9a193166380800000000000000
+      internalID: -8978467290776379380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FastWalkPotion_0: 8638921348263174629
+      FastWalkPotion_1: 3402922069104385804
+      FastWalkPotion_10: -546085840407825469
+      FastWalkPotion_11: -8410753150055517971
+      FastWalkPotion_12: 5254718512028358046
+      FastWalkPotion_13: 4240712606504276286
+      FastWalkPotion_14: -4527915494860468545
+      FastWalkPotion_15: 1414253145316812367
+      FastWalkPotion_16: -1190665238999676066
+      FastWalkPotion_17: -5096188223928995194
+      FastWalkPotion_18: 7503383446614382898
+      FastWalkPotion_19: 5648405359448648302
+      FastWalkPotion_2: -930666171781102329
+      FastWalkPotion_20: -8978467290776379380
+      FastWalkPotion_3: 6949274823236368991
+      FastWalkPotion_4: 4212715051962696780
+      FastWalkPotion_5: 4001284196283069675
+      FastWalkPotion_6: 7573570825150207188
+      FastWalkPotion_7: -4489624928613696099
+      FastWalkPotion_8: -4540085686547441802
+      FastWalkPotion_9: 1350628506471292804
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

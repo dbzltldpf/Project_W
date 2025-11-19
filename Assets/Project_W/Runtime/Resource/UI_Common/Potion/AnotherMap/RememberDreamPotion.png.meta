@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 14932292395447043b27e09668fa47c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1229922226655064287
+    second: RememberDreamPotion_0
+  - first:
+      213: -5000953738761974895
+    second: RememberDreamPotion_1
+  - first:
+      213: 7182130938790129949
+    second: RememberDreamPotion_2
+  - first:
+      213: -2053305679211679771
+    second: RememberDreamPotion_3
+  - first:
+      213: -8432112204319462310
+    second: RememberDreamPotion_4
+  - first:
+      213: -367832482093547652
+    second: RememberDreamPotion_5
+  - first:
+      213: -8376048786080057516
+    second: RememberDreamPotion_6
+  - first:
+      213: -1292275596732003482
+    second: RememberDreamPotion_7
+  - first:
+      213: -7814305024494281541
+    second: RememberDreamPotion_8
+  - first:
+      213: 9153825332535571324
+    second: RememberDreamPotion_9
+  - first:
+      213: 1270155254367226702
+    second: RememberDreamPotion_10
+  - first:
+      213: 5232840775103396158
+    second: RememberDreamPotion_11
+  - first:
+      213: 5863571805195536984
+    second: RememberDreamPotion_12
+  - first:
+      213: 2360913455841168057
+    second: RememberDreamPotion_13
+  - first:
+      213: 3676058494186104646
+    second: RememberDreamPotion_14
+  - first:
+      213: -1998248851821991926
+    second: RememberDreamPotion_15
+  - first:
+      213: -6356732720754763177
+    second: RememberDreamPotion_16
+  - first:
+      213: 1651397342879343702
+    second: RememberDreamPotion_17
+  - first:
+      213: -8793791387444991125
+    second: RememberDreamPotion_18
+  - first:
+      213: -707522788496764801
+    second: RememberDreamPotion_19
+  - first:
+      213: -2880796130026249462
+    second: RememberDreamPotion_20
+  - first:
+      213: -5402739688792217412
+    second: RememberDreamPotion_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RememberDreamPotion_0
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 230
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f0ed250407eeee0800000000000000
+      internalID: -1229922226655064287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberDreamPotion_1
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 233
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b4eee121b099ab0800000000000000
+      internalID: -5000953738761974895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberDreamPotion_2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 211
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11bde8490e0ca360800000000000000
+      internalID: 7182130938790129949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberDreamPotion_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 212
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5efab471d513183e0800000000000000
+      internalID: -2053305679211679771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberDreamPotion_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 175
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c6d4b10ae1bfa80800000000000000
+      internalID: -8432112204319462310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberDreamPotion_5
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 175
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fb6ff6e4235eaf0800000000000000
+      internalID: -367832482093547652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberDreamPotion_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 174
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4573b5cd10c42cb80800000000000000
+      internalID: -8376048786080057516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberDreamPotion_7
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 175
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b02e8013ae01ee0800000000000000
+      internalID: -1292275596732003482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberDreamPotion_8
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 175
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbcd7707bf20e8390800000000000000
+      internalID: -7814305024494281541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberDreamPotion_9
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 124
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7331c114abe80f70800000000000000
+      internalID: 9153825332535571324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberDreamPotion_10
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 125
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b872a697f70a110800000000000000
+      internalID: 1270155254367226702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberDreamPotion_11
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 125
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39b73ec5f8ce9840800000000000000
+      internalID: 5232840775103396158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberDreamPotion_12
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 124
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a0da38d779f5150800000000000000
+      internalID: 5863571805195536984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberDreamPotion_13
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 125
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba4ad88746a3c020800000000000000
+      internalID: 2360913455841168057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberDreamPotion_14
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 75
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647258f49bbf30330800000000000000
+      internalID: 3676058494186104646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberDreamPotion_15
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 74
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a086156a14bc444e0800000000000000
+      internalID: -1998248851821991926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberDreamPotion_16
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 75
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a5f47154958c7a0800000000000000
+      internalID: -6356732720754763177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberDreamPotion_17
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 75
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654e8554221fae610800000000000000
+      internalID: 1651397342879343702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberDreamPotion_18
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 74
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ba37a135d26f580800000000000000
+      internalID: -8793791387444991125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberDreamPotion_19
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 25
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f701821c5cf5e26f0800000000000000
+      internalID: -707522788496764801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberDreamPotion_20
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 25
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03277fce2b5508d0800000000000000
+      internalID: -2880796130026249462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberDreamPotion_21
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 25
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8a2a3c0ec9505b0800000000000000
+      internalID: -5402739688792217412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RememberDreamPotion_0: -1229922226655064287
+      RememberDreamPotion_1: -5000953738761974895
+      RememberDreamPotion_10: 1270155254367226702
+      RememberDreamPotion_11: 5232840775103396158
+      RememberDreamPotion_12: 5863571805195536984
+      RememberDreamPotion_13: 2360913455841168057
+      RememberDreamPotion_14: 3676058494186104646
+      RememberDreamPotion_15: -1998248851821991926
+      RememberDreamPotion_16: -6356732720754763177
+      RememberDreamPotion_17: 1651397342879343702
+      RememberDreamPotion_18: -8793791387444991125
+      RememberDreamPotion_19: -707522788496764801
+      RememberDreamPotion_2: 7182130938790129949
+      RememberDreamPotion_20: -2880796130026249462
+      RememberDreamPotion_21: -5402739688792217412
+      RememberDreamPotion_3: -2053305679211679771
+      RememberDreamPotion_4: -8432112204319462310
+      RememberDreamPotion_5: -367832482093547652
+      RememberDreamPotion_6: -8376048786080057516
+      RememberDreamPotion_7: -1292275596732003482
+      RememberDreamPotion_8: -7814305024494281541
+      RememberDreamPotion_9: 9153825332535571324
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

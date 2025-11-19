@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: d0cd306dca062544fb27e982925c05ac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3306136666181774347
+    second: DietPotion_0
+  - first:
+      213: -6921273189187189981
+    second: DietPotion_1
+  - first:
+      213: -4782137972714331408
+    second: DietPotion_2
+  - first:
+      213: 6453934791716573461
+    second: DietPotion_3
+  - first:
+      213: 3939710269535689377
+    second: DietPotion_4
+  - first:
+      213: 1894732630258651031
+    second: DietPotion_5
+  - first:
+      213: -5558827608230598744
+    second: DietPotion_6
+  - first:
+      213: -8637184648146817861
+    second: DietPotion_7
+  - first:
+      213: -6502325154107192313
+    second: DietPotion_8
+  - first:
+      213: 1546021023352711668
+    second: DietPotion_9
+  - first:
+      213: -4382404308620071060
+    second: DietPotion_10
+  - first:
+      213: -2816545310441683807
+    second: DietPotion_11
+  - first:
+      213: 2802016132367140659
+    second: DietPotion_12
+  - first:
+      213: -244634802162171090
+    second: DietPotion_13
+  - first:
+      213: 1333509208414152882
+    second: DietPotion_14
+  - first:
+      213: 590329442666237532
+    second: DietPotion_15
+  - first:
+      213: -5193642219489812056
+    second: DietPotion_16
+  - first:
+      213: -4062442962748838455
+    second: DietPotion_17
+  - first:
+      213: 7689677605400692461
+    second: DietPotion_18
+  - first:
+      213: 7571745445117958789
+    second: DietPotion_19
+  - first:
+      213: 8609354640786311320
+    second: DietPotion_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DietPotion_0
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 229
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ca8aef7c1c1ed20800000000000000
+      internalID: 3306136666181774347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DietPotion_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 224
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323001574b2b2ff90800000000000000
+      internalID: -6921273189187189981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DietPotion_2
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 211
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2a475c9de62adb0800000000000000
+      internalID: -4782137972714331408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DietPotion_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 212
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5111dc7af7bf09950800000000000000
+      internalID: 6453934791716573461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DietPotion_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 167
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa12addd99aca630800000000000000
+      internalID: 3939710269535689377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DietPotion_5
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 167
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f88ead9417b4a10800000000000000
+      internalID: 1894732630258651031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DietPotion_6
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 166
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7e7c30eb31bd2b0800000000000000
+      internalID: -5558827608230598744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DietPotion_7
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 167
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc60c3035e822880800000000000000
+      internalID: -8637184648146817861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DietPotion_8
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 167
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c8a5f19b913c5a0800000000000000
+      internalID: -6502325154107192313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DietPotion_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 116
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f96938fde1947510800000000000000
+      internalID: 1546021023352711668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DietPotion_10
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 117
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f2f8210829e23c0800000000000000
+      internalID: -4382404308620071060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DietPotion_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 117
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4c45d76fe99e8d0800000000000000
+      internalID: -2816545310441683807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DietPotion_12
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 116
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33748a0a3d2c2e620800000000000000
+      internalID: 2802016132367140659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DietPotion_13
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 117
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e230d6d81f1ea9cf0800000000000000
+      internalID: -244634802162171090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DietPotion_14
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 67
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8ec305f83918210800000000000000
+      internalID: 1333509208414152882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DietPotion_15
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 66
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e439a1085413800800000000000000
+      internalID: 590329442666237532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DietPotion_16
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 67
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1a6d02be97ce7b0800000000000000
+      internalID: -5193642219489812056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DietPotion_17
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 67
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cde11d26ad4f97c0800000000000000
+      internalID: -4062442962748838455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DietPotion_18
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 66
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de64f2b5a0937ba60800000000000000
+      internalID: 7689677605400692461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DietPotion_19
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 17
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a10f19d5e341960800000000000000
+      internalID: 7571745445117958789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DietPotion_20
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 15
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898cd657e629a7770800000000000000
+      internalID: 8609354640786311320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DietPotion_0: 3306136666181774347
+      DietPotion_1: -6921273189187189981
+      DietPotion_10: -4382404308620071060
+      DietPotion_11: -2816545310441683807
+      DietPotion_12: 2802016132367140659
+      DietPotion_13: -244634802162171090
+      DietPotion_14: 1333509208414152882
+      DietPotion_15: 590329442666237532
+      DietPotion_16: -5193642219489812056
+      DietPotion_17: -4062442962748838455
+      DietPotion_18: 7689677605400692461
+      DietPotion_19: 7571745445117958789
+      DietPotion_2: -4782137972714331408
+      DietPotion_20: 8609354640786311320
+      DietPotion_3: 6453934791716573461
+      DietPotion_4: 3939710269535689377
+      DietPotion_5: 1894732630258651031
+      DietPotion_6: -5558827608230598744
+      DietPotion_7: -8637184648146817861
+      DietPotion_8: -6502325154107192313
+      DietPotion_9: 1546021023352711668
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

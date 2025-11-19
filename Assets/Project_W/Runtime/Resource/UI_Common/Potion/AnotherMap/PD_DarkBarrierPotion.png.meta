@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 81f2a20c47d5d474d80f8e7c46a58e4e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3875151580046896127
+    second: PD_DarkBarrierPotion_0
+  - first:
+      213: -1535204562915959219
+    second: PD_DarkBarrierPotion_1
+  - first:
+      213: 8056909737799222532
+    second: PD_DarkBarrierPotion_2
+  - first:
+      213: -4069154318904173391
+    second: PD_DarkBarrierPotion_3
+  - first:
+      213: 4543985451836932018
+    second: PD_DarkBarrierPotion_4
+  - first:
+      213: 3347815207154538207
+    second: PD_DarkBarrierPotion_5
+  - first:
+      213: 2993366414134173040
+    second: PD_DarkBarrierPotion_6
+  - first:
+      213: 7620732814906725147
+    second: PD_DarkBarrierPotion_7
+  - first:
+      213: 5156656385394668247
+    second: PD_DarkBarrierPotion_8
+  - first:
+      213: 8584211955256931173
+    second: PD_DarkBarrierPotion_9
+  - first:
+      213: 1418444092622297026
+    second: PD_DarkBarrierPotion_10
+  - first:
+      213: -4651247908158106062
+    second: PD_DarkBarrierPotion_11
+  - first:
+      213: -2840396807901909790
+    second: PD_DarkBarrierPotion_12
+  - first:
+      213: 4640607764628775744
+    second: PD_DarkBarrierPotion_13
+  - first:
+      213: 4148981421515761808
+    second: PD_DarkBarrierPotion_14
+  - first:
+      213: -4708853983271108210
+    second: PD_DarkBarrierPotion_15
+  - first:
+      213: -29356929754595288
+    second: PD_DarkBarrierPotion_16
+  - first:
+      213: 4214094532540583085
+    second: PD_DarkBarrierPotion_17
+  - first:
+      213: -3847783327524999975
+    second: PD_DarkBarrierPotion_18
+  - first:
+      213: -2313373087947993465
+    second: PD_DarkBarrierPotion_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PD_DarkBarrierPotion_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 209
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb2d73a4dd47c530800000000000000
+      internalID: 3875151580046896127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_DarkBarrierPotion_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 210
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ed5d9759bd1bae0800000000000000
+      internalID: -1535204562915959219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_DarkBarrierPotion_2
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 218
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40588ec18b4efcf60800000000000000
+      internalID: 8056909737799222532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_DarkBarrierPotion_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 218
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc587dc4b57787c0800000000000000
+      internalID: -4069154318904173391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_DarkBarrierPotion_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 167
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf784181ba7f0f30800000000000000
+      internalID: 4543985451836932018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_DarkBarrierPotion_5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 168
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6d8148134d57e20800000000000000
+      internalID: 3347815207154538207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_DarkBarrierPotion_6
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 168
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d5d05e4e29a8920800000000000000
+      internalID: 2993366414134173040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_DarkBarrierPotion_7
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 167
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b139da86e1842c960800000000000000
+      internalID: 7620732814906725147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_DarkBarrierPotion_8
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 168
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2f23059af109740800000000000000
+      internalID: 5156656385394668247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_DarkBarrierPotion_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 118
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56330cdca4f312770800000000000000
+      internalID: 8584211955256931173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_DarkBarrierPotion_10
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 117
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7d08213635fa310800000000000000
+      internalID: 1418444092622297026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_DarkBarrierPotion_11
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 118
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23615ffbba2737fb0800000000000000
+      internalID: -4651247908158106062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_DarkBarrierPotion_12
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 118
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec6adbf622e498d0800000000000000
+      internalID: -2840396807901909790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_DarkBarrierPotion_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 117
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0432e98cc20c66040800000000000000
+      internalID: 4640607764628775744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_DarkBarrierPotion_14
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 68
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0986421ee94249930800000000000000
+      internalID: 4148981421515761808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_DarkBarrierPotion_15
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 68
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8141f3304ac6aeb0800000000000000
+      internalID: -4708853983271108210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_DarkBarrierPotion_16
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 67
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82008462704b79ff0800000000000000
+      internalID: -29356929754595288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_DarkBarrierPotion_17
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 68
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac4ffd66a87b7a30800000000000000
+      internalID: 4214094532540583085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_DarkBarrierPotion_18
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 68
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dca336337de99ac0800000000000000
+      internalID: -3847783327524999975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_DarkBarrierPotion_19
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 16
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e49ebee6f35efd0800000000000000
+      internalID: -2313373087947993465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PD_DarkBarrierPotion_0: 3875151580046896127
+      PD_DarkBarrierPotion_1: -1535204562915959219
+      PD_DarkBarrierPotion_10: 1418444092622297026
+      PD_DarkBarrierPotion_11: -4651247908158106062
+      PD_DarkBarrierPotion_12: -2840396807901909790
+      PD_DarkBarrierPotion_13: 4640607764628775744
+      PD_DarkBarrierPotion_14: 4148981421515761808
+      PD_DarkBarrierPotion_15: -4708853983271108210
+      PD_DarkBarrierPotion_16: -29356929754595288
+      PD_DarkBarrierPotion_17: 4214094532540583085
+      PD_DarkBarrierPotion_18: -3847783327524999975
+      PD_DarkBarrierPotion_19: -2313373087947993465
+      PD_DarkBarrierPotion_2: 8056909737799222532
+      PD_DarkBarrierPotion_3: -4069154318904173391
+      PD_DarkBarrierPotion_4: 4543985451836932018
+      PD_DarkBarrierPotion_5: 3347815207154538207
+      PD_DarkBarrierPotion_6: 2993366414134173040
+      PD_DarkBarrierPotion_7: 7620732814906725147
+      PD_DarkBarrierPotion_8: 5156656385394668247
+      PD_DarkBarrierPotion_9: 8584211955256931173
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

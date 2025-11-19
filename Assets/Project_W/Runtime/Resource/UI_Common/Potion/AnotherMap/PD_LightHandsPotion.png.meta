@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 28302c609d1b35847a6a0d64e6a3241d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3913389379136394567
+    second: PD_LightHandsPotion_0
+  - first:
+      213: -5394253825875661225
+    second: PD_LightHandsPotion_1
+  - first:
+      213: -493937869418743318
+    second: PD_LightHandsPotion_2
+  - first:
+      213: 2071327863447958904
+    second: PD_LightHandsPotion_3
+  - first:
+      213: 6962301954487757672
+    second: PD_LightHandsPotion_4
+  - first:
+      213: -3389255838225609536
+    second: PD_LightHandsPotion_5
+  - first:
+      213: 3956976568006569669
+    second: PD_LightHandsPotion_6
+  - first:
+      213: -2124231033403837396
+    second: PD_LightHandsPotion_7
+  - first:
+      213: 8468561115992445696
+    second: PD_LightHandsPotion_8
+  - first:
+      213: -40686884929817827
+    second: PD_LightHandsPotion_9
+  - first:
+      213: 65493403002082776
+    second: PD_LightHandsPotion_10
+  - first:
+      213: -2059935498784105548
+    second: PD_LightHandsPotion_11
+  - first:
+      213: 5940006110376406846
+    second: PD_LightHandsPotion_12
+  - first:
+      213: 6558774213679941307
+    second: PD_LightHandsPotion_13
+  - first:
+      213: -4605265110042207593
+    second: PD_LightHandsPotion_14
+  - first:
+      213: -1224843951126525911
+    second: PD_LightHandsPotion_15
+  - first:
+      213: -1217001368023841729
+    second: PD_LightHandsPotion_16
+  - first:
+      213: 1155142015578485963
+    second: PD_LightHandsPotion_17
+  - first:
+      213: 7508307059112658202
+    second: PD_LightHandsPotion_18
+  - first:
+      213: -2527607079943504741
+    second: PD_LightHandsPotion_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PD_LightHandsPotion_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 210
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bae9ccf719d0b9c0800000000000000
+      internalID: -3913389379136394567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_LightHandsPotion_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 211
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ea360b9b2c325b0800000000000000
+      internalID: -5394253825875661225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_LightHandsPotion_2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 221
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9be20ff1e2529f0800000000000000
+      internalID: -493937869418743318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_LightHandsPotion_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 221
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8753f2aa7b5debc10800000000000000
+      internalID: 2071327863447958904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_LightHandsPotion_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 170
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b20406db01f9060800000000000000
+      internalID: 6962301954487757672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_LightHandsPotion_5
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 171
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ccc4ada5c1f6f0d0800000000000000
+      internalID: -3389255838225609536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_LightHandsPotion_6
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 171
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce639049310ae630800000000000000
+      internalID: 3956976568006569669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_LightHandsPotion_7
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 170
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c247a1931273582e0800000000000000
+      internalID: -2124231033403837396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_LightHandsPotion_8
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 171
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0035a65777f568570800000000000000
+      internalID: 8468561115992445696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_LightHandsPotion_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 121
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13bdb46e737f6ff0800000000000000
+      internalID: -40686884929817827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_LightHandsPotion_10
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 120
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5121d27eda8e000800000000000000
+      internalID: 65493403002082776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_LightHandsPotion_11
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 121
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb91cee393a963e0800000000000000
+      internalID: -2059935498784105548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_LightHandsPotion_12
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 121
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3fa2acf5142f6250800000000000000
+      internalID: 5940006110376406846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_LightHandsPotion_13
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 120
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb68260c562750b50800000000000000
+      internalID: 6558774213679941307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_LightHandsPotion_14
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 71
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a1f6b38cfc610c0800000000000000
+      internalID: -4605265110042207593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_LightHandsPotion_15
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 71
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92841db7aea700fe0800000000000000
+      internalID: -1224843951126525911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_LightHandsPotion_16
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 70
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3446c724b75c1fe0800000000000000
+      internalID: -1217001368023841729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_LightHandsPotion_17
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 71
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc43faffa83e70010800000000000000
+      internalID: 1155142015578485963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_LightHandsPotion_18
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 71
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15c7f25d7dd23860800000000000000
+      internalID: 7508307059112658202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_LightHandsPotion_19
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 19
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c743ca0c22cecd0800000000000000
+      internalID: -2527607079943504741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PD_LightHandsPotion_0: -3913389379136394567
+      PD_LightHandsPotion_1: -5394253825875661225
+      PD_LightHandsPotion_10: 65493403002082776
+      PD_LightHandsPotion_11: -2059935498784105548
+      PD_LightHandsPotion_12: 5940006110376406846
+      PD_LightHandsPotion_13: 6558774213679941307
+      PD_LightHandsPotion_14: -4605265110042207593
+      PD_LightHandsPotion_15: -1224843951126525911
+      PD_LightHandsPotion_16: -1217001368023841729
+      PD_LightHandsPotion_17: 1155142015578485963
+      PD_LightHandsPotion_18: 7508307059112658202
+      PD_LightHandsPotion_19: -2527607079943504741
+      PD_LightHandsPotion_2: -493937869418743318
+      PD_LightHandsPotion_3: 2071327863447958904
+      PD_LightHandsPotion_4: 6962301954487757672
+      PD_LightHandsPotion_5: -3389255838225609536
+      PD_LightHandsPotion_6: 3956976568006569669
+      PD_LightHandsPotion_7: -2124231033403837396
+      PD_LightHandsPotion_8: 8468561115992445696
+      PD_LightHandsPotion_9: -40686884929817827
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

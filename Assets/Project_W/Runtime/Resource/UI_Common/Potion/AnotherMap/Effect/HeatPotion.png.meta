@@ -1,0 +1,1417 @@
+fileFormatVersion: 2
+guid: c5b4ff68cad6cd349aa0f699f977cf10
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -406140988442981577
+    second: HeatPotion_0
+  - first:
+      213: -7657094459173022355
+    second: HeatPotion_1
+  - first:
+      213: 3952761002587401185
+    second: HeatPotion_2
+  - first:
+      213: -3937732798572624542
+    second: HeatPotion_3
+  - first:
+      213: -455199903900039635
+    second: HeatPotion_4
+  - first:
+      213: 4026960587021087990
+    second: HeatPotion_5
+  - first:
+      213: 2833542439179378203
+    second: HeatPotion_6
+  - first:
+      213: 1781177865589821371
+    second: HeatPotion_7
+  - first:
+      213: -4208463994325648693
+    second: HeatPotion_8
+  - first:
+      213: 5099799282679071490
+    second: HeatPotion_9
+  - first:
+      213: 2951507767019215347
+    second: HeatPotion_10
+  - first:
+      213: -8138094621118004682
+    second: HeatPotion_11
+  - first:
+      213: 7870834521783775276
+    second: HeatPotion_12
+  - first:
+      213: 170145504566049341
+    second: HeatPotion_13
+  - first:
+      213: -2491069932664693712
+    second: HeatPotion_14
+  - first:
+      213: 2992336501720535623
+    second: HeatPotion_15
+  - first:
+      213: 4582572438592005291
+    second: HeatPotion_16
+  - first:
+      213: -6637607732959041164
+    second: HeatPotion_17
+  - first:
+      213: -8481303615471377554
+    second: HeatPotion_18
+  - first:
+      213: 8843138218647416827
+    second: HeatPotion_19
+  - first:
+      213: -5970228626534276799
+    second: HeatPotion_20
+  - first:
+      213: -8198623080996624275
+    second: HeatPotion_21
+  - first:
+      213: 3749045815125555659
+    second: HeatPotion_22
+  - first:
+      213: -4103642393306872065
+    second: HeatPotion_23
+  - first:
+      213: 3684790117936816864
+    second: HeatPotion_24
+  - first:
+      213: -2325899213190850520
+    second: HeatPotion_25
+  - first:
+      213: 335713770107774168
+    second: HeatPotion_26
+  - first:
+      213: -2476218714981982627
+    second: HeatPotion_27
+  - first:
+      213: 985497191664461119
+    second: HeatPotion_28
+  - first:
+      213: -7542518297576694047
+    second: HeatPotion_29
+  - first:
+      213: -5406165966294303437
+    second: HeatPotion_30
+  - first:
+      213: 7786214405031610544
+    second: HeatPotion_31
+  - first:
+      213: 1304830180045688311
+    second: HeatPotion_32
+  - first:
+      213: 3883869379129828002
+    second: HeatPotion_33
+  - first:
+      213: 4947510841657100740
+    second: HeatPotion_34
+  - first:
+      213: 8045456158263854609
+    second: HeatPotion_35
+  - first:
+      213: -912070834095693241
+    second: HeatPotion_36
+  - first:
+      213: -2700976024557005308
+    second: HeatPotion_37
+  - first:
+      213: 6134920594314537752
+    second: HeatPotion_38
+  - first:
+      213: 9073327986088458630
+    second: HeatPotion_39
+  - first:
+      213: 3489359489435887997
+    second: HeatPotion_40
+  - first:
+      213: 5591777329337839490
+    second: HeatPotion_41
+  - first:
+      213: -5196512557333788773
+    second: HeatPotion_42
+  - first:
+      213: -3734710459999802271
+    second: HeatPotion_43
+  - first:
+      213: 8699236822722658088
+    second: HeatPotion_44
+  - first:
+      213: 2447126990444674781
+    second: HeatPotion_45
+  - first:
+      213: 4202172131315846200
+    second: HeatPotion_46
+  - first:
+      213: 7775139784585417315
+    second: HeatPotion_47
+  - first:
+      213: -2312733112836518786
+    second: HeatPotion_48
+  - first:
+      213: 3957256509298121446
+    second: HeatPotion_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HeatPotion_0
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 800
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b412f3ce81d5af0800000000000000
+      internalID: -406140988442981577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeatPotion_1
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 800
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65516d88298cb590800000000000000
+      internalID: -7657094459173022355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeatPotion_2
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 800
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb2d3170370bd630800000000000000
+      internalID: 3952761002587401185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeatPotion_3
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 800
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2658ca8f1ec5a59c0800000000000000
+      internalID: -3937732798572624542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeatPotion_4
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 800
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d260f32691ecea9f0800000000000000
+      internalID: -455199903900039635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeatPotion_5
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 784
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4f3e17153a2e730800000000000000
+      internalID: 4026960587021087990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeatPotion_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 650
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ed74fe5d3c25720800000000000000
+      internalID: 2833542439179378203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeatPotion_7
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 650
+        width: 107
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf0548e4d308b810800000000000000
+      internalID: 1781177865589821371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeatPotion_8
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 650
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcab2386b488895c0800000000000000
+      internalID: -4208463994325648693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeatPotion_9
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 650
+        width: 107
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203c0ed7d6026c640800000000000000
+      internalID: 5099799282679071490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeatPotion_10
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 650
+        width: 107
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f99cf42dacd5f820800000000000000
+      internalID: 2951507767019215347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeatPotion_11
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 650
+        width: 109
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6328ebf3f0eaf0f80800000000000000
+      internalID: -8138094621118004682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeatPotion_12
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 650
+        width: 109
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20bdcccb42da3d60800000000000000
+      internalID: 7870834521783775276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeatPotion_13
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 520
+        width: 109
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3af9c75f6a7c5200800000000000000
+      internalID: 170145504566049341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeatPotion_14
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 520
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c5dd03811fd6dd0800000000000000
+      internalID: -2491069932664693712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeatPotion_15
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 520
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742dc79b13ae68920800000000000000
+      internalID: 2992336501720535623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeatPotion_16
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 555
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4a5c77a51989f30800000000000000
+      internalID: 4582572438592005291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeatPotion_17
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 527
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47927963fea72e3a0800000000000000
+      internalID: -6637607732959041164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeatPotion_18
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 555
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63a79f2c4b5c4a80800000000000000
+      internalID: -8481303615471377554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeatPotion_19
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 527
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bffe82e5b5329ba70800000000000000
+      internalID: 8843138218647416827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeatPotion_20
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 556
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1416e8f12bc752da0800000000000000
+      internalID: -5970228626534276799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeatPotion_21
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 527
+        width: 63
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68a0e9feb3a83e80800000000000000
+      internalID: -8198623080996624275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeatPotion_22
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 526
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc939393e49470430800000000000000
+      internalID: 3749045815125555659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeatPotion_23
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 541
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6c5bd3cfeec07c0800000000000000
+      internalID: -4103642393306872065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeatPotion_24
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 542
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e26e73e611032330800000000000000
+      internalID: 3684790117936816864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeatPotion_25
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 412
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828166e1dfeb8bfd0800000000000000
+      internalID: -2325899213190850520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeatPotion_26
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 414
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d42b7d25e1b8a400800000000000000
+      internalID: 335713770107774168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeatPotion_27
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 417
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e1353c234b2add0800000000000000
+      internalID: -2476218714981982627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeatPotion_28
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 416
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f352e4479703dad00800000000000000
+      internalID: 985497191664461119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeatPotion_29
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 415
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee9e010297935790800000000000000
+      internalID: -7542518297576694047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeatPotion_30
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 416
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33db83e52b079f4b0800000000000000
+      internalID: -5406165966294303437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeatPotion_31
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 416
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b840fc8fb03e0c60800000000000000
+      internalID: 7786214405031610544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeatPotion_32
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 286
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd05dda220bb1210800000000000000
+      internalID: 1304830180045688311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeatPotion_33
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 286
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2ec096f9646e530800000000000000
+      internalID: 3883869379129828002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeatPotion_34
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 286
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c98d5fb5e619a440800000000000000
+      internalID: 4947510841657100740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeatPotion_35
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 286
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116cb41dfb337af60800000000000000
+      internalID: 8045456158263854609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeatPotion_36
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 286
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7426bb3a86ca753f0800000000000000
+      internalID: -912070834095693241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeatPotion_37
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 286
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406de65bd94348ad0800000000000000
+      internalID: -2700976024557005308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeatPotion_38
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 285
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ba85db6cd932550800000000000000
+      internalID: 6134920594314537752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeatPotion_39
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 154
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689b9651bbfeaed70800000000000000
+      internalID: 9073327986088458630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeatPotion_40
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 165
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79e67dd7f1bc6030800000000000000
+      internalID: 3489359489435887997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeatPotion_41
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 167
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fa342cadbf99d40800000000000000
+      internalID: 5591777329337839490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeatPotion_42
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 168
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9743458c5742e7b0800000000000000
+      internalID: -5196512557333788773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeatPotion_43
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 172
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ca6ccbf94ab2cc0800000000000000
+      internalID: -3734710459999802271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeatPotion_44
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 174
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82fb16bbcc5e9b870800000000000000
+      internalID: 8699236822722658088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeatPotion_45
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 180
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddeb9b94801f5f120800000000000000
+      internalID: 2447126990444674781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeatPotion_46
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 179
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c80241a4d115a30800000000000000
+      internalID: 4202172131315846200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeatPotion_47
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 57
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362983b8078d6eb60800000000000000
+      internalID: 7775139784585417315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeatPotion_48
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 60
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c881dbc7587efd0800000000000000
+      internalID: -2312733112836518786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeatPotion_49
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 24
+        width: 126
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea11d924dffae630800000000000000
+      internalID: 3957256509298121446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HeatPotion_0: -406140988442981577
+      HeatPotion_1: -7657094459173022355
+      HeatPotion_10: 2951507767019215347
+      HeatPotion_11: -8138094621118004682
+      HeatPotion_12: 7870834521783775276
+      HeatPotion_13: 170145504566049341
+      HeatPotion_14: -2491069932664693712
+      HeatPotion_15: 2992336501720535623
+      HeatPotion_16: 4582572438592005291
+      HeatPotion_17: -6637607732959041164
+      HeatPotion_18: -8481303615471377554
+      HeatPotion_19: 8843138218647416827
+      HeatPotion_2: 3952761002587401185
+      HeatPotion_20: -5970228626534276799
+      HeatPotion_21: -8198623080996624275
+      HeatPotion_22: 3749045815125555659
+      HeatPotion_23: -4103642393306872065
+      HeatPotion_24: 3684790117936816864
+      HeatPotion_25: -2325899213190850520
+      HeatPotion_26: 335713770107774168
+      HeatPotion_27: -2476218714981982627
+      HeatPotion_28: 985497191664461119
+      HeatPotion_29: -7542518297576694047
+      HeatPotion_3: -3937732798572624542
+      HeatPotion_30: -5406165966294303437
+      HeatPotion_31: 7786214405031610544
+      HeatPotion_32: 1304830180045688311
+      HeatPotion_33: 3883869379129828002
+      HeatPotion_34: 4947510841657100740
+      HeatPotion_35: 8045456158263854609
+      HeatPotion_36: -912070834095693241
+      HeatPotion_37: -2700976024557005308
+      HeatPotion_38: 6134920594314537752
+      HeatPotion_39: 9073327986088458630
+      HeatPotion_4: -455199903900039635
+      HeatPotion_40: 3489359489435887997
+      HeatPotion_41: 5591777329337839490
+      HeatPotion_42: -5196512557333788773
+      HeatPotion_43: -3734710459999802271
+      HeatPotion_44: 8699236822722658088
+      HeatPotion_45: 2447126990444674781
+      HeatPotion_46: 4202172131315846200
+      HeatPotion_47: 7775139784585417315
+      HeatPotion_48: -2312733112836518786
+      HeatPotion_49: 3957256509298121446
+      HeatPotion_5: 4026960587021087990
+      HeatPotion_6: 2833542439179378203
+      HeatPotion_7: 1781177865589821371
+      HeatPotion_8: -4208463994325648693
+      HeatPotion_9: 5099799282679071490
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

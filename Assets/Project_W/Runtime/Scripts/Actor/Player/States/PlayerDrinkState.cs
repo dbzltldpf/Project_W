@@ -16,7 +16,7 @@
 
         public void Exit()
         {
-            player.animator.SetBool("isDrink", false);
+            //player.animator.SetBool("isDrink", false);
         }
 
         public void FixedUpdate()

@@ -10,7 +10,7 @@ namespace S
     {
         public void Interact(PlayerController player, IInteractable target)
         {
-            player.ChangeState(player.state.Talk);
+            player.ChangeState(player.State.Talk);
             target.Interact();
         }
     }
@@ -18,7 +18,7 @@ namespace S
     {
         public void Interact(PlayerController player, IInteractable target)
         {
-            player.ChangeState(player.state.Gather);
+            player.ChangeState(player.State.Gather);
             target.Interact();
         }
     }
@@ -26,7 +26,7 @@ namespace S
     {
         public void Interact(PlayerController player, IInteractable target)
         {
-            player.ChangeState(player.state.Draw);
+            player.ChangeState(player.State.Draw);
             target.Interact();
         }
     }

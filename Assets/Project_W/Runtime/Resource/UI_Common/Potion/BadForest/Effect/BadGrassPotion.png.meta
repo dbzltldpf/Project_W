@@ -1,0 +1,1157 @@
+fileFormatVersion: 2
+guid: 1dd89808a1b4c1940bd4005e863db76f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3125590793019154842
+    second: BadGrassPotion_0
+  - first:
+      213: 1847896381053695364
+    second: BadGrassPotion_1
+  - first:
+      213: 1446433455027836165
+    second: BadGrassPotion_2
+  - first:
+      213: 5662401476546306072
+    second: BadGrassPotion_3
+  - first:
+      213: 7020524535357841461
+    second: BadGrassPotion_4
+  - first:
+      213: 7886995754889429962
+    second: BadGrassPotion_5
+  - first:
+      213: 1503840432569802522
+    second: BadGrassPotion_6
+  - first:
+      213: 8182347437296765136
+    second: BadGrassPotion_7
+  - first:
+      213: -9020221158506847304
+    second: BadGrassPotion_8
+  - first:
+      213: -5590082406130236911
+    second: BadGrassPotion_9
+  - first:
+      213: -2837032671345487831
+    second: BadGrassPotion_10
+  - first:
+      213: -4946200140209912123
+    second: BadGrassPotion_11
+  - first:
+      213: -7696161956718266527
+    second: BadGrassPotion_12
+  - first:
+      213: 1155724355922480061
+    second: BadGrassPotion_13
+  - first:
+      213: -8410645100807290771
+    second: BadGrassPotion_14
+  - first:
+      213: -8840495528038180890
+    second: BadGrassPotion_15
+  - first:
+      213: 3591679094426248675
+    second: BadGrassPotion_16
+  - first:
+      213: 9140319861653988310
+    second: BadGrassPotion_17
+  - first:
+      213: -8208095642333302307
+    second: BadGrassPotion_18
+  - first:
+      213: 5701157852517512562
+    second: BadGrassPotion_19
+  - first:
+      213: 7558054025115309481
+    second: BadGrassPotion_20
+  - first:
+      213: -605897906329867249
+    second: BadGrassPotion_21
+  - first:
+      213: -5110986449406978792
+    second: BadGrassPotion_22
+  - first:
+      213: 7585363562644166932
+    second: BadGrassPotion_23
+  - first:
+      213: 6004735821550062288
+    second: BadGrassPotion_24
+  - first:
+      213: -7942097652173241766
+    second: BadGrassPotion_25
+  - first:
+      213: 7849138988315974497
+    second: BadGrassPotion_26
+  - first:
+      213: 6969625497321667703
+    second: BadGrassPotion_27
+  - first:
+      213: 2513178436798946282
+    second: BadGrassPotion_28
+  - first:
+      213: 47706144176112983
+    second: BadGrassPotion_29
+  - first:
+      213: 3697587394081390413
+    second: BadGrassPotion_30
+  - first:
+      213: -2414460154669215774
+    second: BadGrassPotion_31
+  - first:
+      213: 5418013342726233874
+    second: BadGrassPotion_32
+  - first:
+      213: 9097486811000847372
+    second: BadGrassPotion_33
+  - first:
+      213: 4650129219518280212
+    second: BadGrassPotion_34
+  - first:
+      213: -5633742194078416822
+    second: BadGrassPotion_35
+  - first:
+      213: -4583834416502237255
+    second: BadGrassPotion_36
+  - first:
+      213: -5810610214591489533
+    second: BadGrassPotion_37
+  - first:
+      213: 1888115603603430841
+    second: BadGrassPotion_38
+  - first:
+      213: -5253969948264124307
+    second: BadGrassPotion_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BadGrassPotion_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 229
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e9cdcdbbbaf94d0800000000000000
+      internalID: -3125590793019154842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadGrassPotion_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 229
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4857f6ec7fb05a910800000000000000
+      internalID: 1847896381053695364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadGrassPotion_2
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 229
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505dc265093c21410800000000000000
+      internalID: 1446433455027836165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadGrassPotion_3
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 224
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810a0396424e49e40800000000000000
+      internalID: 5662401476546306072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadGrassPotion_4
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 123
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5302bea5ed9ed6160800000000000000
+      internalID: 7020524535357841461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadGrassPotion_5
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 162
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3c23b1adc347d60800000000000000
+      internalID: 7886995754889429962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadGrassPotion_6
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 163
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f513ed7e6bed410800000000000000
+      internalID: 1503840432569802522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadGrassPotion_7
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 156
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8c6ec64a98d8170800000000000000
+      internalID: 8182347437296765136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadGrassPotion_8
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3acb3c5acb1d280800000000000000
+      internalID: -9020221158506847304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadGrassPotion_9
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 162
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112427d4ba90c62b0800000000000000
+      internalID: -5590082406130236911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadGrassPotion_10
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 163
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920564011d5d0a8d0800000000000000
+      internalID: -2837032671345487831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadGrassPotion_11
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 156
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c60dc6bd219b5bb0800000000000000
+      internalID: -4946200140209912123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadGrassPotion_12
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 120
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167bee3f97db13590800000000000000
+      internalID: -7696161956718266527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadGrassPotion_13
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 164
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbbc60dad25f90010800000000000000
+      internalID: 1155724355922480061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadGrassPotion_14
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 119
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d608082a7d2674b80800000000000000
+      internalID: -8410645100807290771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadGrassPotion_15
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 152
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7dadcf720405580800000000000000
+      internalID: -8840495528038180890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadGrassPotion_16
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 146
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5297a5b1538d130800000000000000
+      internalID: 3591679094426248675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadGrassPotion_17
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 142
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d365579c70f8de70800000000000000
+      internalID: 9140319861653988310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadGrassPotion_18
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 142
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1ba4c608cf61e80800000000000000
+      internalID: -8208095642333302307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadGrassPotion_19
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 141
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2753cbf5cd49e1f40800000000000000
+      internalID: 5701157852517512562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadGrassPotion_20
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 130
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a59530771a93e860800000000000000
+      internalID: 7558054025115309481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadGrassPotion_21
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 121
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c2e0b701b6797f0800000000000000
+      internalID: -605897906329867249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadGrassPotion_22
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 122
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815134747e02219b0800000000000000
+      internalID: -5110986449406978792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadGrassPotion_23
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 68
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419d893a8ff944960800000000000000
+      internalID: 7585363562644166932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadGrassPotion_24
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 62
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da0e8d4a6b155350800000000000000
+      internalID: 6004735821550062288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadGrassPotion_25
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 28
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5200cea34008c190800000000000000
+      internalID: -7942097652173241766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadGrassPotion_26
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 64
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b1e37c25ebdec60800000000000000
+      internalID: 7849138988315974497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadGrassPotion_27
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 62
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77cfc51967519b060800000000000000
+      internalID: 6969625497321667703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadGrassPotion_28
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 61
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb929e097a90e220800000000000000
+      internalID: 2513178436798946282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadGrassPotion_29
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 50
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75588314c7c79a000800000000000000
+      internalID: 47706144176112983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadGrassPotion_30
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 33
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ffe2ee428705330800000000000000
+      internalID: 3697587394081390413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadGrassPotion_31
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 43
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef4b9c184d1e7ed0800000000000000
+      internalID: -2414460154669215774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadGrassPotion_32
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 23
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f1689ed66a03b40800000000000000
+      internalID: 5418013342726233874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadGrassPotion_33
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 44
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0cb186dd04c04e70800000000000000
+      internalID: 9097486811000847372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadGrassPotion_34
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 25
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4123d0143e3988040800000000000000
+      internalID: 4650129219518280212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadGrassPotion_35
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 38
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4083d5c25de0d1b0800000000000000
+      internalID: -5633742194078416822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadGrassPotion_36
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 23
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b79c2762e2f260c0800000000000000
+      internalID: -4583834416502237255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadGrassPotion_37
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 32
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a9407bbc09c5fa0800000000000000
+      internalID: -5810610214591489533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadGrassPotion_38
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 26
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd97a7432fe33a10800000000000000
+      internalID: 1888115603603430841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadGrassPotion_39
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 26
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60b3253b262617b0800000000000000
+      internalID: -5253969948264124307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BadGrassPotion_0: -3125590793019154842
+      BadGrassPotion_1: 1847896381053695364
+      BadGrassPotion_10: -2837032671345487831
+      BadGrassPotion_11: -4946200140209912123
+      BadGrassPotion_12: -7696161956718266527
+      BadGrassPotion_13: 1155724355922480061
+      BadGrassPotion_14: -8410645100807290771
+      BadGrassPotion_15: -8840495528038180890
+      BadGrassPotion_16: 3591679094426248675
+      BadGrassPotion_17: 9140319861653988310
+      BadGrassPotion_18: -8208095642333302307
+      BadGrassPotion_19: 5701157852517512562
+      BadGrassPotion_2: 1446433455027836165
+      BadGrassPotion_20: 7558054025115309481
+      BadGrassPotion_21: -605897906329867249
+      BadGrassPotion_22: -5110986449406978792
+      BadGrassPotion_23: 7585363562644166932
+      BadGrassPotion_24: 6004735821550062288
+      BadGrassPotion_25: -7942097652173241766
+      BadGrassPotion_26: 7849138988315974497
+      BadGrassPotion_27: 6969625497321667703
+      BadGrassPotion_28: 2513178436798946282
+      BadGrassPotion_29: 47706144176112983
+      BadGrassPotion_3: 5662401476546306072
+      BadGrassPotion_30: 3697587394081390413
+      BadGrassPotion_31: -2414460154669215774
+      BadGrassPotion_32: 5418013342726233874
+      BadGrassPotion_33: 9097486811000847372
+      BadGrassPotion_34: 4650129219518280212
+      BadGrassPotion_35: -5633742194078416822
+      BadGrassPotion_36: -4583834416502237255
+      BadGrassPotion_37: -5810610214591489533
+      BadGrassPotion_38: 1888115603603430841
+      BadGrassPotion_39: -5253969948264124307
+      BadGrassPotion_4: 7020524535357841461
+      BadGrassPotion_5: 7886995754889429962
+      BadGrassPotion_6: 1503840432569802522
+      BadGrassPotion_7: 8182347437296765136
+      BadGrassPotion_8: -9020221158506847304
+      BadGrassPotion_9: -5590082406130236911
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 89281a426823f3146b607a6d5bb13d9c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3620921693623853123
+    second: MSGStew_Pot_1_0
+  - first:
+      213: 1788090431139734379
+    second: MSGStew_Pot_1_1
+  - first:
+      213: 978479682854845758
+    second: MSGStew_Pot_1_2
+  - first:
+      213: 2737421232921788556
+    second: MSGStew_Pot_1_3
+  - first:
+      213: -2082979421451955548
+    second: MSGStew_Pot_1_4
+  - first:
+      213: -7140317863026703671
+    second: MSGStew_Pot_1_5
+  - first:
+      213: -4584646018108881319
+    second: MSGStew_Pot_1_6
+  - first:
+      213: 6166689451991941026
+    second: MSGStew_Pot_1_7
+  - first:
+      213: 8958383878749443150
+    second: MSGStew_Pot_1_8
+  - first:
+      213: -2579277979052568227
+    second: MSGStew_Pot_1_9
+  - first:
+      213: -4443681458964842452
+    second: MSGStew_Pot_1_10
+  - first:
+      213: -5517924917835609937
+    second: MSGStew_Pot_1_11
+  - first:
+      213: 4892334400112164171
+    second: MSGStew_Pot_1_12
+  - first:
+      213: -8570007228781513121
+    second: MSGStew_Pot_1_13
+  - first:
+      213: 8115161352730574982
+    second: MSGStew_Pot_1_14
+  - first:
+      213: -1267128574347948123
+    second: MSGStew_Pot_1_15
+  - first:
+      213: 8530848667698030841
+    second: MSGStew_Pot_1_16
+  - first:
+      213: 4695934976035971933
+    second: MSGStew_Pot_1_17
+  - first:
+      213: -389120237608356944
+    second: MSGStew_Pot_1_18
+  - first:
+      213: -401653266459973317
+    second: MSGStew_Pot_1_19
+  - first:
+      213: 8622325220741698041
+    second: MSGStew_Pot_1_20
+  - first:
+      213: 635946459272088018
+    second: MSGStew_Pot_1_21
+  - first:
+      213: 529682577225744507
+    second: MSGStew_Pot_1_22
+  - first:
+      213: 6739006629581909961
+    second: MSGStew_Pot_1_23
+  - first:
+      213: 5074216513878817073
+    second: MSGStew_Pot_1_24
+  - first:
+      213: -4843546675444052720
+    second: MSGStew_Pot_1_25
+  - first:
+      213: 8156522909811912316
+    second: MSGStew_Pot_1_26
+  - first:
+      213: 8036720053068614677
+    second: MSGStew_Pot_1_27
+  - first:
+      213: -4331783106775095379
+    second: MSGStew_Pot_1_28
+  - first:
+      213: 7733042374244979664
+    second: MSGStew_Pot_1_29
+  - first:
+      213: -4959484578887475126
+    second: MSGStew_Pot_1_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MSGStew_Pot_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 610
+        width: 104
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf5b0477e6efbdc0800000000000000
+      internalID: -3620921693623853123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSGStew_Pot_1_1
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 610
+        width: 104
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63eb5ef5c290d810800000000000000
+      internalID: 1788090431139734379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSGStew_Pot_1_2
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 610
+        width: 104
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3dff7c5612449d00800000000000000
+      internalID: 978479682854845758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSGStew_Pot_1_3
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 610
+        width: 104
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c804aec9b164df520800000000000000
+      internalID: 2737421232921788556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSGStew_Pot_1_4
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 610
+        width: 104
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a258e59045c713e0800000000000000
+      internalID: -2082979421451955548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSGStew_Pot_1_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 488
+        width: 104
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2caee0cbe78ec90800000000000000
+      internalID: -7140317863026703671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSGStew_Pot_1_6
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 488
+        width: 104
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95606bdacb01060c0800000000000000
+      internalID: -4584646018108881319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSGStew_Pot_1_7
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 488
+        width: 104
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2afb022526b749550800000000000000
+      internalID: 6166689451991941026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSGStew_Pot_1_8
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 488
+        width: 104
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4452769ca2925c70800000000000000
+      internalID: 8958383878749443150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSGStew_Pot_1_9
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 488
+        width: 104
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d519599f750943cd0800000000000000
+      internalID: -2579277979052568227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSGStew_Pot_1_10
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 488
+        width: 104
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c283967b14fd452c0800000000000000
+      internalID: -4443681458964842452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSGStew_Pot_1_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 366
+        width: 104
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8c12fb5846c63b0800000000000000
+      internalID: -5517924917835609937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSGStew_Pot_1_12
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 366
+        width: 104
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4dfb19573015e340800000000000000
+      internalID: 4892334400112164171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSGStew_Pot_1_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 366
+        width: 104
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56b2fdc4d7311980800000000000000
+      internalID: -8570007228781513121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSGStew_Pot_1_14
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 366
+        width: 104
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6800c7c1148de9070800000000000000
+      internalID: 8115161352730574982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSGStew_Pot_1_15
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 366
+        width: 104
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af4e3176414a6ee0800000000000000
+      internalID: -1267128574347948123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSGStew_Pot_1_16
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 366
+        width: 104
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f861c63aa9a36670800000000000000
+      internalID: 8530848667698030841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSGStew_Pot_1_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244
+        width: 104
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53e4f60bff4b2140800000000000000
+      internalID: 4695934976035971933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSGStew_Pot_1_18
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 244
+        width: 104
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3307e9431999af0800000000000000
+      internalID: -389120237608356944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSGStew_Pot_1_19
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 244
+        width: 104
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3927c17b7a0d6af0800000000000000
+      internalID: -401653266459973317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSGStew_Pot_1_20
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 244
+        width: 104
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f15330fa17a8a770800000000000000
+      internalID: 8622325220741698041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSGStew_Pot_1_21
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 244
+        width: 104
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d984117fe553d800800000000000000
+      internalID: 635946459272088018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSGStew_Pot_1_22
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 244
+        width: 104
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7001436f7fc95700800000000000000
+      internalID: 529682577225744507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSGStew_Pot_1_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 104
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf6b3723d2c58d50800000000000000
+      internalID: 6739006629581909961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSGStew_Pot_1_24
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 122
+        width: 104
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139fa27f80d3b6640800000000000000
+      internalID: 5074216513878817073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSGStew_Pot_1_25
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 122
+        width: 104
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d022df5f348ccb0800000000000000
+      internalID: -4843546675444052720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSGStew_Pot_1_26
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 122
+        width: 104
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7eaca11f5ac13170800000000000000
+      internalID: 8156522909811912316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSGStew_Pot_1_27
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 122
+        width: 104
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51cc962de4a288f60800000000000000
+      internalID: 8036720053068614677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSGStew_Pot_1_28
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 122
+        width: 104
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7e1a4173a62e3c0800000000000000
+      internalID: -4331783106775095379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSGStew_Pot_1_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 104
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d35ae56119415b60800000000000000
+      internalID: 7733042374244979664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSGStew_Pot_1_30
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 104
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40626e4d0f5c2bb0800000000000000
+      internalID: -4959484578887475126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 96177bf7d3d3d2843a0bb225599160d5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MSGStew_Pot_1_0: -3620921693623853123
+      MSGStew_Pot_1_1: 1788090431139734379
+      MSGStew_Pot_1_10: -4443681458964842452
+      MSGStew_Pot_1_11: -5517924917835609937
+      MSGStew_Pot_1_12: 4892334400112164171
+      MSGStew_Pot_1_13: -8570007228781513121
+      MSGStew_Pot_1_14: 8115161352730574982
+      MSGStew_Pot_1_15: -1267128574347948123
+      MSGStew_Pot_1_16: 8530848667698030841
+      MSGStew_Pot_1_17: 4695934976035971933
+      MSGStew_Pot_1_18: -389120237608356944
+      MSGStew_Pot_1_19: -401653266459973317
+      MSGStew_Pot_1_2: 978479682854845758
+      MSGStew_Pot_1_20: 8622325220741698041
+      MSGStew_Pot_1_21: 635946459272088018
+      MSGStew_Pot_1_22: 529682577225744507
+      MSGStew_Pot_1_23: 6739006629581909961
+      MSGStew_Pot_1_24: 5074216513878817073
+      MSGStew_Pot_1_25: -4843546675444052720
+      MSGStew_Pot_1_26: 8156522909811912316
+      MSGStew_Pot_1_27: 8036720053068614677
+      MSGStew_Pot_1_28: -4331783106775095379
+      MSGStew_Pot_1_29: 7733042374244979664
+      MSGStew_Pot_1_3: 2737421232921788556
+      MSGStew_Pot_1_30: -4959484578887475126
+      MSGStew_Pot_1_4: -2082979421451955548
+      MSGStew_Pot_1_5: -7140317863026703671
+      MSGStew_Pot_1_6: -4584646018108881319
+      MSGStew_Pot_1_7: 6166689451991941026
+      MSGStew_Pot_1_8: 8958383878749443150
+      MSGStew_Pot_1_9: -2579277979052568227
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

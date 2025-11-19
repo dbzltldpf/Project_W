@@ -1,0 +1,1235 @@
+fileFormatVersion: 2
+guid: 7f6d0f810f61a044791030b229d4684a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2690143630063976415
+    second: BaseAnimation_Steam_0
+  - first:
+      213: 5218843792612877103
+    second: BaseAnimation_Steam_1
+  - first:
+      213: 1231039793416268289
+    second: BaseAnimation_Steam_2
+  - first:
+      213: -2769289232563083683
+    second: BaseAnimation_Steam_3
+  - first:
+      213: -5488067005854142575
+    second: BaseAnimation_Steam_4
+  - first:
+      213: 7214596904045593385
+    second: BaseAnimation_Steam_5
+  - first:
+      213: -5181062590353130575
+    second: BaseAnimation_Steam_6
+  - first:
+      213: 1099369184036435653
+    second: BaseAnimation_Steam_7
+  - first:
+      213: -8571002305252298471
+    second: BaseAnimation_Steam_8
+  - first:
+      213: -5079937180136220311
+    second: BaseAnimation_Steam_9
+  - first:
+      213: -3326022269250497035
+    second: BaseAnimation_Steam_10
+  - first:
+      213: -4727826621504037539
+    second: BaseAnimation_Steam_11
+  - first:
+      213: 2738425834403786659
+    second: BaseAnimation_Steam_12
+  - first:
+      213: -8831665074272953318
+    second: BaseAnimation_Steam_13
+  - first:
+      213: 5928108204995207438
+    second: BaseAnimation_Steam_14
+  - first:
+      213: -7156692479247645425
+    second: BaseAnimation_Steam_15
+  - first:
+      213: -8631447412549339542
+    second: BaseAnimation_Steam_16
+  - first:
+      213: 1646625845586747187
+    second: BaseAnimation_Steam_17
+  - first:
+      213: -1157733211287172354
+    second: BaseAnimation_Steam_18
+  - first:
+      213: 9075394485544464880
+    second: BaseAnimation_Steam_19
+  - first:
+      213: -3079682951016944915
+    second: BaseAnimation_Steam_20
+  - first:
+      213: -1382237312308502092
+    second: BaseAnimation_Steam_21
+  - first:
+      213: -6060305222036216134
+    second: BaseAnimation_Steam_22
+  - first:
+      213: -9047719414034652016
+    second: BaseAnimation_Steam_23
+  - first:
+      213: -5296964948161995016
+    second: BaseAnimation_Steam_24
+  - first:
+      213: -8516241609137290392
+    second: BaseAnimation_Steam_25
+  - first:
+      213: -1124491652032648669
+    second: BaseAnimation_Steam_26
+  - first:
+      213: -1503274984952097010
+    second: BaseAnimation_Steam_27
+  - first:
+      213: -9174229791466307328
+    second: BaseAnimation_Steam_28
+  - first:
+      213: 4185984525379372496
+    second: BaseAnimation_Steam_29
+  - first:
+      213: 7120917497282679800
+    second: BaseAnimation_Steam_30
+  - first:
+      213: 522836607714106717
+    second: BaseAnimation_Steam_31
+  - first:
+      213: -8944284004174279239
+    second: BaseAnimation_Steam_32
+  - first:
+      213: 262197973890986675
+    second: BaseAnimation_Steam_33
+  - first:
+      213: 1799132653338194763
+    second: BaseAnimation_Steam_34
+  - first:
+      213: -3706766190113199012
+    second: BaseAnimation_Steam_35
+  - first:
+      213: 2089803901770231943
+    second: BaseAnimation_Steam_36
+  - first:
+      213: 1923904278126688782
+    second: BaseAnimation_Steam_37
+  - first:
+      213: 7059610834747454935
+    second: BaseAnimation_Steam_38
+  - first:
+      213: -4090404872882655998
+    second: BaseAnimation_Steam_39
+  - first:
+      213: 8235148008734216583
+    second: BaseAnimation_Steam_40
+  - first:
+      213: 4389764843726032961
+    second: BaseAnimation_Steam_41
+  - first:
+      213: 6673762769109159243
+    second: BaseAnimation_Steam_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BaseAnimation_Steam_0
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 256
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf3eb8e06f455520800000000000000
+      internalID: 2690143630063976415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseAnimation_Steam_1
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 255
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2361fc57ce0d6840800000000000000
+      internalID: 5218843792612877103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseAnimation_Steam_2
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 256
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a62f67b28851110800000000000000
+      internalID: 1231039793416268289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseAnimation_Steam_3
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 253
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5663c48d128199d0800000000000000
+      internalID: -2769289232563083683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseAnimation_Steam_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 264
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fa58c922876d3b0800000000000000
+      internalID: -5488067005854142575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseAnimation_Steam_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 253
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923454fd8a56f1460800000000000000
+      internalID: 7214596904045593385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseAnimation_Steam_6
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 202
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bbbfe6460b2918b0800000000000000
+      internalID: -5181062590353130575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseAnimation_Steam_7
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 207
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6b08bb27eb14f00800000000000000
+      internalID: 1099369184036435653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseAnimation_Steam_8
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 206
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911f16280dead0980800000000000000
+      internalID: -8571002305252298471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseAnimation_Steam_9
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 205
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9695ea0ac007089b0800000000000000
+      internalID: -5079937180136220311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseAnimation_Steam_10
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 205
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5194e3e5897d1d0800000000000000
+      internalID: -3326022269250497035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseAnimation_Steam_11
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 204
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ddd91acb2636eb0800000000000000
+      internalID: -4727826621504037539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseAnimation_Steam_12
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 154
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3afe36f99c7d00620800000000000000
+      internalID: 2738425834403786659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseAnimation_Steam_13
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 154
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c9cb8386f9f6580800000000000000
+      internalID: -8831665074272953318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseAnimation_Steam_14
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 154
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0161d4010fd44250800000000000000
+      internalID: 5928108204995207438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseAnimation_Steam_15
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 181
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f050cbf9b125eac90800000000000000
+      internalID: -7156692479247645425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseAnimation_Steam_16
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 154
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6638854f40f63880800000000000000
+      internalID: -8631447412549339542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseAnimation_Steam_17
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 185
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33fdc2c7b7df9d610800000000000000
+      internalID: 1646625845586747187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseAnimation_Steam_18
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 155
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa4e8c37c7eeefe0800000000000000
+      internalID: -1157733211287172354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseAnimation_Steam_19
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 156
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1ba6b733742fd70800000000000000
+      internalID: 9075394485544464880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseAnimation_Steam_20
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 106
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deaeec34ca4c245d0800000000000000
+      internalID: -3079682951016944915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseAnimation_Steam_21
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 106
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1af84ec7e41dce0800000000000000
+      internalID: -1382237312308502092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseAnimation_Steam_22
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 106
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6261a628875eba0800000000000000
+      internalID: -6060305222036216134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseAnimation_Steam_23
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 106
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0942f0b312b007280800000000000000
+      internalID: -9047719414034652016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseAnimation_Steam_24
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 106
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fedb15b1766d76b0800000000000000
+      internalID: -5296964948161995016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseAnimation_Steam_25
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 106
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86388f1a06b30d980800000000000000
+      internalID: -8516241609137290392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseAnimation_Steam_26
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 55
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32aa3bfdcc00560f0800000000000000
+      internalID: -1124491652032648669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseAnimation_Steam_27
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 55
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07133aad5b432be0800000000000000
+      internalID: -1503274984952097010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseAnimation_Steam_28
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 83
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00148df9c969ea080800000000000000
+      internalID: -9174229791466307328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseAnimation_Steam_29
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 84
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5058e5fba971a30800000000000000
+      internalID: 4185984525379372496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseAnimation_Steam_30
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 55
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3d56c4cb492d260800000000000000
+      internalID: 7120917497282679800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseAnimation_Steam_31
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 84
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d9e56ef1d714700800000000000000
+      internalID: 522836607714106717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseAnimation_Steam_32
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 55
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdcbf846158fd380800000000000000
+      internalID: -8944284004174279239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseAnimation_Steam_33
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 55
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b279960ba383a300800000000000000
+      internalID: 262197973890986675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseAnimation_Steam_34
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b437702bd9dc7f810800000000000000
+      internalID: 1799132653338194763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseAnimation_Steam_35
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 55
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5cefd41acbee8cc0800000000000000
+      internalID: -3706766190113199012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseAnimation_Steam_36
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 87
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7807d3f8399700d10800000000000000
+      internalID: 2089803901770231943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseAnimation_Steam_37
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 5
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a78976fb413ba10800000000000000
+      internalID: 1923904278126688782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseAnimation_Steam_38
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 5
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5fe9996a6c8f160800000000000000
+      internalID: 7059610834747454935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseAnimation_Steam_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 34
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d6d44a076fb37c0800000000000000
+      internalID: -4090404872882655998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseAnimation_Steam_40
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 5
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7815e557b7f194270800000000000000
+      internalID: 8235148008734216583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseAnimation_Steam_41
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 5
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140d9cd0ed39bec30800000000000000
+      internalID: 4389764843726032961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseAnimation_Steam_42
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 33
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d8aff11e7fd9c50800000000000000
+      internalID: 6673762769109159243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BaseAnimation_Steam_0: 2690143630063976415
+      BaseAnimation_Steam_1: 5218843792612877103
+      BaseAnimation_Steam_10: -3326022269250497035
+      BaseAnimation_Steam_11: -4727826621504037539
+      BaseAnimation_Steam_12: 2738425834403786659
+      BaseAnimation_Steam_13: -8831665074272953318
+      BaseAnimation_Steam_14: 5928108204995207438
+      BaseAnimation_Steam_15: -7156692479247645425
+      BaseAnimation_Steam_16: -8631447412549339542
+      BaseAnimation_Steam_17: 1646625845586747187
+      BaseAnimation_Steam_18: -1157733211287172354
+      BaseAnimation_Steam_19: 9075394485544464880
+      BaseAnimation_Steam_2: 1231039793416268289
+      BaseAnimation_Steam_20: -3079682951016944915
+      BaseAnimation_Steam_21: -1382237312308502092
+      BaseAnimation_Steam_22: -6060305222036216134
+      BaseAnimation_Steam_23: -9047719414034652016
+      BaseAnimation_Steam_24: -5296964948161995016
+      BaseAnimation_Steam_25: -8516241609137290392
+      BaseAnimation_Steam_26: -1124491652032648669
+      BaseAnimation_Steam_27: -1503274984952097010
+      BaseAnimation_Steam_28: -9174229791466307328
+      BaseAnimation_Steam_29: 4185984525379372496
+      BaseAnimation_Steam_3: -2769289232563083683
+      BaseAnimation_Steam_30: 7120917497282679800
+      BaseAnimation_Steam_31: 522836607714106717
+      BaseAnimation_Steam_32: -8944284004174279239
+      BaseAnimation_Steam_33: 262197973890986675
+      BaseAnimation_Steam_34: 1799132653338194763
+      BaseAnimation_Steam_35: -3706766190113199012
+      BaseAnimation_Steam_36: 2089803901770231943
+      BaseAnimation_Steam_37: 1923904278126688782
+      BaseAnimation_Steam_38: 7059610834747454935
+      BaseAnimation_Steam_39: -4090404872882655998
+      BaseAnimation_Steam_4: -5488067005854142575
+      BaseAnimation_Steam_40: 8235148008734216583
+      BaseAnimation_Steam_41: 4389764843726032961
+      BaseAnimation_Steam_42: 6673762769109159243
+      BaseAnimation_Steam_5: 7214596904045593385
+      BaseAnimation_Steam_6: -5181062590353130575
+      BaseAnimation_Steam_7: 1099369184036435653
+      BaseAnimation_Steam_8: -8571002305252298471
+      BaseAnimation_Steam_9: -5079937180136220311
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
